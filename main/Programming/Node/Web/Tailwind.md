@@ -1,2 +1,0 @@
-# Tailwind - прогрессивный css framework
-
