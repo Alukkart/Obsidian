@@ -5,7 +5,7 @@
 Win:
 -  Скачать установщик с ОФ сайта
 Linux:
-- `docker` - консольный докер
+- `docker` - докер CLI
 - `docker-compose` - дополнение к `docker`, необходимое для работы с docker-compose.yml
 - `docker-desktop`(AUR) - GUI версия docker ставится по вех пакета `docker`
 
@@ -13,3 +13,4 @@ Linux:
 - у файла нет расширения
 
 ## docker-compose.yml:
+-  ~Дальше бога нет~
