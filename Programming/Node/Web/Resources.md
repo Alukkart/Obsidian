@@ -1,3 +1,8 @@
+---
+tags:
+  - nodejs
+  - nextjs
+---
 Обучение:
 - [MyJavaScript](https://my-js.org/) - Обширная шпаргалка по все возможным технологиям js
 -  [Roadmaps](https://roadmap.sh) -  Дорожные карты на все возможные IT направления

@@ -1,3 +1,7 @@
+---
+tags:
+  - nodejs
+---
 # Shadcn - либа ui компонентов
 [документация](https://ui.shadcn.com/)
 # Bcrypt - хеширование данных
