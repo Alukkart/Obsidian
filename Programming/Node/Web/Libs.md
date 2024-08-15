@@ -4,7 +4,6 @@ tags:
 ---
 # Shadcn - либа ui компонентов
 [документация](https://ui.shadcn.com/)
-
 # React-hot-toast - всплывающие уведомления
 https://react-hot-toast.com/
 `npm install react-hot-toast`
