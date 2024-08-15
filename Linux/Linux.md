@@ -3,3 +3,4 @@
 - [[Manjaro]]
 - [[Arch]]
 - [[Nobara]]
+- [[Endeavouros]]

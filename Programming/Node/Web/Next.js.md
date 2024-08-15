@@ -7,6 +7,5 @@ tags:
 ## Технологии:
 - js framework - [[main/Programming/Node/Web/React]]
 - css framework - [[main/Programming/Node/Web/Tailwind]]
-- [[Quick start]]
 ## Установка:
 - `npx nextjs-create@latest`
