@@ -1,3 +1,4 @@
+## Лучше чем несколько if
 ```ts
 switch(expression) { 
    case constant-expression1: { 
@@ -13,8 +14,4 @@ switch(expression) {
       break; 
    } 
 }
-```
-
-```javascript
-console.log(foobar.find((obj) => obj.value === 123));
 ```
