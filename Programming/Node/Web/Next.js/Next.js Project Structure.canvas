@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"74cb03228ba42015","type":"text","text":"### @types ./types\n","x":0,"y":-600,"width":250,"height":140,"color":"5"},
+		{"id":"c2ff1156b85e7b5e","type":"text","text":"## App ./app\n\n:luc_folder: api - api routes folder\n:dev_css3_plain: globals.css\n:dev_react_original: layout.tsx\n","x":0,"y":-130,"width":250,"height":190,"color":"1"},
+		{"id":"82ee4f053f8d8c94","type":"text","text":"### Prisma ./prisma","x":0,"y":112,"width":250,"height":60,"color":"6"},
+		{"id":"5346c188247d29ee","type":"text","text":"### Public ./public","x":0,"y":220,"width":250,"height":60,"color":"4"},
+		{"id":"945d72ab47763e26","type":"text","text":"### Shared ./shared","x":0,"y":360,"width":250,"height":60,"color":"2"},
+		{"id":"de01fdf2b8329de8","type":"text","text":"## Root project dir ./\n:dev_nextjs_original: .next - next.js service folder\n:obs_folder: **@types** types/interfaces folder\n:obs_folder: <span style=\"color:#e56c67\">app</span> - next.js app router folder\n:obs_folder: <span style=\"color:#cba8f4\">prisma</span> - prisma service folder\n:obs_folder: <span style=\"color:#a8e2a4\">public</span> - static folder analog\n:obs_folder: <span style=\"color:#d59d7e\">shared</span> - general forlder (comps, hooks ...etc)\n:luc_sliders: .env \n:dev_typescript_plain: next-env.d.ts\n:dev_nextjs_original: next.config.mjs\n:dev_javascript_original: postcss.config.mjs\n:dev_tailwindcss_plain: tailwind.config.ts\n:dev_typescript_plain: tsconfig.json\n\n","x":-680,"y":-310,"width":460,"height":420}
+	],
+	"edges":[
+		{"id":"a9b88ca31d2e8760","fromNode":"de01fdf2b8329de8","fromSide":"right","toNode":"74cb03228ba42015","toSide":"left","color":"5"},
+		{"id":"11cb35f3c8518cc9","fromNode":"de01fdf2b8329de8","fromSide":"right","toNode":"c2ff1156b85e7b5e","toSide":"left","color":"1"},
+		{"id":"d45877358e22cad9","fromNode":"de01fdf2b8329de8","fromSide":"right","toNode":"82ee4f053f8d8c94","toSide":"left","color":"6"},
+		{"id":"cbee0fc594568249","fromNode":"de01fdf2b8329de8","fromSide":"right","toNode":"5346c188247d29ee","toSide":"left","color":"4"},
+		{"id":"0e945a6d6b1e748d","fromNode":"de01fdf2b8329de8","fromSide":"right","toNode":"945d72ab47763e26","toSide":"left","color":"2"}
+	]
+}

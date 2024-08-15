@@ -9,3 +9,5 @@ tags:
 - css framework - [[main/Programming/Node/Web/Tailwind]]
 ## Установка:
 - `npx nextjs-create@latest`
+## Структура проекта:
+- [[Next.js Project Structure.canvas|Next.js Project Structure]]
