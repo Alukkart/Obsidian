@@ -14,3 +14,7 @@ switch(expression) {
    } 
 }
 ```
+
+```javascript
+console.log(foobar.find((obj) => obj.value === 123));
+```
