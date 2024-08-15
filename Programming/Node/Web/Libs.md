@@ -4,6 +4,10 @@ tags:
 ---
 # Shadcn - либа ui компонентов
 [документация](https://ui.shadcn.com/)
+
+# React-hot-toast - всплывающие уведомления
+https://react-hot-toast.com/
+`npm install react-hot-toast`
 # Bcrypt - хеширование данных
 https://www.npmjs.com/package/bcrypt
 `npm i bcryp @types/bcrypt` 
