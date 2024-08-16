@@ -1,3 +1,2 @@
-- [[Web]]
 - [[Prisma]]
 - [[Typescript]]

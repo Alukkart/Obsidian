@@ -1,5 +1,0 @@
----
-tags:
-  - nodejs
----
-**Express** - самый простой backend [[main/Programming/Node/Web/Словарь терминов#^5643f9|Фреймворк]] для node.js
