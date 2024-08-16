@@ -5,3 +5,4 @@
 - [[Tailwind]]
 - [[Libs]]
 - [[Next.js]]
+- [[SEO]]
