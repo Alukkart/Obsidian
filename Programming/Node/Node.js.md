@@ -1,1 +1,3 @@
-- [[Libs]]
+- [[Web]]
+- [[Prisma]]
+- [[Typescript]]

@@ -6,3 +6,4 @@
 - [[Libs]]
 - [[Next.js]]
 - [[SEO]]
+- [[Resources]]
