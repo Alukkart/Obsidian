@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md"
+                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7278982922154284",
+  "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Programming/Web/Node/Typescript/Data types/Strings/String.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Templates/Data type template.md",
     "Templates/Method template.md",
     "Templates",
