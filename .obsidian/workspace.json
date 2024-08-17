@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Template.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "cf3e18f5b01fd71e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,8 +227,9 @@
   },
   "active": "3ad5474323b1b5db",
   "lastOpenFiles": [
+    "Pasted image 20240817044710.png",
+    "Template.md",
     "Programming/Web/SEO.md",
-    "Untitled.md",
     "Programming/Web/Resources.md",
     "Programming/Web/Libs.md",
     "Linux/Дистрибутивы.md",
@@ -246,7 +256,6 @@
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Фреймворки/Фуллстек/Electron.md",
     "Programming/Web/Фреймворки/Бекэнд/Бекенд фреймворки.md",
-    "Programming/Web/Фреймворки/Бекэнд/Express.md",
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "Programming/Web/Фреймворки/Фуллстек",
