@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef9dad8a8115af93",
+            "id": "545970316e46df62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "545970316e46df62",
+            "id": "a997032f73bce0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
+                "file": "Templates/Data type template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32701784296a89d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6382ae98aa285e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61e4672c757d03dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Method template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Method template.md"
+              }
             }
           },
           {
@@ -142,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Method template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Method template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +251,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "61e4672c757d03dd",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+    "Programming/Web/Node/Typescript/Data types/Strings/String.md",
+    "Templates/Data type template.md",
+    "Templates/Method template.md",
+    "Templates",
+    "Programming/ПО/VC/Расширения.md",
+    "ToString.md",
+    "Programming/Web/Node/Typescript/Data types/Strings",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "ToString.md",
     "Programming/Web/Фреймворки/Фуллстек/Electron.md",
     "Programming/Web/Libs.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
@@ -225,7 +275,6 @@
     "Programming/Web/SEO.md",
     "README.md",
     "Untitled.md",
-    "Untitled",
     "Programming/Python/Data Types.md",
     "Programming/Python/Python.md",
     "Template.md",
@@ -236,18 +285,12 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Find.md",
     "Programming/Web/Node/Typescript/Data types/Arrays",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "Programming/Web/Фреймворки/Фуллстек",
     "Programming/Web/Фреймворки/Бекэнд",
-    "Programming/Web/Фреймворки/JS",
     "Cache/Pasted image 20240805175715.png",
     "Cache/Pasted image 20240805073944.png",
     "Cache/Pasted image 20240805073823.png",
