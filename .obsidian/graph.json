@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Programming/Web/Node/Typescript  ",
+      "color": {
+        "a": 1,
+        "rgb": 4094146
+      }
+    },
+    {
+      "query": "path:Programming/Web/Node/Prisma  ",
+      "color": {
+        "a": 1,
+        "rgb": 8084184
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16113664
+      }
+    },
+    {
+      "query": "path:Programming/Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.463541666666667,
+  "repelStrength": 10.5208333333333,
+  "linkStrength": 1,
+  "linkDistance": 108,
+  "scale": 0.30699328502781265,
+  "close": true
+}
