@@ -5,7 +5,7 @@ let a:type[] = []
 # Свойства:
 - [[Length]]
 # Методы:
-- [[Find]]
+- [[Find*]]
 - [[Splice]]
 - [[Shift]]
 - [[Pop]]

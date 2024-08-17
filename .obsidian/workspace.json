@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7278982922154284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Templates.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md"
+              }
             }
           },
           {
@@ -130,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,20 +187,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "32701784296a89d6",
   "lastOpenFiles": [
-    "Templates/Templates.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
-    "Programming/Web/Node/Typescript/Data types/Strings/String.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Templates/Data type template.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Includes.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
     "Templates/Method template.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Find*.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
+    "Programming/Web/Node/Typescript/Data types/Strings/EndsWith.md",
+    "Programming/Web/Node/Typescript/Data types/Strings/Repeat.md",
+    "Programming/Web/Node/Typescript/Data types/Strings/String.md",
+    "Templates/Data type template.md",
+    "Templates/Templates.md",
     "Templates",
     "Programming/ПО/VC/Расширения.md",
     "ToString.md",
     "Programming/Web/Node/Typescript/Data types/Strings",
-    "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
     "Programming/Web/Фреймворки/Фуллстек/Electron.md",
     "Programming/Web/Libs.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
@@ -220,17 +220,7 @@
     "ra.zip",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Web/SEO.md",
-    "README.md",
-    "Untitled.md",
-    "Programming/Python/Data Types.md",
-    "Programming/Python/Python.md",
-    "Template.md",
     "Pasted image 20240817044710.png",
-    "Programming/Web/Resources.md",
-    "Linux/Дистрибутивы.md",
-    "main/Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
     "Programming/Web/Node/Typescript/Data types/Arrays",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
