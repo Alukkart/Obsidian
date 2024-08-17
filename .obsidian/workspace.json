@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
+                "file": "Programming/Web/Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md"
+                "file": "Programming/Web/Resources.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
+                "file": "Programming/Web/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
+                "file": "Programming/Web/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,16 +189,17 @@
   },
   "active": "32701784296a89d6",
   "lastOpenFiles": [
+    "Programming/Web/Libs.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Includes.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
     "Templates/Method template.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Find*.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
@@ -212,7 +213,6 @@
     "ToString.md",
     "Programming/Web/Node/Typescript/Data types/Strings",
     "Programming/Web/Фреймворки/Фуллстек/Electron.md",
-    "Programming/Web/Libs.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "dev.zip",
