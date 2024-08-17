@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IcDevCss3Plain",
-      "IcDevNextjsOriginal",
-      "LiAlbum",
-      "LiAlignCenterHorizontal",
-      "IcDevElectronOriginal"
+      "🌱",
+      "LiPyramid",
+      "LiBraces",
+      "LiBrackets",
+      "LiGlobe2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,7 +18,7 @@
       "top": 0,
       "right": 4,
       "bottom": 0,
-      "left": -21
+      "left": 0
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
@@ -39,5 +39,25 @@
     "iconColor": "#d52a2a"
   },
   "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas": "IcDevNextjsOriginal",
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md": "IcDevNextjsOriginal"
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md": "IcDevNextjsOriginal",
+  "Programming/Web/Фреймворки/CSS/Tailwind.md": "IcDevTailwindcssPlain",
+  "Programming/Web/Фреймворки/CSS/Css фреймворки.md": "IcDevCss3Plain",
+  "Programming/Web/Фреймворки/Бекэнд/Express.md": "IcDevExpressOriginal",
+  "Programming/Web/Фреймворки/JS/React.md": "IcDevReactOriginal",
+  "Programming/Web/Фреймворки/JS/React native.md": "IcDevReactOriginal",
+  "Linux": "IcDevLinuxPlain",
+  "Programming/Web/Node/Typescript/Typescript.md": "IcDevTypescriptPlain",
+  "Programming/Web/Libs.md": "LiLibrary",
+  "Programming/Web/Resources.md": "LiAppWindow",
+  "Programming/Web/Node/Node.js.md": "IcDevNodejsPlain",
+  "Programming/ПО/Docker": "IcDevDockerPlainWordmark",
+  "Programming/ПО/VC": "IcDevVscodeOriginal",
+  "Programming/Web": "LiGlobe2",
+  "Programming/Python": "IcDevPythonOriginal",
+  "Programming/Web/Фреймворки/Бекэнд": "LiBrackets",
+  "Programming/Web/Фреймворки/Фуллстек": "LiBraces",
+  "Programming/Web/Node/Prisma": "LiPyramid",
+  "Programming/Web/Node/Prisma/Seed.md": "🌱",
+  "Programming/Web/Node/Prisma/Prisma.md": "LiPyramid",
+  "Programming/Web/Node/Prisma/Schema.md": "LiPyramid"
 }

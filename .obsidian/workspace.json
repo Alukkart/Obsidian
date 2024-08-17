@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad4e72741a9a9d80",
+        "id": "b89120375b46206d",
         "type": "tabs",
         "children": [
           {
-            "id": "903436e9f0d34520",
+            "id": "db8cd4873cb033e7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-                "viewState": {
-                  "x": -215,
-                  "y": -90,
-                  "zoom": -0.18203024984968202
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
+                "file": "Programming/Web/Фреймворки/Фуллстек/Electron.md"
               }
             }
           },
@@ -119,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+                "file": "Programming/Web/Фреймворки/Фуллстек/Electron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+                "file": "Programming/Web/Фреймворки/Фуллстек/Electron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "903436e9f0d34520",
+  "active": "dad1860c6cdc5cf5",
   "lastOpenFiles": [
-    "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
+    "Programming/Web/Libs.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "dev.zip",
     "Programming/Web/Web.md",
     "ra.zip",
@@ -201,7 +195,6 @@
     "Untitled",
     "Programming/Python/Data Types.md",
     "Programming/Python/Python.md",
-    "Programming/Web/Libs.md",
     "Template.md",
     "Pasted image 20240817044710.png",
     "Programming/Web/Resources.md",
