@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCode2"
+      "IcDevCss3Plain",
+      "IcDevNextjsOriginal",
+      "LiAlbum",
+      "LiAlignCenterHorizontal",
+      "IcDevElectronOriginal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -14,7 +18,7 @@
       "top": 0,
       "right": 4,
       "bottom": 0,
-      "left": 0
+      "left": -21
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
@@ -29,5 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Programming": "LiCode2"
+  "Programming": "LiCode2",
+  "Programming/Web/Фреймворки/Фуллстек/Electron.md": {
+    "iconName": "IcDevElectronOriginal",
+    "iconColor": "#d52a2a"
+  },
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas": "IcDevNextjsOriginal",
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md": "IcDevNextjsOriginal"
 }
