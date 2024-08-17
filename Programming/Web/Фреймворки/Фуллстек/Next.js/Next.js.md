@@ -5,8 +5,8 @@ tags:
 ---
 # next.js - fullstack node.js Фреймворк от versel
 ## Технологии:
-- js framework - [[React]]
-- css framework - [[Tailwind]]
+- js framework - React
+- css framework - Tailwind
 ## Установка:
 - `npx nextjs-create@latest`
 ## Структура проекта:

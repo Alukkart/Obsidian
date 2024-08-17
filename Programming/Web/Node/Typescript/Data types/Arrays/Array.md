@@ -2,7 +2,6 @@
 ```ts
 let a:type[] = []
 ```
-
 # Методы:
 - [[Find]]
 - [[Splice]]
@@ -12,7 +11,7 @@ let a:type[] = []
 - [[Unshift]]
 - [[ForEach]]
 - [[Length]]
-- [[Join]]
+- [[Join &&  toString]]
 - [[Some]]
 - [[Filter]]
 - [[Includes]]
