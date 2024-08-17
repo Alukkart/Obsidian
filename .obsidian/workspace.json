@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "545970316e46df62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a997032f73bce0d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Data type template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "32701784296a89d6",
             "type": "leaf",
             "state": {
@@ -47,7 +21,7 @@
             }
           },
           {
-            "id": "6382ae98aa285e7d",
+            "id": "7278982922154284",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,35 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61e4672c757d03dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Method template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "652a1a3f87a6f861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Method template.md"
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md"
               }
             }
           },
@@ -183,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Method template.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Method template.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,17 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61e4672c757d03dd",
+  "active": "7278982922154284",
   "lastOpenFiles": [
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Programming/Web/Node/Typescript/Data types/Strings/String.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Templates/Data type template.md",
     "Templates/Method template.md",
     "Templates",
     "Programming/ПО/VC/Расширения.md",
     "ToString.md",
     "Programming/Web/Node/Typescript/Data types/Strings",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
     "Programming/Web/Фреймворки/Фуллстек/Electron.md",

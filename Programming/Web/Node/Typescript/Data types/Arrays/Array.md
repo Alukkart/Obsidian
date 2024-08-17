@@ -2,6 +2,8 @@
 ```ts
 let a:type[] = []
 ```
+# Свойства:
+- [[Length]]
 # Методы:
 - [[Find]]
 - [[Splice]]
@@ -10,7 +12,6 @@ let a:type[] = []
 - [[Push]]
 - [[Unshift]]
 - [[ForEach]]
-- [[Length]]
 - [[Join && toString]]
 - [[Some]]
 - [[Filter]]
