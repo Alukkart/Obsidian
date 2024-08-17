@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+                "file": "Templates/Templates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,6 +93,7 @@
       {
         "id": "23f6f0f49cfc758a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "1acf5530efe24d7a",
@@ -110,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Strings/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +157,7 @@
       {
         "id": "192447c50af0b608",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "576be28795952012",
@@ -201,6 +199,7 @@
   },
   "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Templates/Templates.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
     "Programming/Web/Node/Typescript/Data types/Strings/String.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
@@ -232,7 +231,6 @@
     "main/Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",

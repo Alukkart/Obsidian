@@ -1,0 +1,2 @@
+- [[Data type template]]
+- [[Method template]]
