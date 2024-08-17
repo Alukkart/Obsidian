@@ -4,63 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3355113c7472dabf",
+        "id": "c70733d24b3fb47d",
         "type": "tabs",
         "children": [
           {
-            "id": "40fe78f92bdee135",
+            "id": "4c210fc43a4120f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "636ebfa26367b55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/SEO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad5474323b1b5db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92341230fe6604e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+                "viewState": {
+                  "x": -165.08291203235592,
+                  "y": -84.32760364004042,
+                  "zoom": -0.18203024984968202
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template.md"
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
               }
             }
           },
@@ -157,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template.md",
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,16 +187,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad5474323b1b5db",
+  "active": "4c210fc43a4120f2",
   "lastOpenFiles": [
-    "Pasted image 20240817044710.png",
-    "Template.md",
-    "Programming/Web/SEO.md",
-    "Programming/Web/Resources.md",
-    "Programming/Web/Libs.md",
-    "Linux/Дистрибутивы.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
+    "Programming/Web/SEO.md",
     "README.md",
+    "Untitled.md",
+    "Untitled",
+    "Programming/Python/Data Types.md",
+    "Programming/Python/Python.md",
+    "Programming/Web/Libs.md",
+    "Template.md",
+    "Pasted image 20240817044710.png",
+    "Programming/Web/Resources.md",
+    "Linux/Дистрибутивы.md",
     "main/Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
@@ -254,8 +220,6 @@
     "Programming/Web/Node/Typescript/Data types/Ts data types.md",
     "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
-    "Programming/Web/Фреймворки/Фуллстек/Electron.md",
-    "Programming/Web/Фреймворки/Бекэнд/Бекенд фреймворки.md",
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "Programming/Web/Фреймворки/Фуллстек",
@@ -263,7 +227,6 @@
     "Programming/Web/Фреймворки/JS",
     "Programming/Web/Фреймворки/CSS",
     "Programming/Web/Node/Typescript",
-    "Programming/Web/Node/Prisma",
     "Cache/Pasted image 20240805175715.png",
     "Cache/Pasted image 20240805073944.png",
     "Cache/Pasted image 20240805073823.png",
@@ -273,7 +236,6 @@
     "Cache/Pasted image 20240805073703.png",
     "Cache/Pasted image 20240805073609.png",
     "Cache/Pasted image 20240805073459.png",
-    "Cache/Pasted image 20240805073252.png",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }
