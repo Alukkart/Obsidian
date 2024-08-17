@@ -8,14 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db8cd4873cb033e7",
+            "id": "ef9dad8a8115af93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "545970316e46df62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "652a1a3f87a6f861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Electron.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Electron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Electron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad1860c6cdc5cf5",
+  "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+    "ToString.md",
+    "Programming/Web/Фреймворки/Фуллстек/Electron.md",
     "Programming/Web/Libs.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
@@ -206,12 +239,8 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Join &&  toString.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Find.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Programming/Web/Node/Typescript/Statements/Switch case.md",
     "Programming/Web/Node/Typescript/Data types/Arrays",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
