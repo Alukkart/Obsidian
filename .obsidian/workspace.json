@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c70733d24b3fb47d",
+        "id": "ad4e72741a9a9d80",
         "type": "tabs",
         "children": [
           {
-            "id": "4c210fc43a4120f2",
+            "id": "903436e9f0d34520",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "viewState": {
-                  "x": -165.08291203235592,
-                  "y": -84.32760364004042,
+                  "x": -215,
+                  "y": -90,
                   "zoom": -0.18203024984968202
                 }
               }
@@ -187,8 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c210fc43a4120f2",
+  "active": "903436e9f0d34520",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "dev.zip",
+    "Programming/Web/Web.md",
+    "ra.zip",
+    "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Web/SEO.md",
     "README.md",
@@ -213,20 +218,14 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/Find.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Typescript/Statements/Switch case.md",
-    "Programming/Web/Node/Typescript/Statements/Statements.md",
     "Programming/Web/Node/Typescript/Data types/Arrays",
-    "Programming/Web/Node/Typescript/Data types/Ts data types.md",
-    "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "Programming/Web/Фреймворки/Фуллстек",
     "Programming/Web/Фреймворки/Бекэнд",
     "Programming/Web/Фреймворки/JS",
-    "Programming/Web/Фреймворки/CSS",
-    "Programming/Web/Node/Typescript",
     "Cache/Pasted image 20240805175715.png",
     "Cache/Pasted image 20240805073944.png",
     "Cache/Pasted image 20240805073823.png",
