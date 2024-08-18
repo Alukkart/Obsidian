@@ -13,7 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ПО/VC/Пользовательские сниппеты.md",
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea704a28a22c9475",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+                "viewState": {
+                  "x": 358.1538828015581,
+                  "y": 111.0502928223076,
+                  "zoom": -0.9002038134306476
+                }
+              }
+            }
+          },
+          {
+            "id": "9be419055b96d462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -185,6 +213,21 @@
   },
   "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
+    "Cache/Pasted image 20240818073555.png",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+    "Cache/Pasted image 20240818073134.png",
+    "Cache/Pasted image 20240818073125.png",
+    "Cache/Pasted image 20240818073118.png",
+    "Cache/Pasted image 20240818073108.png",
+    "Cache/Pasted image 20240818073040.png",
+    "Cache/Pasted image 20240818073014.png",
+    "Cache/Pasted image 20240818073006.png",
+    "Cache/Pasted image 20240818072954.png",
+    "Cache/Pasted image 20240818072937.png",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Web/Фреймворки/JS/React.md",
@@ -207,31 +250,15 @@
     "Programming/Web/Node/Typescript/Data types/Strings/EndsWith.md",
     "Programming/Web/Node/Typescript/Data types/Strings/Repeat.md",
     "Programming/Web/Node/Typescript/Data types/Strings/String.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "dev.zip",
     "ra.zip",
-    "Pasted image 20240817044710.png",
     "Programming/Web/Node/Typescript/Data types/Arrays",
     "Programming/Web/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "Programming/Web/Фреймворки/Фуллстек",
-    "Cache/Pasted image 20240805175715.png",
-    "Cache/Pasted image 20240805073944.png",
-    "Cache/Pasted image 20240805073823.png",
-    "Cache/Pasted image 20240805073817.png",
-    "Cache/Pasted image 20240805073817 1.png",
-    "Cache/Pasted image 20240805073729.png",
-    "Cache/Pasted image 20240805073703.png",
-    "Cache/Pasted image 20240805073609.png",
-    "Cache/Pasted image 20240805073459.png",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }

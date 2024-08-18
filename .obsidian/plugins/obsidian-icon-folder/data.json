@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IcDevNextjsLine",
       "LiAppWindow",
       "LiCommand",
       "IcDevTypescriptPlain",
-      "LiSearch",
-      "🌱"
+      "LiSearch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,7 @@
     "iconName": "IcDevElectronOriginal",
     "iconColor": "#d52a2a"
   },
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas": "IcDevNextjsOriginal",
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas": "IcDevNextjsLine",
   "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md": "IcDevNextjsOriginal",
   "Programming/Web/Фреймворки/CSS/Tailwind.md": "IcDevTailwindcssPlain",
   "Programming/Web/Фреймворки/CSS/Css фреймворки.md": "IcDevCss3Plain",
