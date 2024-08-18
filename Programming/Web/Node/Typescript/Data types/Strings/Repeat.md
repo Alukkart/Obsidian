@@ -3,10 +3,10 @@
 ```ts
 String.repeat(count: number): string
 
-count - количество повторений
+@param count - количество повторений
 ```
 # Возвращает
-```
+```ts
 string
 ```
 

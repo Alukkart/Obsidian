@@ -1,6 +1,16 @@
 Удаляет первый элемент массива
+# Синтаксис
 ```ts
-let a:number[] = [1, 5]
-a.shift()
-console.log(a) //[5]
+Array<any>.shift(): any
 ```
+# Возвращает
+```ts
+Удаленный элемент
+```
+
+> [!Пример]
+> ```ts
+> let a:number[] = [1, 5]
+> a.shift()
+> console.log(a) //[5]
+> ```

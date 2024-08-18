@@ -3,8 +3,8 @@
 ```ts
 String.endsWith(searchString: string, endPosition?: number): boolean
 
-searchString - искомая строка
-endPosition? - до какого индекса ведется поиск
+@param searchString - искомая строка
+@param endPosition? - до какого индекса ведется поиск
 ```
 # Возвращает
 ```ts
