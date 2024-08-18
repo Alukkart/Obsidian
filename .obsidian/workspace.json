@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e50f3baf5b4af933",
+        "id": "c8ceeaff4ba5158f",
         "type": "tabs",
         "children": [
           {
-            "id": "34a9188002258c81",
+            "id": "1d47739317e1cd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Data Types.md",
-                "mode": "preview",
+                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32306be9b77f58c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/Data Types.md",
+                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/Data Types.md",
+                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/Data Types.md"
+                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md"
               }
             }
           }
@@ -187,25 +200,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "1d47739317e1cd24",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Programming/Web/Фреймворки/CSS/Tailwind.md",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
+    "Programming/Web/Node/Prisma/Schema.md",
+    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Python/Data Types.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
-    "Programming/Web/Node/Prisma/Schema.md",
     "Cache/Pasted image 20240818184829.png",
     "Cache/Pasted image 20240818184815.png",
     "Programming/Web/Node/Prisma/Prisma.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
     "Programming/Web/Node/Prisma/Seed.md",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Cache/Pasted image 20240818180725.png",
     "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Programming/Web/Фреймворки/Бекэнд/Бекенд фреймворки.md",
     "Programming/Web/Фреймворки/JS/JS фреймворки.md",
     "Programming/Web/Фреймворки/JS/React.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Cache/Pasted image 20240818073555.png",
     "Cache/Pasted image 20240818073134.png",
     "Cache/Pasted image 20240818073125.png",
@@ -213,7 +229,6 @@
     "Cache/Pasted image 20240818073108.png",
     "Cache/Pasted image 20240818073040.png",
     "Cache/Pasted image 20240818073014.png",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Web/Node/Prisma/Client.md",
@@ -223,9 +238,7 @@
     "Programming/Web/Node/Typescript/Statements/Switch case.md",
     "Programming/Web/Фреймворки/Фреймворки.md",
     "Programming/Web/Библиотеки компонентов/daisyUI.md",
-    "Programming/Web/Фреймворки/CSS/Tailwind.md",
     "Programming/Web/Libs.md",
-    "Programming/Web/Web.md",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
