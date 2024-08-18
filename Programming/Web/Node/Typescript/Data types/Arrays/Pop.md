@@ -9,7 +9,7 @@ Array<any>.pop(): any
 ```
 
 > [!Пример]
-> ```ts
+> ```js
 > let a:number[] = [1, 5]
 > a.pop()
 > console.log(a) //[1]

@@ -6,7 +6,7 @@ tags:
 
 В файле `schema.prisma` мы видим такие строки:
 
-```
+```prisma
 generator client {
   provider = "prisma-client-js"
 }
@@ -25,7 +25,7 @@ datasource db {
     - `provider` - провайдер генератора (единственным доступным на сегодняшний день провайдером является `prisma-client-js`);
     - `binaryTargets` - определяет операционную систему для клиента `Prisma`. Значением по умолчанию является `native`, но иногда это приходится указывать явно, например, при использовании клиента в `Docker-контейнере` (в этом случае также приходится явно выполнять `prisma generate`)
 
-```
+```prisma
 generator client {
   provider      = "prisma-client-js"
   binaryTargets = ["native"]
@@ -40,7 +40,7 @@ datasource db {
 
 Для работы со схемой удобно пользоваться расширением [`Prisma`](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) для `VSCode`. Соответствующий раздел в файле `settings.json` должен выглядеть так:
 
-```
+```json
 "[prisma]": {  
 	"editor.defaultFormatter": "Prisma.prisma"  
 }
@@ -48,7 +48,7 @@ datasource db {
 
 Определим в схеме модели для пользователя (`User`) и поста (`Post`):
 
-```
+```prisma
 model User {
   id         String   @id @default(uuid()) @db.Uuid
   email      String   @unique
@@ -156,7 +156,7 @@ enum Role {
 
 Предположим, что в нашей схеме имеются такие модели:
 
-```
+```prisma
 model User {
   id      Int      @id @default(autoincrement())
   posts   Post[]
