@@ -5,13 +5,17 @@ tags:
   - react
 ---
 # Tailwind - прогрессивный css framework
-Очень сильный инструмент, особенно внутри node.js проекта, хорошая гибкость, множество настроек, совместим с React, предустановлен в Next.js, из минусов отвратительная ОФ документация(за нее надо платить), но есть отличная документация от [daisyUI](https://daisyui.com/). 
-
-# Установка
-
-1. 
+Очень сильный инструмент, особенно внутри node.js проекта, хорошая гибкость, множество настроек, совместим с React, предустановлен в Next.js, из минусов платные готовые компоненты в Официальной документации, но тут нам поможет [[shadcnUI]].
+# Get started
+#### Установи Tailwind CSS
 ```bash
 > npm install -D tailwindcss # установка пакета
 > npx tailwindcss init # создание файла tailwind.config.js
 ```
 
+#### Добавь дериктивы Tailwind в твой CSS
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```

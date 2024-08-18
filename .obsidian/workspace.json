@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7c6b4d7583b40b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97fa2d152429769b",
+  "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/CSS/Tailwind.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Programming/Web/Node/Typescript/Data types/Strings/EndsWith.md",
     "Programming/Web/Node/Typescript/Data types/Strings/Repeat.md",
     "Programming/Web/Node/Typescript/Data types/Strings/String.md",
@@ -198,12 +210,10 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Find && FindIndex*.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Includes.md",
-    "Programming/Web/Фреймворки/CSS/Tailwind.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
     "Programming/Web/Resources.md",
     "Programming/Web/Libs.md",
