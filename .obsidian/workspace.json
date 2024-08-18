@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0f0a7bd3f00425",
+        "id": "e50f3baf5b4af933",
         "type": "tabs",
         "children": [
           {
-            "id": "ab499e13bf90afba",
+            "id": "34a9188002258c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea704a28a22c9475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1c688879344befa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9be419055b96d462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,12 +103,20 @@
             }
           },
           {
-            "id": "b8ce23d354187cd2",
+            "id": "ad552ae955874d0a",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "5298f4bda8f954d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,19 +128,19 @@
             }
           },
           {
-            "id": "d569d822db491500",
+            "id": "bf7bb2826de24780",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "192447c50af0b608",
@@ -205,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md"
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md"
               }
             }
           }
@@ -214,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 486
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,12 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1c688879344befa",
+  "active": "ad552ae955874d0a",
   "lastOpenFiles": [
+    "Programming/Web/Node/Prisma/Schema.md",
+    "Cache/Pasted image 20240818184829.png",
+    "Cache/Pasted image 20240818184815.png",
+    "Programming/Web/Node/Prisma/Prisma.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
     "Programming/Web/Node/Prisma/Seed.md",
-    "Programming/Web/Node/Prisma/Prisma.md",
-    "Programming/Web/Node/Prisma/Schema.md",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Cache/Pasted image 20240818180725.png",
     "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "Programming/Web/Фреймворки/Бекэнд/Бекенд фреймворки.md",
@@ -242,15 +213,12 @@
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Cache/Pasted image 20240818073555.png",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Cache/Pasted image 20240818073134.png",
     "Cache/Pasted image 20240818073125.png",
     "Cache/Pasted image 20240818073118.png",
     "Cache/Pasted image 20240818073108.png",
     "Cache/Pasted image 20240818073040.png",
     "Cache/Pasted image 20240818073014.png",
-    "Cache/Pasted image 20240818073006.png",
-    "Cache/Pasted image 20240818072954.png",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
@@ -266,7 +234,6 @@
     "Programming/Web/Web.md",
     "Programming/Web/Фреймворки/CSS/Bootstrap.md",
     "Programming/Web/Библиотеки компонентов",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
     "dev.zip",

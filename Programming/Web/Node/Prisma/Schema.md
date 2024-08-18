@@ -190,5 +190,7 @@ model Category {
 
 Подробнее об отношениях можно почитать [здесь](https://www.prisma.io/docs/concepts/components/prisma-schema/relations).
 
-## Prisma Builder
-Интерактивный конструктор  
+### [Prisma Builder](https://www.prismabuilder.io/)
+Интерактивный конструктор `Prisma scehma` с возможностью визуализации.
+![[Pasted image 20240818184815.png| 800]]
+![[Pasted image 20240818184829.png | 800]]
