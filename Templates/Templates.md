@@ -1,2 +1,3 @@
 - [[Data type template]]
 - [[Method template]]
+- [[Therminal template]]
