@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Resources.md"
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,19 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "32701784296a89d6",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Includes.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Find && FindIndex*.md",
     "Programming/Web/Resources.md",
     "Programming/Web/Libs.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Push.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Length.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Includes.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
     "Templates/Method template.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Find*.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Join && toString.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Pop.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
