@@ -87,7 +87,8 @@ module.exports = {
 ```
 Команда выше добавит `Button` компонент в ваш проект. Затем вы можете импортировать его следующим образом:
 ```ts showLineNumbers {1, 6}
-import { Button } from "@/components/ui/button"
+// shared/components/ui/button
+import { Button } from "@shared/components/ui/button"
 
 export default function Home() {
   return (
