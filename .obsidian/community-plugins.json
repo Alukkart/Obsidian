@@ -5,5 +5,7 @@
   "obsidian-icon-shortcodes",
   "obsidian-style-settings",
   "table-editor-obsidian",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "shiki-highlighter",
+  "execute-code"
 ]

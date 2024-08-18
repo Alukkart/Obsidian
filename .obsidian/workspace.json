@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Фреймворки/JS/React.md",
-                "mode": "source",
+                "file": "Programming/Web/Node/Prisma/Schema.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 317
   },
   "right": {
     "id": "3aa9242cac8da568",
@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Web/Node/Prisma/Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Web/Node/Prisma/Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Web/Node/Prisma/Schema.md"
+              }
             }
           }
         ],
@@ -210,8 +214,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "ea704a28a22c9475",
   "lastOpenFiles": [
+    "Programming/Web/Node/Prisma/Prisma.md",
+    "Cache/Pasted image 20240818180725.png",
+    "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
+    "Programming/Web/Фреймворки/Бекэнд/Бекенд фреймворки.md",
+    "Programming/Web/Фреймворки/JS/JS фреймворки.md",
     "Programming/Web/Фреймворки/JS/React.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
@@ -226,11 +235,9 @@
     "Cache/Pasted image 20240818073014.png",
     "Cache/Pasted image 20240818073006.png",
     "Cache/Pasted image 20240818072954.png",
-    "Cache/Pasted image 20240818072937.png",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
-    "Programming/Web/Node/Prisma/Prisma.md",
     "Programming/Web/Node/Prisma/Client.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
@@ -246,9 +253,6 @@
     "Programming/Web/Фреймворки/CSS/Bootstrap.md",
     "Programming/Web/Библиотеки компонентов",
     "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
-    "Programming/Web/Node/Typescript/Data types/Strings/EndsWith.md",
-    "Programming/Web/Node/Typescript/Data types/Strings/Repeat.md",
-    "Programming/Web/Node/Typescript/Data types/Strings/String.md",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
     "dev.zip",

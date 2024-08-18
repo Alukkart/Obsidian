@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IcDevNextjsLine",
-      "LiAppWindow",
-      "LiCommand",
+      "LiNavigation",
+      "LiFolders",
+      "LiRouter",
       "IcDevTypescriptPlain",
-      "LiSearch"
+      "IcDevTypescriptOriginal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,9 @@
   "Programming/Web/Node/Prisma/Schema.md": "LiPyramid",
   "Programming/Web/SEO.md": "LiSearch",
   "Programming/Web/Node/Typescript": "IcDevTypescriptPlain",
-  "Programming/Web/Node/Prisma/Client.md": "LiAppWindow"
+  "Programming/Web/Node/Prisma/Client.md": "LiAppWindow",
+  "Programming/Web/Фреймворки/Фуллстек/Next.js": "IcDevNextjsOriginal",
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md": "LiRouter",
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md": "LiFolders",
+  "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md": "LiNavigation"
 }
