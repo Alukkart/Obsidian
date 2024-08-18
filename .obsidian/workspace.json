@@ -28,9 +28,9 @@
               "state": {
                 "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "viewState": {
-                  "x": 397.967384958974,
-                  "y": -39.5754605563921,
-                  "zoom": -1.4
+                  "x": 691.2535717587822,
+                  "y": -83.08698448186863,
+                  "zoom": 0.6000000000000002
                 }
               }
             }
@@ -137,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
+              }
             }
           }
         ],
@@ -212,7 +216,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "ea704a28a22c9475",
   "lastOpenFiles": [
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
