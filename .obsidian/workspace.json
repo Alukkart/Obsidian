@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
+                "file": "Templates/Therminal template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
+                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
+                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md"
+                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md"
               }
             }
           }
@@ -200,10 +201,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d47739317e1cd24",
+  "active": "32306be9b77f58c5",
   "lastOpenFiles": [
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+    "().md",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+    "Templates/Therminal template.md",
     "Programming/Web/Фреймворки/CSS/Tailwind.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
@@ -232,13 +236,10 @@
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Web/Node/Prisma/Client.md",
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Node/Typescript/Statements/Switch case.md",
     "Programming/Web/Фреймворки/Фреймворки.md",
-    "Programming/Web/Библиотеки компонентов/daisyUI.md",
-    "Programming/Web/Libs.md",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",

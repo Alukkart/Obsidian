@@ -8,7 +8,9 @@ tags:
 - js framework - React
 - css framework - Tailwind
 ## Установка:
-- `npx nextjs-create@latest`
+```zsh title="terminal"
+>npx nextjs-create@latest
+```
 # Введение
 
 **Что такое Next.js?**
