@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAppWindow",
+      "LiCommand",
       "IcDevTypescriptPlain",
       "LiSearch",
-      "🌱",
-      "LiPyramid",
-      "LiBraces"
+      "🌱"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "Programming/Web/Node/Prisma/Prisma.md": "LiPyramid",
   "Programming/Web/Node/Prisma/Schema.md": "LiPyramid",
   "Programming/Web/SEO.md": "LiSearch",
-  "Programming/Web/Node/Typescript": "IcDevTypescriptPlain"
+  "Programming/Web/Node/Typescript": "IcDevTypescriptPlain",
+  "Programming/Web/Node/Prisma/Client.md": "LiAppWindow"
 }

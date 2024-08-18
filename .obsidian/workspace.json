@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b89120375b46206d",
+        "id": "ce0f0a7bd3f00425",
         "type": "tabs",
         "children": [
           {
-            "id": "97fa2d152429769b",
+            "id": "ab499e13bf90afba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c6b4d7583b40b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Фреймворки/CSS/Tailwind.md",
+                "file": "Programming/ПО/Docker/Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,7 @@
       {
         "id": "23f6f0f49cfc758a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 52.5,
         "children": [
           {
             "id": "1acf5530efe24d7a",
@@ -104,14 +90,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "dc842caf5e993a4a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           },
           {
@@ -130,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/ПО/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,18 +125,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/ПО/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "192447c50af0b608",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 47.5,
         "children": [
           {
             "id": "576be28795952012",
@@ -178,9 +158,19 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "dc842caf5e993a4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/ПО/Docker/Docker.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,9 +187,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1772d067837a41e",
+  "active": "ab499e13bf90afba",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/JS/React.md",
+    "Programming/Web/Node/Prisma/Prisma.md",
+    "Programming/Web/Node/Prisma/Client.md",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+    "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
+    "Programming/Web/Node/Prisma/Schema.md",
+    "Programming/Web/Node/Prisma/Seed.md",
+    "Programming/Web/Node/Prisma/ACID (noSQL).md",
+    "Programming/Web/Node/Typescript/Statements/Switch case.md",
+    "Programming/Web/Фреймворки/Фреймворки.md",
+    "Programming/Web/Библиотеки компонентов/daisyUI.md",
     "Programming/Web/Фреймворки/CSS/Tailwind.md",
+    "Programming/Web/Libs.md",
+    "Programming/Web/Web.md",
+    "Programming/Web/Фреймворки/CSS/Bootstrap.md",
+    "Programming/Web/Библиотеки компонентов",
     "Programming/Web/Node/Typescript/Data types/Arrays/Unshift.md",
     "Programming/Web/Node/Typescript/Data types/Strings/EndsWith.md",
     "Programming/Web/Node/Typescript/Data types/Strings/Repeat.md",
@@ -211,24 +216,10 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Splice.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Find && FindIndex*.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/ForEach.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Includes.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/IndexOf && LastIndexOf.md",
-    "Programming/Web/Resources.md",
-    "Programming/Web/Libs.md",
-    "Templates/Method template.md",
-    "Templates/Data type template.md",
-    "Templates/Templates.md",
     "Templates",
-    "Programming/ПО/VC/Расширения.md",
-    "ToString.md",
     "Programming/Web/Node/Typescript/Data types/Strings",
-    "Programming/Web/Фреймворки/Фуллстек/Electron.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Programming/Web/Фреймворки/Фуллстек/Фуллстек фреймворки.md",
     "dev.zip",
-    "Programming/Web/Web.md",
     "ra.zip",
     "Pasted image 20240817044710.png",
     "Programming/Web/Node/Typescript/Data types/Arrays",
@@ -236,7 +227,6 @@
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "Programming/Web/Фреймворки/Фуллстек",
-    "Programming/Web/Фреймворки/Бекэнд",
     "Cache/Pasted image 20240805175715.png",
     "Cache/Pasted image 20240805073944.png",
     "Cache/Pasted image 20240805073823.png",
