@@ -12,5 +12,5 @@ Array<any>.unshift(...items: any[]): number
 > ```ts
 > let a:number[] = [5]
 > a.unsift(1)
-> console.log(a) //[1, 5]
+> console.log(a) // [1, 5]
 > ```
