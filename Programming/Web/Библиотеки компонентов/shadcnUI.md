@@ -86,7 +86,7 @@ module.exports = {
 >npx shadcn-ui@latest add button
 ```
 Команда выше добавит `Button` компонент в ваш проект. Затем вы можете импортировать его следующим образом:
-```ts showLineNumbers {1, 6}
+```tsx showLineNumbers {1, 6}
 // shared/components/ui/button
 import { Button } from "@shared/components/ui/button"
 
