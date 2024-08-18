@@ -24,14 +24,12 @@
             "id": "ea704a28a22c9475",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-                "viewState": {
-                  "x": 691.2535717587822,
-                  "y": -83.08698448186863,
-                  "zoom": -0.8999999999999998
-                }
+                "file": "Programming/Web/Фреймворки/JS/React.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -137,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -216,8 +210,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea704a28a22c9475",
+  "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/JS/React.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
@@ -235,7 +230,6 @@
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
-    "Programming/Web/Фреймворки/JS/React.md",
     "Programming/Web/Node/Prisma/Prisma.md",
     "Programming/Web/Node/Prisma/Client.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",

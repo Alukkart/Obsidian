@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"91fcf1aed2e97a64","type":"text","text":"# Next.js Project Structure","x":-680,"y":-560,"width":460,"height":60,"color":"#ffffff"},
 		{"id":"de01fdf2b8329de8","type":"text","text":"## Root project dir ./\n:dev_devnextjsoriginal: .next - Служебная папка next.js\n:obs_folder: **@types** Типы и интерфейсы\n:obs_folder: <span style=\"color:#e56c67\">app</span> - Роутер приложения\n:obs_folder: <span style=\"color:#cba8f4\">prisma</span> - Служебная папка призмы\n:obs_folder: <span style=\"color:#a8e2a4\">public</span> - Статические файлы\n:obs_folder: <span style=\"color:#d59d7e\">shared</span> - Компоненты, хуки и т.д\n:luc_sliders: .env - Переменные окружения\n:luc_file: .eslintrc.json - Настройки ESLint\n:dev_devtypescriptplain: next-env.d.ts - Файл определений типов Next.js\n:dev_devnextjsoriginal: next.config.mjs - Настройки Next.js\n:dev_devjavascriptoriginal: postcss.config.mjs\n:dev_devtailwindcssplain: tailwind.config.ts\n:dev_devtypescriptplain: tsconfig.json - Настройки TypeScript\n\n","x":-720,"y":-293,"width":460,"height":387},
 		{"id":"74cb03228ba42015","type":"text","text":"### @types ./types\n","x":200,"y":-670,"width":250,"height":140,"color":"5"},
 		{"id":"82ee4f053f8d8c94","type":"text","text":"### Prisma ./prisma","x":200,"y":700,"width":250,"height":60,"color":"6"},
 		{"id":"5346c188247d29ee","type":"text","text":"### Public ./public","x":200,"y":808,"width":250,"height":60,"color":"4"},
 		{"id":"945d72ab47763e26","type":"text","text":"### Shared ./shared","x":200,"y":948,"width":250,"height":60,"color":"2"},
 		{"id":"c2ff1156b85e7b5e","type":"text","text":"## App ./app\n\n:luc_folder: api - api routes folder\n:dev_devcss3plain: globals.css\n:dev_devreactoriginal: layout.tsx\n:dev_devreactoriginal: page.tsx\n","x":600,"y":-194,"width":250,"height":190,"color":"1"},
-		{"id":"d530cab3129a5b7a","x":850,"y":94,"width":400,"height":400,"type":"file","file":"Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md"},
-		{"id":"623963016496545a","x":200,"y":94,"width":400,"height":400,"type":"file","file":"Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md"}
+		{"id":"d530cab3129a5b7a","type":"file","file":"Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md","x":850,"y":94,"width":400,"height":400},
+		{"id":"623963016496545a","type":"file","file":"Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md","x":200,"y":94,"width":400,"height":400},
+		{"id":"91fcf1aed2e97a64","type":"text","text":"# Next.js Project Structure","x":-720,"y":-560,"width":460,"height":60,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"a9b88ca31d2e8760","fromNode":"de01fdf2b8329de8","fromSide":"right","toNode":"74cb03228ba42015","toSide":"left","color":"5"},
