@@ -28,9 +28,9 @@
               "state": {
                 "file": "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "viewState": {
-                  "x": 358.1538828015581,
-                  "y": 111.0502928223076,
-                  "zoom": -0.9002038134306476
+                  "x": 397.967384958974,
+                  "y": -39.5754605563921,
+                  "zoom": -1.4
                 }
               }
             }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,6 +214,7 @@
   },
   "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Cache/Pasted image 20240818073555.png",
@@ -226,7 +228,6 @@
     "Cache/Pasted image 20240818073006.png",
     "Cache/Pasted image 20240818072954.png",
     "Cache/Pasted image 20240818072937.png",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура дериктории app.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
     "Programming/ПО/Docker/Docker.md",
