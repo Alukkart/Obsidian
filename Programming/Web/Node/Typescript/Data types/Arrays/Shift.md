@@ -9,8 +9,15 @@ Array<any>.shift(): any
 ```
 
 > [!Пример]
-> ```ts
+> ```js
 > let a:number[] = [1, 5]
 > a.shift()
 > console.log(a) //[5]
 > ```
+
+
+```js
+let a:number[] = [1, 5]
+a.shift()
+console.log(a) //[5]
+```

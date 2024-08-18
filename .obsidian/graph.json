@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 8891776
       }
+    },
+    {
+      "query": "path:Programming/ПО  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10.5208333333333,
   "linkStrength": 1,
   "linkDistance": 108,
-  "scale": 0.6907348913125785,
+  "scale": 0.3069932850278124,
   "close": true
 }

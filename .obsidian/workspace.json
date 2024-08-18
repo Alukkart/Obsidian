@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
+                "file": "Programming/Python/Data Types.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -103,20 +103,12 @@
             }
           },
           {
-            "id": "ad552ae955874d0a",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
-          },
-          {
             "id": "5298f4bda8f954d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
+                "file": "Programming/Python/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,14 +125,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
+                "file": "Programming/Python/Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "192447c50af0b608",
@@ -173,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md"
+                "file": "Programming/Python/Data Types.md"
               }
             }
           }
@@ -195,8 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad552ae955874d0a",
+  "active": "d1772d067837a41e",
   "lastOpenFiles": [
+    "Programming/Python/Data Types.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
     "Programming/Web/Node/Prisma/Schema.md",
     "Cache/Pasted image 20240818184829.png",
     "Cache/Pasted image 20240818184815.png",
@@ -232,7 +226,6 @@
     "Programming/Web/Фреймворки/CSS/Tailwind.md",
     "Programming/Web/Libs.md",
     "Programming/Web/Web.md",
-    "Programming/Web/Фреймворки/CSS/Bootstrap.md",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
