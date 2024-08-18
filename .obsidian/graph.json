@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Programming/Web/Node/Typescript  ",
@@ -25,7 +25,7 @@
       "query": "path:Linux  ",
       "color": {
         "a": 1,
-        "rgb": 16113664
+        "rgb": 15837828
       }
     },
     {
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 8891776
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10.5208333333333,
   "linkStrength": 1,
   "linkDistance": 108,
-  "scale": 0.30699328502781265,
+  "scale": 0.6907348913125785,
   "close": true
 }
