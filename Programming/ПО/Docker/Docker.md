@@ -25,8 +25,8 @@ Linux:
 - `docker-compose` - дополнение к `docker`, необходимое для работы с docker-compose.yml
 - `docker-desktop`(AUR) - GUI версия docker ставится по вех пакета `docker`
 
-## dockerfile:
+# dockerfile:
 - у файла нет расширения
 
-## docker-compose.yml:
+# docker-compose.yml:
 -  ~Дальше бога нет~
