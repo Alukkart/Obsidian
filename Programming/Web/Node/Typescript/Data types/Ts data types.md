@@ -1,4 +1,4 @@
 - [[String]]
 - [[Array]]
 - [[Number]]
-- [[Map]]
+- [[Map obj|Map obj]]
