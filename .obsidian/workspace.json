@@ -88,16 +88,6 @@
             }
           },
           {
-            "id": "d1772d067837a41e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "5298f4bda8f954d5",
             "type": "leaf",
             "state": {
@@ -124,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "192447c50af0b608",
@@ -178,8 +167,70 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "416cef68533bfbae",
+  "floating": {
+    "id": "a3af645cdc2d81b0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8c6558bb946c8efe",
+        "type": "window",
+        "children": [
+          {
+            "id": "fc092186c67c6fe7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98c952d1b5efca49",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2418,
+        "y": 176,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "98c952d1b5efca49",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Node/Typescript/Data types/Ts data types.md",
     "Programming/Web/Node/Typescript/Data types/Map obj/Map obj.md",
     "Programming/Web/Node/Typescript/Data types/Map obj",
@@ -207,7 +258,6 @@
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Prisma/Seed.md",
-    "Programming/Web/Node/Prisma/Schema.md",
     "Cache/Pasted image 20240818184829.png",
     "Cache/Pasted image 20240818184815.png",
     "Cache/Pasted image 20240818180725.png",
