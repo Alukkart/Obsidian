@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec3cecbcea70fce",
+        "id": "2faa421e86d4eebb",
         "type": "tabs",
         "children": [
           {
-            "id": "416cef68533bfbae",
+            "id": "aaef5700a3124e3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/ПО/Docker/Docker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +82,16 @@
         "dimension": 52.5,
         "children": [
           {
+            "id": "416cef68533bfbae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "1acf5530efe24d7a",
             "type": "leaf",
             "state": {
@@ -93,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/ПО/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/ПО/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/ПО/Docker/Docker.md"
+              }
             }
           }
         ],
@@ -167,68 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "a3af645cdc2d81b0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8c6558bb946c8efe",
-        "type": "window",
-        "children": [
-          {
-            "id": "fc092186c67c6fe7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "98c952d1b5efca49",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": false
-                    }
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2418,
-        "y": 176,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "98c952d1b5efca49",
+  "active": "aaef5700a3124e3f",
   "lastOpenFiles": [
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Node/Typescript/Data types/Ts data types.md",
