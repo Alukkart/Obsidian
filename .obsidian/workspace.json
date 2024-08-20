@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,16 +164,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md"
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 450
+    "width": 501
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,16 +186,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad1860c6cdc5cf5",
+  "active": "70fd575951e68869",
   "lastOpenFiles": [
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
     "Cache/Pasted image 20240820194237.png",
     "Cache/Pasted image 20240820194228.png",
     "Cache/Pasted image 20240820194210.png",
     "Cache/Pasted image 20240820194203.png",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/UI загрузки и потоковая передача данных.md",
     "Cache/Pasted image 20240820193358.png",
     "Cache/Pasted image 20240820193319.png",
@@ -204,7 +207,6 @@
     "Cache/Pasted image 20240820193000.png",
     "Cache/Pasted image 20240820192948.png",
     "Cache/Pasted image 20240820192936.png",
-    "Cache/Pasted image 20240820192926.png",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Slice.md",
     "Programming/Web/Libs.md",
@@ -224,8 +226,6 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/ReduceRight.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/ToLocaleString.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Every.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Filter.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Keys.md",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
