@@ -37,3 +37,13 @@ https://react-hook-form.com/
 
 # Zod
 Валидация
+https://zod.dev/
+`npm install zod`
+# Dadata
+React компонент для подсказок **адресов, организаций, банков, ФИО и email** 
+https://github.com/vitalybaev/react-dadata
+`npm install react-dadata`
+
+
+
+https://www.npmjs.com/package/react-imask
