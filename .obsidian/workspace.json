@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,16 +164,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md"
+                "file": "Programming/Web/Node/Typescript/Структуры данных.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 501
+    "width": 495
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +188,18 @@
   },
   "active": "70fd575951e68869",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Typescript.md",
+    "Programming/Web/Node/Typescript/Структуры данных.md",
+    "Cache/Pasted image 20240820212656.png",
+    "Cache/Pasted image 20240820212638.png",
+    "Cache/Pasted image 20240820212624.png",
+    "Cache/Pasted image 20240820212537.png",
+    "Cache/Pasted image 20240820212422.png",
+    "Cache/Pasted image 20240820212306.png",
+    "Cache/Pasted image 20240820212156.png",
+    "Cache/Pasted image 20240820211912.png",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Programming/Web/Node/Typescript/Структуры данных",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md",
@@ -196,23 +208,13 @@
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
     "Cache/Pasted image 20240820194237.png",
     "Cache/Pasted image 20240820194228.png",
-    "Cache/Pasted image 20240820194210.png",
-    "Cache/Pasted image 20240820194203.png",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/UI загрузки и потоковая передача данных.md",
-    "Cache/Pasted image 20240820193358.png",
-    "Cache/Pasted image 20240820193319.png",
-    "Cache/Pasted image 20240820193241.png",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Cache/Pasted image 20240820193000.png",
-    "Cache/Pasted image 20240820192948.png",
-    "Cache/Pasted image 20240820192936.png",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Slice.md",
     "Programming/Web/Libs.md",
     "Shadcn.md",
     "Programming/ПО/Docker/Docker.md",
-    "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Node/Typescript/Data types/Ts data types.md",
     "Programming/Web/Node/Typescript/Data types/Map obj/Map obj.md",
     "Programming/Web/Node/Typescript/Data types/Map obj",
@@ -224,8 +226,6 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/CopyWithin.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Entries.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/ReduceRight.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/ToLocaleString.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Every.md",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
@@ -234,7 +234,6 @@
     "Programming/Web/Node/Typescript/Data types/Arrays",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
-    "Programming/Web/Node/Typescript/Data types",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }

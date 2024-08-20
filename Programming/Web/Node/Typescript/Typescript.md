@@ -6,3 +6,4 @@
 
 [[Ts data types]]
 [[Statements]]
+[[Структуры данных]]
