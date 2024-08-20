@@ -34,7 +34,6 @@ https://axios-http.com/
 Работа с формами и инпутами
 https://react-hook-form.com/
 `npm install react-hook-form`
-
 # Zod
 Валидация
 https://zod.dev/

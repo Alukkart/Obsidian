@@ -31,7 +31,7 @@
 ```
 ## Шрифты
 ### Импорт шрифта в RootLayout
-```ts showLineNumbers {2, 6-9, 16-17}
+```ts showLineNumbers {3, 7-10, 17-18}
 // app/layout.tsx
 import "@/styles/globals.css" 
 import { Inter as FontSans } from "next/font/google"
@@ -87,7 +87,7 @@ module.exports = {
 >npx shadcn-ui@latest add button
 ```
 Команда выше добавит `Button` компонент в ваш проект. Затем вы можете импортировать его следующим образом:
-```tsx showLineNumbers {1, 6}
+```tsx showLineNumbers {1, 7}
 // shared/components/ui/button
 import { Button } from "@shared/components/ui/button"
 
