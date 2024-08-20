@@ -6,8 +6,8 @@
 		{"id":"5346c188247d29ee","type":"text","text":"### Public ./public","x":200,"y":808,"width":250,"height":60,"color":"4"},
 		{"id":"945d72ab47763e26","type":"text","text":"### Shared ./shared","x":200,"y":948,"width":250,"height":60,"color":"2"},
 		{"id":"c2ff1156b85e7b5e","type":"text","text":"## App ./app\n\n:luc_folder: api - api routes folder\n:dev_devcss3plain: globals.css\n:dev_devreactoriginal: layout.tsx\n:dev_devreactoriginal: page.tsx\n","x":600,"y":-194,"width":250,"height":190,"color":"1"},
-		{"id":"d530cab3129a5b7a","type":"file","file":"Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md","x":850,"y":94,"width":400,"height":400},
-		{"id":"623963016496545a","type":"file","file":"Programming/Web/Фреймворки/Фуллстек/Next.js/Структура директории app.md","x":200,"y":94,"width":400,"height":400},
+		{"id":"d530cab3129a5b7a","type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md","x":850,"y":94,"width":400,"height":400},
+		{"id":"623963016496545a","type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md","x":200,"y":94,"width":400,"height":400},
 		{"id":"91fcf1aed2e97a64","type":"text","text":"# Next.js Project Structure","x":-720,"y":-560,"width":460,"height":60,"color":"#ffffff"}
 	],
 	"edges":[

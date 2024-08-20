@@ -61,7 +61,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
 
 ```
 ### Настройка `theme.extend.fontFamily` в `tailwind.config.ts`
-```ts showLineNumbers {9-11}
+```ts showLineNumbers {9-12}
 // tailwind.config.ts
 const { fontFamily } = require("tailwindcss/defaultTheme")
 

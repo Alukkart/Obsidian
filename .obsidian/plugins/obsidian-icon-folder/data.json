@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRedo2",
+      "LiGroup",
+      "LiFileX",
       "LiNavigation",
-      "LiFolders",
-      "LiRouter",
-      "IcDevTypescriptPlain",
-      "IcDevTypescriptOriginal"
+      "LiFolders"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,17 +34,6 @@
     "debugMode": false
   },
   "Programming": "LiCode2",
-  "Programming/Web/Фреймворки/Фуллстек/Electron.md": {
-    "iconName": "IcDevElectronOriginal",
-    "iconColor": "#d52a2a"
-  },
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas": "IcDevNextjsLine",
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js.md": "IcDevNextjsOriginal",
-  "Programming/Web/Фреймворки/CSS/Tailwind.md": "IcDevTailwindcssPlain",
-  "Programming/Web/Фреймворки/CSS/Css фреймворки.md": "IcDevCss3Plain",
-  "Programming/Web/Фреймворки/Бекэнд/Express.md": "IcDevExpressOriginal",
-  "Programming/Web/Фреймворки/JS/React.md": "IcDevReactOriginal",
-  "Programming/Web/Фреймворки/JS/React native.md": "IcDevReactOriginal",
   "Linux": "IcDevLinuxPlain",
   "Programming/Web/Node/Typescript/Typescript.md": "IcDevTypescriptPlain",
   "Programming/Web/Libs.md": "LiLibrary",
@@ -54,8 +43,6 @@
   "Programming/ПО/VC": "IcDevVscodeOriginal",
   "Programming/Web": "LiGlobe2",
   "Programming/Python": "IcDevPythonOriginal",
-  "Programming/Web/Фреймворки/Бекэнд": "LiBrackets",
-  "Programming/Web/Фреймворки/Фуллстек": "LiBraces",
   "Programming/Web/Node/Prisma": "LiPyramid",
   "Programming/Web/Node/Prisma/Seed.md": "🌱",
   "Programming/Web/Node/Prisma/Prisma.md": "LiPyramid",
@@ -63,8 +50,24 @@
   "Programming/Web/SEO.md": "LiSearch",
   "Programming/Web/Node/Typescript": "IcDevTypescriptPlain",
   "Programming/Web/Node/Prisma/Client.md": "LiAppWindow",
-  "Programming/Web/Фреймворки/Фуллстек/Next.js": "IcDevNextjsOriginal",
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Роутинг.md": "LiRouter",
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Навигация.md": "LiNavigation",
-  "Programming/Web/Фреймворки/Фуллстек/Next.js/Структура директории app.md": "LiFolders"
+  "Programming/Web/Node/Фреймворки/Бекэнд": "LiBrackets",
+  "Programming/Web/Node/Фреймворки/Фуллстек": "LiBraces",
+  "Programming/Web/Node/Фреймворки/CSS/Tailwind.md": "IcDevTailwindcssPlain",
+  "Programming/Web/Node/Фреймворки/CSS/Css фреймворки.md": "IcDevCss3Plain",
+  "Programming/Web/Node/Фреймворки/JS/React native.md": "IcDevReactOriginal",
+  "Programming/Web/Node/Фреймворки/JS/React.md": "IcDevReactOriginal",
+  "Programming/Web/Node/Фреймворки/Бекэнд/Express.md": "IcDevExpressOriginal",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Electron.md": {
+    "iconName": "IcDevElectronOriginal",
+    "iconColor": "#d52a2a"
+  },
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js": "IcDevNextjsOriginal",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas": "IcDevNextjsLine",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md": "IcDevNextjsOriginal",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md": "LiNavigation",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md": "LiRouter",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md": "LiFolders",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md": "LiFileX",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md": "LiGroup",
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md": "LiRedo2"
 }

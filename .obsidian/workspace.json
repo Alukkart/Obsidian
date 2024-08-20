@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md"
+                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md"
               }
             }
           }
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486
+    "width": 450
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +186,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70fd575951e68869",
+  "active": "dad1860c6cdc5cf5",
   "lastOpenFiles": [
+    "Cache/Pasted image 20240820194237.png",
+    "Cache/Pasted image 20240820194228.png",
+    "Cache/Pasted image 20240820194210.png",
+    "Cache/Pasted image 20240820194203.png",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/UI загрузки и потоковая передача данных.md",
+    "Cache/Pasted image 20240820193358.png",
+    "Cache/Pasted image 20240820193319.png",
+    "Cache/Pasted image 20240820193241.png",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Cache/Pasted image 20240820193000.png",
+    "Cache/Pasted image 20240820192948.png",
+    "Cache/Pasted image 20240820192936.png",
+    "Cache/Pasted image 20240820192926.png",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Slice.md",
     "Programming/Web/Libs.md",
     "Shadcn.md",
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Node/Typescript/Data types/Ts data types.md",
@@ -209,30 +226,13 @@
     "Programming/Web/Node/Typescript/Data types/Arrays/Every.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Filter.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Keys.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Sort.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Some.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Values.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Fill.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Find && FindIndex*.md",
-    "Programming/ПО/VC/Visual Studio Code.md",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Cache/Pasted image 20240818184829.png",
-    "Cache/Pasted image 20240818184815.png",
-    "Cache/Pasted image 20240818180725.png",
-    "Cache/Pasted image 20240818073555.png",
-    "Cache/Pasted image 20240818073134.png",
-    "Cache/Pasted image 20240818073125.png",
-    "Cache/Pasted image 20240818073118.png",
-    "Cache/Pasted image 20240818073108.png",
-    "Cache/Pasted image 20240818073040.png",
-    "Cache/Pasted image 20240818073014.png",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
     "dev.zip",
     "ra.zip",
     "Programming/Web/Node/Typescript/Data types/Arrays",
-    "Programming/Web/Фреймворки/Фуллстек/Next.js",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js",
     "Programming/Web/Node/Typescript/Statements",
     "Programming/Web/Node/Typescript/Data types",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
