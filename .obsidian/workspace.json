@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "bf46fae854f2cb9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Объектно-ориентированное программирование.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6530cb1def2d8d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Пакетные менеджеры.md",
+                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Объектно-ориентированное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Объектно-ориентированное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Объектно-ориентированное программирование.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495
+    "width": 576
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,19 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf46fae854f2cb9b",
+  "active": "416cef68533bfbae",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Структуры данных.md",
+    "Programming/Web/Node/Пакетные менеджеры.md",
+    "Programming/Web/Node/Node.js.md",
+    "Programming/Объектно-ориентированное программирование.md",
     "Programming/Парадигмы программирования.md",
     "Programming/Web/Node/Системы сборки.md",
-    "Programming/Web/Node/Node.js.md",
     "Programming/Web/Node/Typescript/Статический анализ кода.md",
-    "Programming/Web/Node/Пакетные менеджеры.md",
     "системы сборки.md",
-    "Programming/Объектно-ориентированное программирование.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Untitled",
     "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
-    "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Node/Написание автоматизированных тестов.md",
