@@ -9,8 +9,8 @@ tags:
 # Get started
 #### Установи Tailwind CSS
 ```zsh title="terminal"
-> npm install -D tailwindcss # установка пакета
-> npx tailwindcss init # создание файла tailwind.config.js
+npm install -D tailwindcss # установка пакета
+npx tailwindcss init # создание файла tailwind.config.js
 ```
 
 #### Добавь директивы Tailwind в твой CSS

@@ -9,7 +9,7 @@ tags:
 - css framework - Tailwind
 ## Установка:
 ```zsh title="terminal"
->npx nextjs-create@latest
+npx nextjs-create@latest
 ```
 # Введение
 

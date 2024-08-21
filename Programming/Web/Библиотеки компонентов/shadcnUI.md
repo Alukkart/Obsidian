@@ -13,14 +13,13 @@
 ## Создание проекта
 Начнем с создания проекта с помощью `create-next-app`
 ```zsh title="terminal"
->npx create-next-app@latest my-app --typescript --tailwind --eslint
-
+npx create-next-app@latest my-app --typescript --tailwind --eslint
 ```
 
 ## Запуск [CLI(command-line interface)](https://en.wikipedia.org/wiki/Command-line_interface)
 Запустите init команду для настройки вашего проекта:
 ```zsh title="terminal"
->npx shadcn-ui@latest init
+npx shadcn-ui@latest init
 ```
 ## Настройка `components.json`
 Вам будет предложено несколько вопросов для настройки `components.json`:
@@ -84,7 +83,7 @@ module.exports = {
 ## Добавление компонентов
 Теперь вы можете начать добавлять компоненты в свой проект.
 ```zsh title="terminal"
->npx shadcn-ui@latest add button
+npx shadcn-ui@latest add button
 ```
 Команда выше добавит `Button` компонент в ваш проект. Затем вы можете импортировать его следующим образом:
 ```tsx showLineNumbers {1, 7}

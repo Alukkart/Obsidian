@@ -1,4 +1,3 @@
-- [[Libs]]
 - [[SEO]]
 - [[Resources]]
 - [[Node.js]]

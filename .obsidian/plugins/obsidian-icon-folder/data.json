@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBarChart2",
+      "LiCandlestickChart",
+      "LiGlobe2",
       "LiRedo2",
-      "LiGroup",
-      "LiFileX",
-      "LiNavigation",
-      "LiFolders"
+      "LiGroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,6 @@
   "Programming": "LiCode2",
   "Linux": "IcDevLinuxPlain",
   "Programming/Web/Node/Typescript/Typescript.md": "IcDevTypescriptPlain",
-  "Programming/Web/Libs.md": "LiLibrary",
   "Programming/Web/Resources.md": "LiAppWindow",
   "Programming/Web/Node/Node.js.md": "IcDevNodejsPlain",
   "Programming/ПО/Docker": "IcDevDockerPlainWordmark",
@@ -69,5 +68,8 @@
   "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md": "LiFolders",
   "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md": "LiFileX",
   "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md": "LiGroup",
-  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md": "LiRedo2"
+  "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md": "LiRedo2",
+  "Programming/Web/Web.md": "LiGlobe2",
+  "Programming/Web/Node/Typescript/Статический анализ кода.md": "LiBarChart2",
+  "Programming/Web/Node/Libs.md": "LiLibrary"
 }

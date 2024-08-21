@@ -21,12 +21,38 @@
             }
           },
           {
+            "id": "ceedd104a5f81f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Node.js.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "540485cf2eb2f272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
+                "file": "Programming/Web/Node/Пакетные менеджеры.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e308c8554e3f5b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Typescript/Typescript.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,11 +222,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540485cf2eb2f272",
+  "active": "416cef68533bfbae",
   "lastOpenFiles": [
+    "Programming/Web/Node/Node.js.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Programming/Web/Node/Typescript/Структуры данных.md",
+    "Programming/Web/Node/Пакетные менеджеры.md",
+    "Templates/Therminal template.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind.md",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Linux/Arch/Arch.md",
+    "Programming/Web/Node/Typescript/Статический анализ кода.md",
+    "Programming/Web/Node/Libs.md",
+    "Programming/Web/Web.md",
+    "Programming/Web/SEO.md",
+    "Programming/Web/Resources.md",
     "Programming/Web/Node/Typescript/Typescript.md",
+    "Programming/Web/Node/Typescript/Структуры данных.md",
+    "Cache/Pasted image 20240821231447.png",
+    "Cache/Pasted image 20240821231004.png",
+    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Cache/Pasted image 20240820212656.png",
     "Cache/Pasted image 20240820212638.png",
     "Cache/Pasted image 20240820212624.png",
@@ -213,7 +250,6 @@
     "Cache/Pasted image 20240820212306.png",
     "Cache/Pasted image 20240820212156.png",
     "Cache/Pasted image 20240820211912.png",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Node/Typescript/Структуры данных",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
@@ -221,25 +257,12 @@
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
-    "Cache/Pasted image 20240820194237.png",
-    "Cache/Pasted image 20240820194228.png",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/UI загрузки и потоковая передача данных.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Slice.md",
-    "Programming/Web/Libs.md",
     "Shadcn.md",
     "Programming/ПО/Docker/Docker.md",
-    "Programming/Web/Node/Typescript/Data types/Ts data types.md",
-    "Programming/Web/Node/Typescript/Data types/Map obj/Map obj.md",
     "Programming/Web/Node/Typescript/Data types/Map obj",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Reduce.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Map.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Concat.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Reverse.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/CopyWithin.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Entries.md",
-    "Programming/Web/Node/Typescript/Data types/Arrays/ReduceRight.md",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
