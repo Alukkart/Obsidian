@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "f2df719aaca57897",
+            "id": "bf46fae854f2cb9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
+                "file": "Programming/Объектно-ориентированное программирование.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6530cb1def2d8d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Пакетные менеджеры.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
+                "file": "Programming/Объектно-ориентированное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
+                "file": "Programming/Объектно-ориентированное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md"
+                "file": "Programming/Объектно-ориентированное программирование.md"
               }
             }
           }
@@ -200,19 +213,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2df719aaca57897",
+  "active": "bf46fae854f2cb9b",
   "lastOpenFiles": [
     "Programming/Парадигмы программирования.md",
+    "Programming/Web/Node/Системы сборки.md",
+    "Programming/Web/Node/Node.js.md",
+    "Programming/Web/Node/Typescript/Статический анализ кода.md",
+    "Programming/Web/Node/Пакетные менеджеры.md",
+    "системы сборки.md",
     "Programming/Объектно-ориентированное программирование.md",
+    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Untitled",
     "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
-    "Programming/Web/Node/Пакетные менеджеры.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Node/Написание автоматизированных тестов.md",
-    "Programming/Web/Node/Typescript/Статический анализ кода.md",
-    "Programming/Web/Node/Node.js.md",
     "Cache/Pasted image 20240822002237.png",
     "Programming/Системы управления версиями.md",
     "Cache/Pasted image 20240822000558.png",
@@ -229,7 +245,6 @@
     "Programming/Web/Resources.md",
     "Cache/Pasted image 20240821231447.png",
     "Cache/Pasted image 20240821231004.png",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Cache/Pasted image 20240820212656.png",
     "Cache/Pasted image 20240820212638.png",
     "Cache/Pasted image 20240820212624.png",
@@ -238,8 +253,6 @@
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Typescript/Data types/Map obj",
     "Programming/Web/Библиотеки компонентов",
