@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Структуры данных.md",
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Typescript/Структуры данных.md"
+                "file": "Programming/Web/Node/Typescript/Data types/Arrays/Array.md"
               }
             }
           }
@@ -186,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70fd575951e68869",
+  "active": "416cef68533bfbae",
   "lastOpenFiles": [
-    "Programming/Web/Node/Typescript/Typescript.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
+    "Programming/Web/Node/Typescript/Typescript.md",
     "Cache/Pasted image 20240820212656.png",
     "Cache/Pasted image 20240820212638.png",
     "Cache/Pasted image 20240820212624.png",
@@ -218,7 +219,6 @@
     "Programming/Web/Node/Typescript/Data types/Ts data types.md",
     "Programming/Web/Node/Typescript/Data types/Map obj/Map obj.md",
     "Programming/Web/Node/Typescript/Data types/Map obj",
-    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Reduce.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Map.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Concat.md",
