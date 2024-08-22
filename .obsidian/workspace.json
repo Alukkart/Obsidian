@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/База.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/База.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/База.md"
+              }
             }
           }
         ],
