@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3fa017916ad7b1",
+        "id": "edd93377b6c92347",
         "type": "tabs",
         "children": [
           {
-            "id": "b40418ef04de478d",
+            "id": "766bf8dbb232832f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -186,14 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b40418ef04de478d",
+  "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/База.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
     "Programming/Web/Node/Написание автоматизированных тестов.md",
     "Programming/Web/Node/Системы сборки.md",
     "Programming/Системы управления версиями.md",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Web.md",
     "Programming/Web/Node/Node.js.md",
