@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Пакетные менеджеры.md",
+                "file": "Programming/База.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Пакетные менеджеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Пакетные менеджеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Node/Пакетные менеджеры.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -186,8 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd2166f184edaede",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Programming/База.md",
+    "Programming/Web/Node/Пакетные менеджеры.md",
     "Programming/Web/Node/Написание автоматизированных тестов.md",
     "Programming/Web/Node/Системы сборки.md",
     "Programming/Системы управления версиями.md",
@@ -200,7 +198,6 @@
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Стили программирования",
     "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
-    "Programming/Web/Node/Пакетные менеджеры.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Web/Node/Typescript/Статический анализ кода.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
@@ -227,7 +224,6 @@
     "Cache/Pasted image 20240820212537.png",
     "Programming/Web/Node/Typescript/Структуры данных",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Typescript/Data types/Map obj",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
