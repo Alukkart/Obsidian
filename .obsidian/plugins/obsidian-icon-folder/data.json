@@ -41,7 +41,6 @@
   "Programming/ПО/Docker": "IcDevDockerPlainWordmark",
   "Programming/ПО/VC": "IcDevVscodeOriginal",
   "Programming/Web": "LiGlobe2",
-  "Programming/Python": "IcDevPythonOriginal",
   "Programming/Web/Node/Prisma": "LiPyramid",
   "Programming/Web/Node/Prisma/Seed.md": "🌱",
   "Programming/Web/Node/Prisma/Prisma.md": "LiPyramid",
@@ -75,5 +74,5 @@
   "Programming/Web/Node/Пакетные менеджеры.md": "LiPackage",
   "Programming/Системы управления версиями.md": "LiGitCompareArrows",
   "Programming/Web/Node/Написание автоматизированных тестов.md": "LiTestTube2",
-  "Programming/Объектно-ориентированное программирование.md": "LiSnapToObject"
+  "Programming/Стили программирования/Объектно-ориентированное программирование.md": "LiSnapToObject"
 }
