@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c096fe602c695e12",
+        "id": "0e751afbaf5c5d05",
         "type": "tabs",
         "children": [
           {
-            "id": "d719793199df1c89",
+            "id": "dd2166f184edaede",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Node/Пакетные менеджеры.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Web/Node/Пакетные менеджеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Web/Node/Пакетные менеджеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Web/Node/Пакетные менеджеры.md"
+              }
             }
           }
         ],
@@ -177,26 +186,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d719793199df1c89",
+  "active": "dd2166f184edaede",
   "lastOpenFiles": [
     "Programming/Web/Node/Написание автоматизированных тестов.md",
+    "Programming/Web/Node/Системы сборки.md",
     "Programming/Системы управления версиями.md",
+    "Education/Книги/2024/Как взломать пентагон на HTML.md",
+    "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Web.md",
     "Programming/Web/Node/Node.js.md",
-    "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Стили программирования/Функциональное программирование.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Стили программирования",
     "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
-    "Programming/Web/Node/Системы сборки.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Web/Node/Typescript/Статический анализ кода.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "системы сборки.md",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Untitled",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Cache/Pasted image 20240822002237.png",
