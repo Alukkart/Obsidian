@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Libs.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Libs.md",
+                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Libs.md",
+                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Libs.md"
+                "file": "Linux/Arch/Arch.md"
               }
             }
           }
@@ -188,6 +188,10 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Linux/Дистрибутивы.md",
+    "Linux/Общие настройки для всех дистрибутивов.md",
+    "Linux/Linux.md",
+    "Programming/Web/Node/Libs.md",
     "Programming/Web/Resources.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
@@ -217,9 +221,6 @@
     "Templates/Therminal template.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
-    "Linux/Arch/Arch.md",
-    "Programming/Web/Node/Libs.md",
-    "Programming/Web/SEO.md",
     "Cache/Pasted image 20240821231447.png",
     "Cache/Pasted image 20240821231004.png",
     "Cache/Pasted image 20240820212656.png",
@@ -227,7 +228,6 @@
     "Cache/Pasted image 20240820212624.png",
     "Cache/Pasted image 20240820212537.png",
     "Programming/Web/Node/Typescript/Структуры данных",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Typescript/Data types/Map obj",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
