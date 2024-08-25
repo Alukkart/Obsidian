@@ -27,10 +27,6 @@ tags:
 # Troubleshooting:
 - VS думает что она nautilus - `xdg-mime default org.gnome.Nautilus.desktop inode/directory`
 # Additional:
-## OhMyZsh:
-- Установка - `sudo pacman -S zsh && sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-- Темы - ~/.zshrc `ZSH_THEME="robbyrussell"`=> `ZSH_THEME="agnoster"` 
-- Шрифты - `git clone https://github.com/powerline/fonts.git && cd fonts && ./install.sh && cd ../ && rm -rf fonts`
 ## Touche (жесты тачпада):
 - `sudo dnf install touchegg && sudo systemctl start touchegg && sudo systemctl enable touchegg`
 # Wifi connect:
@@ -38,7 +34,6 @@ tags:
 - `station list`
 - `station wlan0 get-networks`
 - `station wlan0 connect <SSID_NAME>`
-
 # DIP
 - `spoof-dpi`
 - `brave --proxy-server="http://127.0.0.1:8080"`
