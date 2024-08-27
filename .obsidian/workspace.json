@@ -124,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662
+    "width": 550
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +198,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b6fd1ac43650918",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
@@ -230,7 +227,6 @@
     "Programming/Стили программирования/Функциональное программирование.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования",
-    "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
     "Cache/Pasted image 20240822000558.png",
