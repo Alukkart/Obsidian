@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Linux/ZSH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Linux/ZSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Linux/ZSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux.md"
+                "file": "Linux/ZSH.md"
               }
             }
           }
@@ -188,9 +188,10 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/База.md",
+    "Linux/Linux.md",
     "Linux/ZSH.md",
     "Linux/Arch/Arch.md",
-    "Linux/Linux.md",
     "Linux/Репозитории.md",
     "Linux/Дистрибутивы.md",
     "Linux/Общие настройки для всех дистрибутивов.md",
@@ -198,7 +199,6 @@
     "Programming/Web/Resources.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
-    "Programming/База.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
     "Programming/Web/Node/Написание автоматизированных тестов.md",
     "Programming/Web/Node/Системы сборки.md",
