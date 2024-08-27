@@ -15,9 +15,9 @@
               "state": {
                 "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
                 "viewState": {
-                  "x": 930.3765699539733,
-                  "y": 356.55283484487,
-                  "zoom": -1.11425717925768
+                  "x": 1248.77665199683,
+                  "y": 314.4566701517039,
+                  "zoom": 0.3857428207423199
                 }
               }
             }
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576
+    "width": 662
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +205,7 @@
   "active": "8b6fd1ac43650918",
   "lastOpenFiles": [
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
@@ -230,7 +231,6 @@
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования",
     "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
-    "Programming/Web/Node/Typescript/Структуры данных.md",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
     "Cache/Pasted image 20240822000558.png",

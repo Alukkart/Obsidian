@@ -5,5 +5,8 @@
   "nativeMenus": false,
   "textFontFamily": "American Typewriter",
   "interfaceFontFamily": "American Typewriter",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
