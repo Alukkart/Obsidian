@@ -17,7 +17,7 @@ https://www.npmjs.com/package/bcrypt
 иконки
 https://lucide.dev/
 `npm install lucide-react` - React / Next.js
-`pnpm install lucide` Express etc.
+`npm install lucide` Express etc.
 # Zustand
 Менеджер состояния (state), который упрощает управление состоянием приложения в React/Next.js
 https://zustand-demo.pmnd.rs/
