@@ -50,3 +50,5 @@ https://www.npmjs.com/package/react-imask
 https://theboroer.github.io/localtunnel-www/
 
 https://www.npmjs.com/package/nextjs-toploader
+
+https://www.npmjs.com/package/react-insta-stories

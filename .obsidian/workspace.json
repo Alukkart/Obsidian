@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+                "file": "Programming/Web/Node/Libs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+                "file": "Programming/Web/Node/Libs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+                "file": "Programming/Web/Node/Libs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
+                "file": "Programming/Web/Node/Libs.md"
               }
             }
           }
@@ -202,10 +202,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "8b6fd1ac43650918",
   "lastOpenFiles": [
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
+    "Programming/Web/Resources.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
@@ -218,7 +219,6 @@
     "Programming/База.md",
     "Linux/Arch/Arch.md",
     "Programming/Web/Node/Libs.md",
-    "Programming/Web/Resources.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
