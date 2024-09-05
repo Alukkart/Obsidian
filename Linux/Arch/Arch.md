@@ -6,12 +6,24 @@ tags:
 # Установка через archinstall:
 
 # Post-install:
-- `sudo timedatectl set-local-rtc 1 --adjust-system-clock` - Другой формат хранения времени (чтоб не ломалось время при загрузке в винду)
-- `gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']";gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Shift>Alt_L']"` - Смена языка на Alt + Shift
-- `pacman -S ttf-sazanami` - Отображение восточно азиатских символов
-- `sudo pacman -S --needed base-devel git && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si` - Установка Yay(AUR)
+## Другой формат хранения времени (чтоб не ломалось время при загрузке в винду)
+```
+sudo timedatectl set-local-rtc 1 --adjust-system-clock
+```
+## Смена языка на Alt + Shift
+```
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']";gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Shift>Alt_L']"
+```
+## Отображение восточно азиатских символов
+```
+sudo pacman -S ttf-sazanami
+```
+# Yay(AUR):
+```
+sudo pacman -S --needed base-devel git && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+```
 # Основные программы:
-- ОФ репозитории - `sudo pacman -S steam libreoffice-fresh nvidia-settings neofetch`
+- ОФ репозитории - `sudo pacman -S steam libreoffice-fresh nvidia-settings flatpak neofetch`
 - flatpak - `flatpak install flathub org.telegram.desktop com.github.flxzt.rnote com.mattjakeman.ExtensionManager io.github.purplehorrorrus.Meridius md.obsidian.Obsidian com.discordapp.Discord com.dec05eba.gpu_screen_recorder com.github.tenderowl.frog flatpak install flathub io.github.vikdevelop.SaveDesktop`
 - yay(AUR) - `yay -S visual-studio-code-bin brave-bin ttf-droid-sans-mono-dotted-powerline-git`
 # Extensions:

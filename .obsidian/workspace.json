@@ -11,32 +11,16 @@
             "id": "766bf8dbb232832f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-                "viewState": {
-                  "x": 1248.77665199683,
-                  "y": 314.4566701517039,
-                  "zoom": 0.3857428207423199
-                }
-              }
-            }
-          },
-          {
-            "id": "8b6fd1ac43650918",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/ПО/Docker/Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +79,7 @@
       {
         "id": "23f6f0f49cfc758a",
         "type": "tabs",
-        "dimension": 52.5,
+        "dimension": 41.20505344995141,
         "children": [
           {
             "id": "6530cb1def2d8d8b",
@@ -124,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +134,7 @@
       {
         "id": "192447c50af0b608",
         "type": "tabs",
-        "dimension": 47.5,
+        "dimension": 58.794946550048586,
         "children": [
           {
             "id": "576be28795952012",
@@ -179,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Resources.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,36 +169,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550
+    "width": 457
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b6fd1ac43650918",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Programming/ПО/Docker/Docker.md",
+    "Linux/Arch/Arch.md",
+    "Linux/Arch/Pamac.md",
+    "Linux/ZSH.md",
+    "Linux/Linux.md",
+    "Linux/Дистрибутивы.md",
+    "Linux/Общие настройки для всех дистрибутивов.md",
+    "Linux/Репозитории.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Libs.md",
     "Programming/Web/Resources.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
-    "Linux/Linux.md",
-    "Linux/Репозитории.md",
-    "Linux/Дистрибутивы.md",
-    "Linux/Общие настройки для всех дистрибутивов.md",
-    "Linux/ZSH.md",
     "Programming/База.md",
-    "Linux/Arch/Arch.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
@@ -228,8 +211,6 @@
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Web/Web.md",
     "Programming/Web/Node/Node.js.md",
-    "Programming/Стили программирования/Функциональное программирование.md",
-    "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
