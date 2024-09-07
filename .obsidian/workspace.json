@@ -11,13 +11,8 @@
             "id": "766bf8dbb232832f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Arch/Arch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Arch/Arch.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -188,9 +179,12 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "Programming/ПО/Docker/Docker.md",
+    "Programming/Стили программирования/Объектно-ориентированное программирование.md",
+    "Programming/C++/Untitled.md",
     "Linux/Arch/Arch.md",
+    "Programming/C++",
     "Linux/Arch/Pamac.md",
+    "Programming/ПО/Docker/Docker.md",
     "Linux/ZSH.md",
     "Linux/Linux.md",
     "Linux/Дистрибутивы.md",
@@ -213,8 +207,6 @@
     "Programming/Web/Node/Системы сборки.md",
     "Programming/Системы управления версиями.md",
     "Programming/Web/Node/Typescript/Typescript.md",
-    "Programming/Web/Web.md",
-    "Programming/Web/Node/Node.js.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
@@ -234,7 +226,6 @@
     "Programming/Web/Node/Typescript/Data types/Strings",
     "dev.zip",
     "ra.zip",
-    "Programming/Web/Node/Typescript/Data types/Arrays",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }

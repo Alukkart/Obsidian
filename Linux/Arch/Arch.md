@@ -18,10 +18,12 @@ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift
 ```
 sudo pacman -S ttf-sazanami
 ```
-# Yay(AUR):
+## Yay(AUR):
 ```
 sudo pacman -S --needed base-devel git && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 ```
+## Pamac(GUI для pacman, yay и flatpak)
+`yay -S pamac-flatpak`
 # Основные программы:
 - ОФ репозитории - `sudo pacman -S steam libreoffice-fresh nvidia-settings flatpak neofetch`
 - flatpak - `flatpak install flathub org.telegram.desktop com.github.flxzt.rnote com.mattjakeman.ExtensionManager io.github.purplehorrorrus.Meridius md.obsidian.Obsidian com.discordapp.Discord com.dec05eba.gpu_screen_recorder com.github.tenderowl.frog flatpak install flathub io.github.vikdevelop.SaveDesktop`
@@ -40,12 +42,14 @@ sudo pacman -S --needed base-devel git && git clone https://aur.archlinux.org/ya
 - VS думает что она nautilus - `xdg-mime default org.gnome.Nautilus.desktop inode/directory`
 # Additional:
 ## Touche (жесты тачпада):
-- `sudo dnf install touchegg && sudo systemctl start touchegg && sudo systemctl enable touchegg`
+- `yay -S touchegg && sudo systemctl start touchegg && sudo systemctl enable touchegg`
+## DIP
+- `yay -S spoofdpi`
+- `spoofdpi`
+- `brave --proxy-server="http://127.0.0.1:8080"`
 # Wifi connect:
 - `iwctl`
 - `station list`
 - `station wlan0 get-networks`
 - `station wlan0 connect <SSID_NAME>`
-# DIP
-- `spoof-dpi`
-- `brave --proxy-server="http://127.0.0.1:8080"`
+

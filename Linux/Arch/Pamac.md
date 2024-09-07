@@ -1,3 +1,0 @@
-```
-yay -S pamac-flatpak
-```
