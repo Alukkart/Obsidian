@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ff95d77254608fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C++/Variables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C++/Variables.md",
+                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C++/Variables.md",
+                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C++/Variables.md"
+                "file": "Linux/Arch/Arch.md"
               }
             }
           }
@@ -200,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ff95d77254608fe",
+  "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "Programming/C++/General.md",
     "Programming/C++/Variables.md",
+    "Programming/C++/General.md",
     "Programming/C++/Functions.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
