@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/Arrays.md",
+                "file": "Programming/C++/Variables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C++/Arrays.md",
+                "file": "Programming/C++/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C++/Arrays.md",
+                "file": "Programming/C++/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C++/Arrays.md"
+                "file": "Programming/C++/Variables.md"
               }
             }
           }
@@ -188,13 +188,17 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/C++/Types.md",
+    "Programming/C++/Синтаксис.md",
+    "Programming/C++/С++.md",
+    "Programming/C++/Arrays.md",
+    "Programming/C++/Exercises/Exercises.md",
+    "Programming/C++/Exercises/Calc.md",
+    "Linux/Arch/Arch.md",
     "Programming/C++/String.md",
     "Programming/C++/Loops.md",
-    "Programming/C++/General.md",
     "Programming/C++/Functions.md",
-    "Programming/C++/Types.md",
     "Programming/C++/Variables.md",
-    "Programming/C++/Arrays.md",
     "Programming/C++/Constructions.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
@@ -205,11 +209,7 @@
     "Linux/Дистрибутивы.md",
     "Linux/Репозитории.md",
     "Linux/Общие настройки для всех дистрибутивов.md",
-    "Linux/Arch/Arch.md",
-    "Programming/C++/Exercises/Exercises.md",
-    "Programming/C++/Exercises/Calc.md",
     "Programming/C++/Exercises",
-    "Programming/C++/Untitled.md",
     "Programming/C++",
     "Linux/Arch/Pamac.md",
     "Programming/ПО/Docker/Docker.md",

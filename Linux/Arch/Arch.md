@@ -56,7 +56,9 @@ xdg-mime default org.gnome.Nautilus.desktop inode/directory
 ```
 # Additional:
 ## Touche (жесты тачпада):
-- `yay -S touchegg && sudo systemctl start touchegg && sudo systemctl enable touchegg`
+```zsh title="terminal"
+yay -S touchegg && sudo systemctl start touchegg && sudo systemctl enable touchegg
+```
 ## DIP
 ```zsh title="terminal"
 yay -S spoofdpi
