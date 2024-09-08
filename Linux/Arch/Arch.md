@@ -26,7 +26,7 @@ sudo pacman -S --needed base-devel git && git clone https://aur.archlinux.org/ya
 `yay -S pamac-flatpak`
 # Основные программы:
 - ОФ репозитории - `sudo pacman -S steam libreoffice-fresh nvidia-settings flatpak neofetch`
-- flatpak - `flatpak install flathub org.telegram.desktop com.github.flxzt.rnote com.mattjakeman.ExtensionManager io.github.purplehorrorrus.Meridius md.obsidian.Obsidian com.discordapp.Discord com.dec05eba.gpu_screen_recorder com.github.tenderowl.frog flatpak install flathub io.github.vikdevelop.SaveDesktop`
+- flatpak - `flatpak install flathub org.telegram.desktop com.github.flxzt.rnote com.mattjakeman.ExtensionManager io.github.purplehorrorrus.Meridius md.obsidian.Obsidian com.discordapp.Discord com.dec05eba.gpu_screen_recorder com.github.tenderowl.frog io.github.vikdevelop.SaveDesktop`
 - yay(AUR) - `yay -S visual-studio-code-bin brave-bin ttf-droid-sans-mono-dotted-powerline-git`
 # Extensions:
 - X11 gestures 
