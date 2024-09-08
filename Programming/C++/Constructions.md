@@ -23,7 +23,7 @@ std::cout << std::boolalpha << (d || e); // true (OR)
 std::cout << std::boolalpha << (d ^ e); // true (XOR)
 ```
 
-**Конструкции**
+# Конструкции
 
 ```cpp
 #include <iostream>
@@ -59,7 +59,7 @@ int main()
 }
 ```
 
-**Операторы**
+# Операторы
 
 ```cpp
 int a { 10 }

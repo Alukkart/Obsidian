@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Arrays.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md"
+                "file": "Programming/C++/Arrays.md"
               }
             }
           }
@@ -188,35 +188,35 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "Programming/C++/Variables.md",
+    "Programming/C++/String.md",
+    "Programming/C++/Loops.md",
     "Programming/C++/General.md",
     "Programming/C++/Functions.md",
-    "Programming/C++/Exercises/Exercises.md",
-    "Programming/C++/Exercises/Calc.md",
-    "Programming/C++/Loops.md",
+    "Programming/C++/Types.md",
+    "Programming/C++/Variables.md",
     "Programming/C++/Arrays.md",
     "Programming/C++/Constructions.md",
-    "Programming/C++/Types.md",
-    "Programming/C++/String.md",
-    "Programming/C++/Exercises",
-    "Linux/Arch/Arch.md",
+    "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
+    "Programming/Стили программирования/Парадигмы программирования.md",
+    "Programming/Стили программирования/Функциональное программирование.md",
+    "Linux/Linux.md",
+    "Linux/ZSH.md",
+    "Linux/Дистрибутивы.md",
+    "Linux/Репозитории.md",
+    "Linux/Общие настройки для всех дистрибутивов.md",
+    "Linux/Arch/Arch.md",
+    "Programming/C++/Exercises/Exercises.md",
+    "Programming/C++/Exercises/Calc.md",
+    "Programming/C++/Exercises",
     "Programming/C++/Untitled.md",
     "Programming/C++",
     "Linux/Arch/Pamac.md",
     "Programming/ПО/Docker/Docker.md",
-    "Linux/ZSH.md",
-    "Linux/Linux.md",
-    "Linux/Дистрибутивы.md",
-    "Linux/Общие настройки для всех дистрибутивов.md",
-    "Linux/Репозитории.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Libs.md",
     "Programming/Web/Resources.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",

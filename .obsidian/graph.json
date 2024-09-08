@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 6073814
       }
+    },
+    {
+      "query": "path:Programming/C++  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10.5208333333333,
   "linkStrength": 1,
   "linkDistance": 130,
-  "scale": 0.0889892578125,
+  "scale": 0.13348388671875,
   "close": true
 }
