@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ff95d77254608fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C++/Variables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md"
+                "file": "Programming/C++/Variables.md"
               }
             }
           }
@@ -186,11 +200,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "766bf8dbb232832f",
+  "active": "9ff95d77254608fe",
   "lastOpenFiles": [
+    "Programming/C++/General.md",
+    "Programming/C++/Variables.md",
+    "Programming/C++/Functions.md",
+    "Programming/C++/Exercises/Exercises.md",
+    "Programming/C++/Exercises/Calc.md",
+    "Programming/C++/Loops.md",
+    "Programming/C++/Arrays.md",
+    "Programming/C++/Constructions.md",
+    "Programming/C++/Types.md",
+    "Programming/C++/String.md",
+    "Programming/C++/Exercises",
+    "Linux/Arch/Arch.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/C++/Untitled.md",
-    "Linux/Arch/Arch.md",
     "Programming/C++",
     "Linux/Arch/Pamac.md",
     "Programming/ПО/Docker/Docker.md",
@@ -206,16 +231,6 @@
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Структура директории app.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md",
-    "Programming/База.md",
-    "Programming/Стили программирования/Парадигмы программирования.md",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
-    "Programming/Web/Node/Пакетные менеджеры.md",
-    "Programming/Web/Node/Написание автоматизированных тестов.md",
-    "Programming/Web/Node/Системы сборки.md",
-    "Programming/Системы управления версиями.md",
-    "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
@@ -234,7 +249,6 @@
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
     "dev.zip",
-    "ra.zip",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }
