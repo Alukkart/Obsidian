@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "edd93377b6c92347",
+        "id": "962ec318efdd07fa",
         "type": "tabs",
         "children": [
           {
-            "id": "766bf8dbb232832f",
+            "id": "816ce1b09d500233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Arch/Arch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Arch/Arch.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -186,16 +177,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "766bf8dbb232832f",
+  "active": "816ce1b09d500233",
   "lastOpenFiles": [
+    "Programming/Web/Node/Typescript/Data types/Arrays/Shift.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Concat.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+    "Programming/Web/Node/Prisma/Client.md",
+    "Programming/Web/Node/Prisma/Prisma.md",
+    "Programming/Web/Node/Prisma/Seed.md",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+    "Programming/Web/Библиотеки компонентов/daisyUI.md",
     "Programming/C++/Variables.md",
+    "Programming/C++/С++.md",
+    "Linux/Arch/Arch.md",
     "Programming/C++/Types.md",
     "Programming/C++/Синтаксис.md",
-    "Programming/C++/С++.md",
     "Programming/C++/Arrays.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
-    "Linux/Arch/Arch.md",
     "Programming/C++/String.md",
     "Programming/C++/Loops.md",
     "Programming/C++/Functions.md",
@@ -206,17 +205,9 @@
     "Programming/Стили программирования/Функциональное программирование.md",
     "Linux/Linux.md",
     "Linux/ZSH.md",
-    "Linux/Дистрибутивы.md",
-    "Linux/Репозитории.md",
-    "Linux/Общие настройки для всех дистрибутивов.md",
     "Programming/C++/Exercises",
     "Programming/C++",
-    "Linux/Arch/Pamac.md",
-    "Programming/ПО/Docker/Docker.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
-    "Programming/Web/Node/Libs.md",
-    "Programming/Web/Resources.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
