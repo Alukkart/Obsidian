@@ -14,6 +14,11 @@ sudo timedatectl set-local-rtc 1 --adjust-system-clock
 ```zsh title="terminal"
 gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']";gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Shift>Alt_L']"
 ```
+
+```
+gsettings set org.gnome.shell.keybindings show-screenshot-ui "['<Shift><Super>s']";
+
+```
 ## Отображение восточно азиатских символов
 ```zsh title="terminal"
 sudo pacman -S ttf-sazanami
@@ -29,18 +34,22 @@ yay -S pamac-flatpak
 # Основные программы:
 ## ОФ репозитории: 
 ```zsh title="terminal"
-sudo pacman -S steam libreoffice-fresh nvidia-settings flatpak neofetch
+sudo pacman -S steam libreoffice-fresh nvidia-settings flatpak neofetch docker-compose
 ```
-## flatpak :
+## flatpak:
 ```zsh title="terminal"
 flatpak install flathub org.telegram.desktop com.github.flxzt.rnote com.mattjakeman.ExtensionManager io.github.purplehorrorrus.Meridius md.obsidian.Obsidian com.discordapp.Discord com.dec05eba.gpu_screen_recorder com.github.tenderowl.frog io.github.vikdevelop.SaveDesktop
 ```
 ## yay(AUR): 
 ```zsh title="terminal"
-yay -S visual-studio-code-bin brave-bin ttf-droid-sans-mono-dotted-powerline-git
+yay -S visual-studio-code-bin brave-bin ttf-droid-sans-mono-dotted-powerline-git docker-desktop
+```
+# Профили энергопотребления:
+```zsh title="terminal"
+sudo pacman -S power-profiles-daemon
 ```
 # Extensions:
-- X11 gestures 
+- X11 gestures
 - gSnap
 - Custom Accent Colors
 - Caffeine
