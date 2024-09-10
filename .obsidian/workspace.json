@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Programming/Web/Node/Prisma/Client.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Programming/Web/Node/Prisma/Client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Programming/Web/Node/Prisma/Client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md"
+                "file": "Programming/Web/Node/Prisma/Client.md"
               }
             }
           }
@@ -188,6 +188,13 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/Web/Node/Prisma/Seed.md",
+    "Programming/Web/Node/Prisma/Prisma.md",
+    "Programming/Web/Node/Prisma/Client.md",
+    "Programming/Web/Node/Libs.md",
+    "Programming/Web/Web.md",
+    "Programming/Web/SEO.md",
+    "Programming/Web/Resources.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/C++/Loops.md",
     "Programming/C++/Functions.md",
@@ -207,16 +214,9 @@
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
-    "Programming/Стили программирования/Функциональное программирование.md",
-    "Linux/Linux.md",
-    "Linux/Дистрибутивы.md",
-    "Linux/Репозитории.md",
-    "Linux/Общие настройки для всех дистрибутивов.md",
     "Programming/C++/Exercises",
     "Programming/C++",
-    "Linux/Arch/Pamac.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Programming/Web/Node/Libs.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",

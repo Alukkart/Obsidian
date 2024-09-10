@@ -12,7 +12,7 @@ https://react-hot-toast.com/
 # Bcrypt
 хеширование данных
 https://www.npmjs.com/package/bcrypt
-`npm i bcryp @types/bcrypt` 
+`npm i bcrypt @types/bcrypt` 
 # Lucide
 иконки
 https://lucide.dev/
