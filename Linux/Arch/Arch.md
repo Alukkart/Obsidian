@@ -19,7 +19,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift
 gsettings set org.gnome.shell.keybindings show-screenshot-ui "['<Shift><Super>s']";
 
 ```
-## Отображение восточно азиатских символов
+## Отображение восточно-азиатских символов
 ```zsh title="terminal"
 sudo pacman -S ttf-sazanami
 ```
@@ -44,7 +44,7 @@ flatpak install flathub org.telegram.desktop com.github.flxzt.rnote com.mattjake
 ```zsh title="terminal"
 yay -S visual-studio-code-bin brave-bin ttf-droid-sans-mono-dotted-powerline-git docker-desktop
 ```
-# Профили энергопотребления:
+# Профили энергопотребления (gnome):
 ```zsh title="terminal"
 sudo pacman -S power-profiles-daemon
 ```
@@ -58,6 +58,7 @@ sudo pacman -S power-profiles-daemon
 - Vitals
 - Adds AppIndicator / KStatusNotifierItem
 - Clipboard Indicator
+- Auto Power Profile
 # Troubleshooting:
 ## Не включается bluetooth
 ```zsh title="terminal"

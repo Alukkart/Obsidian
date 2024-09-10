@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ZSH.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ZSH.md",
+                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ZSH.md",
+                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ZSH.md"
+                "file": "Linux/Arch/Arch.md"
               }
             }
           }
@@ -188,8 +188,8 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Linux/ZSH.md",
+    "conflict-files-obsidian-git.md",
     "Linux/Arch/Arch.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/C++/Variables.md",
