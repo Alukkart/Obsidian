@@ -16,7 +16,7 @@
 npx create-next-app@latest my-app --typescript --tailwind --eslint
 ```
 
-## Запуск [CLI(command-line interface)](https://en.wikipedia.org/wiki/Command-line_interface)
+## Запуск [CLI (command-line interface)](https://en.wikipedia.org/wiki/Command-line_interface)
 Запустите init команду для настройки вашего проекта:
 ```zsh title="terminal"
 npx shadcn-ui@latest init
