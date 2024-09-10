@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/Types.md",
+                "file": "Programming/C++/Loops.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C++/Types.md",
+                "file": "Programming/C++/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C++/Types.md",
+                "file": "Programming/C++/Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C++/Types.md"
+                "file": "Programming/C++/Loops.md"
               }
             }
           }
@@ -188,8 +188,9 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "Programming/C++/Variables.md",
+    "Programming/C++/Functions.md",
     "Programming/C++/Types.md",
+    "Programming/C++/Variables.md",
     "Programming/C++/String.md",
     "Programming/C++/С++.md",
     "Linux/Arch/Arch.md",
@@ -201,7 +202,6 @@
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
     "Programming/C++/Loops.md",
-    "Programming/C++/Functions.md",
     "Programming/C++/Constructions.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
