@@ -59,6 +59,10 @@ sudo pacman -S power-profiles-daemon
 - Adds AppIndicator / KStatusNotifierItem
 - Clipboard Indicator
 # Troubleshooting:
+## Не включается bluetooth
+```zsh title="terminal"
+sudo systemctl start bluetooth && sudo systemctl enable bluetooth
+```
 ## VS думает что она nautilus:
 ```zsh title="terminal"
 xdg-mime default org.gnome.Nautilus.desktop inode/directory
