@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/C++/Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md"
+                "file": "Programming/C++/Types.md"
               }
             }
           }
@@ -188,18 +188,18 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "Linux/ZSH.md",
-    "conflict-files-obsidian-git.md",
-    "Linux/Arch/Arch.md",
-    "Programming/ПО/Docker/Docker.md",
     "Programming/C++/Variables.md",
     "Programming/C++/Types.md",
-    "Programming/C++/Синтаксис.md",
+    "Programming/C++/String.md",
     "Programming/C++/С++.md",
+    "Linux/Arch/Arch.md",
+    "Linux/ZSH.md",
+    "conflict-files-obsidian-git.md",
+    "Programming/ПО/Docker/Docker.md",
+    "Programming/C++/Синтаксис.md",
     "Programming/C++/Arrays.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
-    "Programming/C++/String.md",
     "Programming/C++/Loops.md",
     "Programming/C++/Functions.md",
     "Programming/C++/Constructions.md",

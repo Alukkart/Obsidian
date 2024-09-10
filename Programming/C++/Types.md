@@ -21,5 +21,14 @@ char a2 { 65 }
 wchar_t s {L's'} // символы больше 1 байта
 ```
 
+```cpp
+#include <string>
+#include <iostream>
+
+std::string number_to_string(int num) {
+	return std::to_string(num);
+};
+```
+
 **Связанное**
 - [[Variables]]
