@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/Arrays.md",
+                "file": "Programming/C++/String.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тесты",
+                "query": "\\t",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C++/Arrays.md",
+                "file": "Programming/C++/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C++/Arrays.md",
+                "file": "Programming/C++/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C++/Arrays.md"
+                "file": "Programming/C++/String.md"
               }
             }
           }
@@ -188,6 +189,14 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/C++/Variables.md",
+    "Programming/C++/Functions.md",
+    "Programming/C++/Loops.md",
+    "Programming/C++/Constructions.md",
+    "Programming/C++/Arrays.md",
+    "Programming/C++/String.md",
+    "Programming/C++/Types.md",
+    "Programming/C++/С++.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Prisma/Client.md",
     "Programming/Web/Node/Prisma/Seed.md",
@@ -197,21 +206,13 @@
     "Programming/Web/SEO.md",
     "Programming/Web/Resources.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
-    "Programming/C++/Loops.md",
-    "Programming/C++/Functions.md",
-    "Programming/C++/Types.md",
-    "Programming/C++/Variables.md",
-    "Programming/C++/String.md",
-    "Programming/C++/С++.md",
     "Linux/Arch/Arch.md",
     "Linux/ZSH.md",
     "conflict-files-obsidian-git.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/C++/Синтаксис.md",
-    "Programming/C++/Arrays.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
-    "Programming/C++/Constructions.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/C++/Exercises",
