@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edd93377b6c92347",
+        "id": "2296b7191ef34755",
         "type": "tabs",
         "children": [
           {
-            "id": "766bf8dbb232832f",
+            "id": "a17daf9dce7d606b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programming/C++/String.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Programming/Web/Node/Roadmap.canvas",
+                "viewState": {
+                  "x": -80.3465292808034,
+                  "y": -74.32408586286009,
+                  "zoom": -0.5
+                }
               }
             }
           }
@@ -66,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C++/String.md",
+                "file": "Programming/Web/Node/Roadmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C++/String.md",
+                "file": "Programming/Web/Node/Roadmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C++/String.md"
+                "file": "Programming/Web/Node/Roadmap.canvas"
               }
             }
           }
@@ -187,14 +188,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "766bf8dbb232832f",
+  "active": "a17daf9dce7d606b",
   "lastOpenFiles": [
+    "Programming/Web/Node/Node.js.md",
+    "Programming/Web/Node/Roadmap.canvas",
+    "Programming/C++/String.md",
     "Programming/C++/Variables.md",
     "Programming/C++/Functions.md",
     "Programming/C++/Loops.md",
     "Programming/C++/Constructions.md",
     "Programming/C++/Arrays.md",
-    "Programming/C++/String.md",
     "Programming/C++/Types.md",
     "Programming/C++/С++.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",

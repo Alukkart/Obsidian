@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b2e2c38450519b34","type":"file","file":"Programming/Web/Node/Node.js.md","x":-540,"y":-240,"width":400,"height":400},
+		{"id":"b492f7d15f53a47b","type":"file","file":"Programming/Web/Node/Prisma/Prisma.md","x":60,"y":-640,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"802edca95123981b","fromNode":"b2e2c38450519b34","fromSide":"right","toNode":"b492f7d15f53a47b","toSide":"left"}
+	]
+}
