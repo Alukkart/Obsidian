@@ -16,15 +16,29 @@
               "state": {
                 "file": "Programming/Web/Node/Roadmap.canvas",
                 "viewState": {
-                  "x": 877.4945660986286,
-                  "y": -284.1810326047253,
+                  "x": 601.0629305846101,
+                  "y": 127.4287103859296,
                   "zoom": -0.7076816589742898
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cbd502339db4a04c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Общие настройки для всех дистрибутивов.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas",
+                "file": "Linux/Общие настройки для всех дистрибутивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas",
+                "file": "Linux/Общие настройки для всех дистрибутивов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas"
+                "file": "Linux/Общие настройки для всех дистрибутивов.md"
               }
             }
           }
@@ -191,9 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a17daf9dce7d606b",
+  "active": "cbd502339db4a04c",
   "lastOpenFiles": [
+    "Linux/Дистрибутивы.md",
     "Linux/ZSH.md",
+    "Programming/Web/Node/Roadmap.canvas",
     "Linux/Arch/Arch.md",
     "Linux/Linux.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
@@ -202,7 +218,6 @@
     "Cache/Pasted image 20240911161156.png",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
-    "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
     "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
@@ -223,7 +238,6 @@
     "Programming/Web/Node/Prisma/Prisma.md",
     "Programming/Web/Web.md",
     "Programming/Web/SEO.md",
-    "Programming/Web/Resources.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Стили программирования",
