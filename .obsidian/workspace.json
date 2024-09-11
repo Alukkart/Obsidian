@@ -10,16 +10,18 @@
           {
             "id": "a17daf9dce7d606b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Programming/Web/Node/Roadmap.canvas",
                 "viewState": {
-                  "x": -80.3465292808034,
-                  "y": -74.32408586286009,
-                  "zoom": -0.5
+                  "x": 877.4945660986286,
+                  "y": -284.1810326047253,
+                  "zoom": -0.7076816589742898
                 }
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -175,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360
+    "width": 360,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +193,22 @@
   },
   "active": "a17daf9dce7d606b",
   "lastOpenFiles": [
-    "Programming/Web/Node/Node.js.md",
+    "Linux/ZSH.md",
+    "Linux/Arch/Arch.md",
+    "Linux/Linux.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Адаптивный дизайн.md",
+    "Cache/Pasted image 20240911161616.png",
+    "Cache/Pasted image 20240911161156.png",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
     "Programming/Web/Node/Roadmap.canvas",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md",
+    "Programming/Web/Node/Фиктивные объекты и данные, моки, стабы.md",
+    "Programming/Web/Node/Пакетные менеджеры.md",
+    "Programming/Web/Node/Libs.md",
+    "Programming/Web/Node/Node.js.md",
     "Programming/C++/String.md",
     "Programming/C++/Variables.md",
     "Programming/C++/Functions.md",
@@ -204,20 +221,9 @@
     "Programming/Web/Node/Prisma/Client.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/Prisma.md",
-    "Programming/Web/Node/Libs.md",
     "Programming/Web/Web.md",
     "Programming/Web/SEO.md",
     "Programming/Web/Resources.md",
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
-    "Linux/Arch/Arch.md",
-    "Linux/ZSH.md",
-    "conflict-files-obsidian-git.md",
-    "Programming/ПО/Docker/Docker.md",
-    "Programming/C++/Синтаксис.md",
-    "Programming/C++/Exercises/Exercises.md",
-    "Programming/C++/Exercises/Calc.md",
-    "Programming/Web/Node/Typescript/Структуры данных.md",
-    "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Стили программирования",
@@ -230,14 +236,11 @@
     "Cache/Pasted image 20240821231004.png",
     "Cache/Pasted image 20240820212656.png",
     "Cache/Pasted image 20240820212638.png",
-    "Cache/Pasted image 20240820212624.png",
-    "Cache/Pasted image 20240820212537.png",
     "Programming/Web/Node/Typescript/Структуры данных",
     "Programming/Web/Node/Typescript/Data types/Map obj",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
-    "dev.zip",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }

@@ -50,7 +50,6 @@
   "Programming/Web/Node/Prisma/Client.md": "LiAppWindow",
   "Programming/Web/Node/Фреймворки/Бекэнд": "LiBrackets",
   "Programming/Web/Node/Фреймворки/Фуллстек": "LiBraces",
-  "Programming/Web/Node/Фреймворки/CSS/Tailwind.md": "IcDevTailwindcssPlain",
   "Programming/Web/Node/Фреймворки/CSS/Css фреймворки.md": "IcDevCss3Plain",
   "Programming/Web/Node/Фреймворки/JS/React native.md": "IcDevReactOriginal",
   "Programming/Web/Node/Фреймворки/JS/React.md": "IcDevReactOriginal",
@@ -74,5 +73,6 @@
   "Programming/Web/Node/Пакетные менеджеры.md": "LiPackage",
   "Programming/Системы управления версиями.md": "LiGitCompareArrows",
   "Programming/Web/Node/Написание автоматизированных тестов.md": "LiTestTube2",
-  "Programming/Стили программирования/Объектно-ориентированное программирование.md": "LiSnapToObject"
+  "Programming/Стили программирования/Объектно-ориентированное программирование.md": "LiSnapToObject",
+  "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md": "IcDevTailwindcssPlain"
 }

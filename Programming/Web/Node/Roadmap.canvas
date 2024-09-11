@@ -1,9 +1,35 @@
 {
 	"nodes":[
-		{"id":"b2e2c38450519b34","type":"file","file":"Programming/Web/Node/Node.js.md","x":-540,"y":-240,"width":400,"height":400},
-		{"id":"b492f7d15f53a47b","type":"file","file":"Programming/Web/Node/Prisma/Prisma.md","x":60,"y":-640,"width":400,"height":400}
+		{"id":"b2e2c38450519b34","type":"file","file":"Programming/Web/Node/Node.js.md","x":133,"y":-1472,"width":400,"height":400},
+		{"id":"00dfb6860467ab49","type":"file","file":"Programming/Web/Node/Пакетные менеджеры.md","x":133,"y":-960,"width":400,"height":400},
+		{"id":"c37129813efccb35","type":"file","file":"Programming/Web/Node/Prisma/Seed.md","x":1573,"y":-500,"width":400,"height":400},
+		{"id":"f05537d3f6243d25","type":"file","file":"Programming/Web/Node/Prisma/Client.md","x":1575,"y":-960,"width":400,"height":400},
+		{"id":"b492f7d15f53a47b","type":"file","file":"Programming/Web/Node/Prisma/Prisma.md","x":1020,"y":-960,"width":400,"height":400},
+		{"id":"9988f23d60f89ba8","type":"file","file":"Programming/Web/Node/Prisma/Schema.md","x":1575,"y":-1408,"width":400,"height":400},
+		{"id":"dad44f9454390801","x":133,"y":120,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md"},
+		{"id":"d04a4f26f91d415c","x":-440,"y":120,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Роутинг.md"},
+		{"id":"b43ee1dac2fa5438","x":-960,"y":120,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Навигация.md"},
+		{"id":"b0f16634489b510f","x":-440,"y":640,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md"},
+		{"id":"3ca4faa67c58cd26","x":680,"y":120,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"},
+		{"id":"727e0329cccb7211","x":680,"y":-400,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Обработка ошибок.md"},
+		{"id":"fb6d46f270eace32","x":-960,"y":-400,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md"},
+		{"id":"44a6241903e9fb94","x":133,"y":640,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/Фуллстек/Next.js/UI загрузки и потоковая передача данных.md"},
+		{"id":"109e3ba85682551f","x":-1520,"y":-960,"width":400,"height":400,"type":"file","file":"Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md"}
 	],
 	"edges":[
-		{"id":"802edca95123981b","fromNode":"b2e2c38450519b34","fromSide":"right","toNode":"b492f7d15f53a47b","toSide":"left"}
+		{"id":"802edca95123981b","fromNode":"00dfb6860467ab49","fromSide":"right","toNode":"b492f7d15f53a47b","toSide":"left"},
+		{"id":"a3bec9980352a750","fromNode":"b492f7d15f53a47b","fromSide":"right","toNode":"9988f23d60f89ba8","toSide":"left"},
+		{"id":"47818cec50409589","fromNode":"b492f7d15f53a47b","fromSide":"right","toNode":"c37129813efccb35","toSide":"left"},
+		{"id":"e834361425c4caad","fromNode":"b492f7d15f53a47b","fromSide":"right","toNode":"f05537d3f6243d25","toSide":"left"},
+		{"id":"3adcf43c16d29179","fromNode":"b2e2c38450519b34","fromSide":"bottom","toNode":"00dfb6860467ab49","toSide":"top"},
+		{"id":"068f3e6917df7366","fromNode":"00dfb6860467ab49","fromSide":"bottom","toNode":"dad44f9454390801","toSide":"top"},
+		{"id":"d24d99f4d23a7185","fromNode":"dad44f9454390801","fromSide":"right","toNode":"3ca4faa67c58cd26","toSide":"left"},
+		{"id":"bf0d44b6d0b95a47","fromNode":"dad44f9454390801","fromSide":"left","toNode":"d04a4f26f91d415c","toSide":"right"},
+		{"id":"da4d0b89c2fe98b0","fromNode":"d04a4f26f91d415c","fromSide":"left","toNode":"b43ee1dac2fa5438","toSide":"right"},
+		{"id":"3dc1ffab3678331f","fromNode":"d04a4f26f91d415c","fromSide":"bottom","toNode":"b0f16634489b510f","toSide":"top"},
+		{"id":"4b06481339641502","fromNode":"3ca4faa67c58cd26","fromSide":"top","toNode":"727e0329cccb7211","toSide":"bottom"},
+		{"id":"9d2c6627495f9556","fromNode":"b43ee1dac2fa5438","fromSide":"top","toNode":"fb6d46f270eace32","toSide":"bottom"},
+		{"id":"0e7e8018cde9032d","fromNode":"dad44f9454390801","fromSide":"bottom","toNode":"44a6241903e9fb94","toSide":"top"},
+		{"id":"a84bd58fdbe61cb8","fromNode":"00dfb6860467ab49","fromSide":"left","toNode":"109e3ba85682551f","toSide":"right"}
 	]
 }

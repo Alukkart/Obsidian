@@ -17,7 +17,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift
 
 ```
 gsettings set org.gnome.shell.keybindings show-screenshot-ui "['<Shift><Super>s']";
-
 ```
 ## Отображение восточно-азиатских символов
 ```zsh title="terminal"
@@ -59,6 +58,7 @@ sudo pacman -S power-profiles-daemon
 - Adds AppIndicator / KStatusNotifierItem
 - Clipboard Indicator
 - Auto Power Profile
+
 # Troubleshooting:
 ## Не включается bluetooth
 ```zsh title="terminal"
