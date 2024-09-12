@@ -24,8 +24,13 @@
             "id": "bdff853681881ac8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -117,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Дистрибутивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Дистрибутивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Дистрибутивы.md"
+              }
             }
           }
         ],
@@ -191,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdff853681881ac8",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Programming/Web/Node/Roadmap.canvas",
     "conflict-files-obsidian-git.md",
     "Linux/Дистрибутивы.md",
