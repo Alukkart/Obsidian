@@ -17,7 +17,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift
 
 ```
 gsettings set org.gnome.shell.keybindings show-screenshot-ui "['<Shift><Super>s']";
-
 ```
 ## Отображение восточно азиатских символов
 ```zsh title="terminal"
@@ -58,7 +57,13 @@ sudo pacman -S power-profiles-daemon
 - Vitals
 - Adds AppIndicator / KStatusNotifierItem
 - Clipboard Indicator
+- Rounded Window Corners Reborn
+- Power Profile Switcher
 # Troubleshooting:
+## Не включается bluetooth
+```zsh title="terminal"
+sudo systemctl start bluetooth && sudo systemctl enable bluetooth
+```
 ## VS думает что она nautilus:
 ```zsh title="terminal"
 xdg-mime default org.gnome.Nautilus.desktop inode/directory
