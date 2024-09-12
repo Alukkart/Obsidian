@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdff853681881ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Дистрибутивы.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Дистрибутивы.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Дистрибутивы.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -186,10 +200,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "766bf8dbb232832f",
+  "active": "bdff853681881ac8",
   "lastOpenFiles": [
-    "Linux/Общие настройки для всех дистрибутивов.md",
+    "Programming/Web/Node/Roadmap.canvas",
+    "conflict-files-obsidian-git.md",
     "Linux/Дистрибутивы.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Адаптивный дизайн.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind",
+    "Cache/Pasted image 20240911161616.png",
+    "Cache/Pasted image 20240911161156.png",
+    "Linux/Общие настройки для всех дистрибутивов.md",
     "Linux/ZSH.md",
     "Linux/Arch/Arch.md",
     "Programming/ПО/Docker/Docker.md",
@@ -208,15 +231,9 @@
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Стили программирования/Функциональное программирование.md",
-    "Linux/Linux.md",
-    "Linux/Репозитории.md",
     "Programming/C++/Exercises",
     "Programming/C++",
-    "Linux/Arch/Pamac.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
-    "Programming/Web/Node/Libs.md",
-    "Programming/Web/Resources.md",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
@@ -227,14 +244,11 @@
     "Cache/Pasted image 20240821231004.png",
     "Cache/Pasted image 20240820212656.png",
     "Cache/Pasted image 20240820212638.png",
-    "Cache/Pasted image 20240820212624.png",
-    "Cache/Pasted image 20240820212537.png",
     "Programming/Web/Node/Typescript/Структуры данных",
     "Programming/Web/Node/Typescript/Data types/Map obj",
     "Programming/Web/Библиотеки компонентов",
     "Templates",
     "Programming/Web/Node/Typescript/Data types/Strings",
-    "dev.zip",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }
