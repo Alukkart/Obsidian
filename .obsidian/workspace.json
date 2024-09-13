@@ -24,14 +24,12 @@
             "id": "bdff853681881ac8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas",
-                "viewState": {
-                  "x": 345.88730162779177,
-                  "y": -338.78787847867983,
-                  "zoom": -1.5
-                }
+                "file": "Linux/Arch/Arch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas",
+                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas",
+                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Roadmap.canvas"
+                "file": "Linux/Arch/Arch.md"
               }
             }
           }
@@ -204,9 +202,9 @@
   },
   "active": "bdff853681881ac8",
   "lastOpenFiles": [
+    "Programming/Web/Node/Roadmap.canvas",
     "Linux/Дистрибутивы.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
-    "Programming/Web/Node/Roadmap.canvas",
     "conflict-files-obsidian-git.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Адаптивный дизайн.md",
@@ -233,7 +231,6 @@
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
-    "Programming/Стили программирования/Функциональное программирование.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
