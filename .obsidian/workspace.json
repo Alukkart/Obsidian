@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Дистрибутивы.md",
+                "file": "Programming/Web/Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Дистрибутивы.md",
+                "file": "Programming/Web/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Дистрибутивы.md",
+                "file": "Programming/Web/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Дистрибутивы.md"
+                "file": "Programming/Web/Resources.md"
               }
             }
           }
@@ -188,12 +188,12 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
+    "Linux/Дистрибутивы.md",
     "Linux/Arch/Arch.md",
     "Programming/Web/Node/Roadmap.canvas",
-    "Linux/Дистрибутивы.md",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "conflict-files-obsidian-git.md",
-    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Адаптивный дизайн.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
