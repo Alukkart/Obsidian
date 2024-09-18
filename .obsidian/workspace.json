@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Linux/Swap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Linux/Swap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Linux/Swap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md"
+                "file": "Linux/Swap.md"
               }
             }
           }
@@ -188,12 +188,13 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Linux/Arch/Arch.md",
+    "Linux/Swap.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Resources.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
     "Linux/Дистрибутивы.md",
-    "Linux/Arch/Arch.md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "conflict-files-obsidian-git.md",
@@ -217,7 +218,6 @@
     "Programming/C++/Loops.md",
     "Programming/C++/Functions.md",
     "Programming/C++/Constructions.md",
-    "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
