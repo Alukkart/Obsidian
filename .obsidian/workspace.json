@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
+                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
+                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md"
+                "file": "Linux/Arch/Arch.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Resources.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
@@ -217,7 +218,6 @@
     "Programming/C++/Functions.md",
     "Programming/C++/Constructions.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
-    "Programming/Стили программирования/Объектно-ориентированное программирование.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",

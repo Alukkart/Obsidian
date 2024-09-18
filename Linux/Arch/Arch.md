@@ -49,7 +49,7 @@ sudo pacman -S power-profiles-daemon
 ```
 # Extensions:
 - X11 gestures
-- gSnap
+- Tiling Shell
 - Custom Accent Colors
 - Caffeine
 - blur my shell
