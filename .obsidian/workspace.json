@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Swap.md",
+                "file": "Programming/Web/Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Swap.md",
+                "file": "Programming/Web/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Swap.md",
+                "file": "Programming/Web/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Swap.md"
+                "file": "Programming/Web/Resources.md"
               }
             }
           }
@@ -188,11 +188,12 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
-    "Linux/Arch/Arch.md",
+    "Programming/Web/Web.md",
+    "Programming/Web/Resources.md",
     "Linux/Swap.md",
+    "Linux/Arch/Arch.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
-    "Programming/Web/Resources.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
     "Linux/Дистрибутивы.md",
     "Programming/Web/Node/Roadmap.canvas",
@@ -217,7 +218,6 @@
     "Programming/C++/String.md",
     "Programming/C++/Loops.md",
     "Programming/C++/Functions.md",
-    "Programming/C++/Constructions.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
