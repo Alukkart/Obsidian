@@ -28,7 +28,7 @@ async function up() { // Добавление всех необходимых з
 }
 
 async function down() { // Удаление всех созданных таблиц
-	await prisma.$executeRaw`TURNCATE TABLE "User" RESTART IDENTITY CASCADE;` // User заменяется на название таблицы для удаления
+	await prisma.$executeRaw`TRUNCATE TABLE "User" RESTART IDENTITY CASCADE;` // User заменяется на название таблицы для удаления
     ... 
 }
 
