@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
+                "file": "Programming/C++/Arrays.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
+                "file": "Programming/C++/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md",
+                "file": "Programming/C++/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Prisma/Seed.md"
+                "file": "Programming/C++/Arrays.md"
               }
             }
           }
@@ -188,12 +188,14 @@
   },
   "active": "766bf8dbb232832f",
   "lastOpenFiles": [
+    "Programming/C++/Variables.md",
+    "Programming/C++/Arrays.md",
+    "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/Schema.md",
     "Programming/Web/Resources.md",
     "Programming/Web/Web.md",
     "Linux/Swap.md",
     "Linux/Arch/Arch.md",
-    "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
     "Linux/Дистрибутивы.md",
@@ -209,11 +211,9 @@
     "Linux/Общие настройки для всех дистрибутивов.md",
     "Linux/ZSH.md",
     "Programming/ПО/Docker/Docker.md",
-    "Programming/C++/Variables.md",
     "Programming/C++/Types.md",
     "Programming/C++/Синтаксис.md",
     "Programming/C++/С++.md",
-    "Programming/C++/Arrays.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
     "Programming/C++/String.md",
