@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "edd93377b6c92347",
+        "id": "af66e13fa1fef202",
         "type": "tabs",
         "children": [
           {
-            "id": "766bf8dbb232832f",
+            "id": "3d1600016c6024b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Arch/Arch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wifi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Arch/Arch.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -187,8 +178,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc842caf5e993a4a",
+  "active": "3d1600016c6024b1",
   "lastOpenFiles": [
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
+    "Linux/Arch/Arch.md",
     "Programming/C++/Arrays.md",
     "Programming/C++/Variables.md",
     "Programming/Web/Node/Prisma/Seed.md",
@@ -196,7 +190,6 @@
     "Programming/Web/Resources.md",
     "Programming/Web/Web.md",
     "Linux/Swap.md",
-    "Linux/Arch/Arch.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
     "Linux/Дистрибутивы.md",
@@ -217,11 +210,8 @@
     "Programming/C++/С++.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
-    "Programming/C++/String.md",
-    "Programming/C++/Loops.md",
     "Programming/C++/Exercises",
     "Programming/C++",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Стили программирования",
     "Untitled",
     "Cache/Pasted image 20240822002237.png",
