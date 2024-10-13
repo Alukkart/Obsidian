@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/Web/Node/Libs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/Web/Node/Libs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/Web/Node/Libs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md"
+                "file": "Programming/Web/Node/Libs.md"
               }
             }
           }
@@ -188,15 +188,17 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
+    "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
+    "Programming/Web/Web.md",
+    "Programming/Web/SEO.md",
+    "Programming/Web/Resources.md",
+    "Linux/Arch/Arch.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Linux/Arch/Arch.md",
     "Programming/C++/Arrays.md",
     "Programming/C++/Variables.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/Schema.md",
-    "Programming/Web/Resources.md",
-    "Programming/Web/Web.md",
     "Linux/Swap.md",
     "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Пользовательские Стили.md",
@@ -217,7 +219,6 @@
     "Programming/C++/Синтаксис.md",
     "Programming/C++/С++.md",
     "Programming/C++/Exercises/Exercises.md",
-    "Programming/C++/Exercises/Calc.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Стили программирования",
