@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/ПО/Docker/Redis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/ПО/Docker/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Resources.md",
+                "file": "Programming/ПО/Docker/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Resources.md"
+                "file": "Programming/ПО/Docker/Redis.md"
               }
             }
           }
@@ -188,11 +188,15 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
+    "Programming/ПО/Docker/PostgreSQL.md",
+    "Programming/ПО/Docker/Redis.md",
+    "2024-10-16.md",
+    "Programming/ПО/Docker/Docker.md",
+    "Programming/Web/Resources.md",
     "Programming/Web/Node/Libs.md",
     "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
     "Programming/Web/Web.md",
     "Programming/Web/SEO.md",
-    "Programming/Web/Resources.md",
     "Linux/Arch/Arch.md",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
@@ -215,10 +219,6 @@
     "Cache/Pasted image 20240911161156.png",
     "Linux/Общие настройки для всех дистрибутивов.md",
     "Linux/ZSH.md",
-    "Programming/ПО/Docker/Docker.md",
-    "Programming/C++/Types.md",
-    "Programming/C++/Синтаксис.md",
-    "Programming/C++/С++.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Стили программирования",
