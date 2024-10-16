@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Node/Libs.md",
+                "file": "Programming/Web/Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Node/Libs.md",
+                "file": "Programming/Web/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Node/Libs.md",
+                "file": "Programming/Web/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Node/Libs.md"
+                "file": "Programming/Web/Resources.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
+    "Programming/Web/Node/Libs.md",
     "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
     "Programming/Web/Web.md",
     "Programming/Web/SEO.md",
@@ -218,7 +219,6 @@
     "Programming/C++/Types.md",
     "Programming/C++/Синтаксис.md",
     "Programming/C++/С++.md",
-    "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Стили программирования",
