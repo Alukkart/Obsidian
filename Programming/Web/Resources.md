@@ -10,3 +10,4 @@ tags:
 - [Placehold](https://placehold.co) - картинки плейсхолдеры
 - [Smart-swatch](https://smart-swatch.netlify.app/) - Создание палитры из одного цвета
 - [react-use](https://streamich.github.io/react-use/?path=/story/components-usekey--demo) - Готовые реакт ивенты
+- [Simple Icons](https://simpleicons.org/?q=postg) - Иконки
