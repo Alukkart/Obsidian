@@ -108,6 +108,8 @@ sudo pacman -S power-profiles-daemon
 - Adds AppIndicator / KStatusNotifierItem
 - Clipboard Indicator
 - Auto Power Profile
+- Custom Command Toggle
+- Custom Reboot
 
 # Troubleshooting:
 ## Не включается bluetooth
