@@ -183,11 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Web/Resources.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Resources"
+              "title": "Outline"
             }
           }
         ],
@@ -208,14 +206,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d1600016c6024b1",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Programming/Web/Resources.md",
     "Linux/Arch/Arch.md",
     "Programming/ПО/Docker/Redis.md",
     "Programming/ПО/Docker/PostgreSQL.md",
     "2024-10-16.md",
     "Programming/ПО/Docker/Docker.md",
-    "Programming/Web/Resources.md",
     "Programming/Web/Node/Libs.md",
     "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
     "Programming/Web/Web.md",
