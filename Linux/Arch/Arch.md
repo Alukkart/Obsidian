@@ -131,3 +131,8 @@ yay -S spoofdpi
 spoofdpi
 brave --proxy-server="http://127.0.0.1:8080"
 ```
+
+### Run comand from admin with pass modal
+```zsh title="terminal"
+pkexec /usr/bin/env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY <comand>
+```
