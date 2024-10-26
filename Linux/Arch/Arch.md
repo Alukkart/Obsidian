@@ -132,7 +132,15 @@ spoofdpi
 brave --proxy-server="http://127.0.0.1:8080"
 ```
 
-### Run comand from admin with pass modal
+## Run comand from admin with pass modal
 ```zsh title="terminal"
 pkexec /usr/bin/env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY <comand>
 ```
+
+## Game mode run
+```zsh title="terminal"
+sudo pacman -S gamemode
+```
+
+in steam game launch options set:
+`gamemoderun %command%`
