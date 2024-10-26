@@ -141,6 +141,5 @@ pkexec /usr/bin/env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY <comand>
 ```zsh title="terminal"
 sudo pacman -S gamemode
 ```
-
-in steam game launch options set:
-`gamemoderun %command%`
+В стиме добавить параметры запуска к игре:
+- `gamemoderun %command%`
