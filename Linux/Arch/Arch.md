@@ -143,3 +143,7 @@ sudo pacman -S gamemode
 ```
 В стиме добавить параметры запуска к игре:
 - `gamemoderun %command%`
+
+## Hydra Launcher
+- Install from https://github.com/hydralauncher/hydra/releases
+- add sources from https://hydralinks.cloud/
