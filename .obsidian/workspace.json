@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/VPS/PM2.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PM2"
+              "title": "Arch"
             }
           }
         ]
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/VPS/PM2.md"
+                "file": "Linux/Arch/Arch.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PM2"
+              "title": "Outline of Arch"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
-    "Linux/Arch/Arch.md",
     "Programming/VPS/PM2.md",
+    "Linux/Arch/Arch.md",
     "Programming/VPS",
     "Programming/Untitled.md",
     "Programming/ПО/Docker/PostgreSQL.md",
