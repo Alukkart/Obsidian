@@ -13,7 +13,7 @@ station wlan0 connect <SSID_NAME> #Подключаемся к сети подс
 ```
 
 ## Archinstall
-Archinstall - утилита для "автоматической" установки арча
+Утилита для "автоматической" установки арча
 ### Запуск
 ```zsh title="terminal"
 archinstall
