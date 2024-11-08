@@ -55,6 +55,11 @@ archinstall
 **Optional repositories** - выбераем: multilib
 
 **ВСЕ ПУКТЫ КОТОРЫЕ НЕ БЫЛИ ПЕРЕЧИСЛЕНИ ТРОГАЙТЕ НА СВОЙ СТРАХ И РИСК**
+# Пакетные менеджеры:
+- [[Flatpak]]
+- [[Yay]]
+- [[Pacman]]
+
 # Post-install:
 ## Другой формат хранения времени (чтоб не ломалось время при загрузке в винду)
 ```zsh title="terminal"
@@ -65,7 +70,7 @@ sudo timedatectl set-local-rtc 1 --adjust-system-clock
 gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']";gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Shift>Alt_L']"
 ```
 
-```
+```zsh title="terminal"
 gsettings set org.gnome.shell.keybindings show-screenshot-ui "['<Shift><Super>s']";
 ```
 ## Отображение восточно-азиатских символов

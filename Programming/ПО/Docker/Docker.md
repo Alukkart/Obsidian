@@ -30,3 +30,6 @@ Linux:
 
 # docker-compose.yml:
 -  ~Дальше бога нет~
+
+# Шаблоны:
+- [[PostgreSQL]]
