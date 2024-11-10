@@ -11,7 +11,6 @@ station list #Получаем список сетей
 station wlan0 get-networks #Находим в списке свою сеть и запоминаем её SSID
 station wlan0 connect <SSID_NAME> #Подключаемся к сети подставляя в команду её SSID
 ```
-
 ## Archinstall
 Утилита для "автоматической" установки арча
 ### Запуск
@@ -19,7 +18,6 @@ station wlan0 connect <SSID_NAME> #Подключаемся к сети подс
 archinstall
 ```
 **Для запуска требуется подключение к сети. Если у вас есть возможность поключить проводной интернет - подключайте, если нет то [[#Wifi connect]]**
-
 ### Параметры установки
 После запуска утилиты перед вами появится консольный интерфейс содержащий опции
 
@@ -136,19 +134,16 @@ yay -S spoofdpi
 spoofdpi
 brave --proxy-server="http://127.0.0.1:8080"
 ```
-
 ## Run comand from admin with pass modal
 ```zsh title="terminal"
 pkexec /usr/bin/env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY <comand>
 ```
-
 ## Game mode run
 ```zsh title="terminal"
 sudo pacman -S gamemode
 ```
 В стиме добавить параметры запуска к игре:
 - `gamemoderun %command%`
-
 ## Hydra Launcher
 - Install from https://github.com/hydralauncher/hydra/releases
 - add sources from https://hydralinks.cloud/
