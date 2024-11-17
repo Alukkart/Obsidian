@@ -30,7 +30,7 @@ https://www.npmjs.com/package/qs
 HTTP-клиент на основе промисов, предоставляет более простой и мощный способ работы с сетью по сравнению со встроенным объектом XMLHttpRequest
 https://axios-http.com/
 `npm i axios`
-# react-hook-form
+# React-hook-form
 Работа с формами и инпутами
 https://react-hook-form.com/
 `npm install react-hook-form`
@@ -43,6 +43,15 @@ React компонент для подсказок **адресов, орган
 https://github.com/vitalybaev/react-dadata
 `npm install react-dadata`
 
+# Markdown-editor
+Редактор .md с предварительным просмотром, реализованный с помощью React.js и TypeScript.
+https://www.npmjs.com/package/@uiw/react-markdown-editor
+`npm i @uiw/react-markdown-editor`
+
+# React-insta-stories
+Сторисы как в инсте
+https://www.npmjs.com/package/react-insta-stories
+`npm install --save react-insta-stories`
 
 
 https://www.npmjs.com/package/react-imask

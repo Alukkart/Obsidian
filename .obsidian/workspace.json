@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Programming/Web/Node/Libs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch"
+              "title": "Libs"
             }
           }
         ]
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md"
+                "file": "Programming/Web/Node/Libs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch"
+              "title": "Outline of Libs"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
-    "Clippings/Команда Obsidian выпустила веб-клипер.md",
     "Linux/Arch/Arch.md",
+    "Clippings/Команда Obsidian выпустила веб-клипер.md",
     "Clippings",
     "Programming/ПО/Docker/Docker.md",
     "Linux/Linux.md",
