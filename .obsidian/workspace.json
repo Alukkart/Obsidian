@@ -210,11 +210,13 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
+    "Clippings/Команда Obsidian выпустила веб-клипер.md",
+    "Linux/Arch/Arch.md",
+    "Clippings",
     "Programming/ПО/Docker/Docker.md",
     "Linux/Linux.md",
     "Programming/C++/С++.md",
     "Programming/C++/Синтаксис.md",
-    "Linux/Arch/Arch.md",
     "Linux/Arch/Flatpak.md",
     "Linux/Arch/Yay.md",
     "Linux/Arch/Pacman.md",
@@ -237,7 +239,6 @@
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/Schema.md",
     "Linux/Swap.md",
-    "Programming/Web/Node/Prisma/ACID (noSQL).md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Cache/Pasted image 20240911161616.png",
@@ -257,7 +258,6 @@
     "Programming/Web/Node/Typescript/Структуры данных",
     "Programming/Web/Node/Typescript/Data types/Map obj",
     "Programming/Web/Библиотеки компонентов",
-    "Templates",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }
