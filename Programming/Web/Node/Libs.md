@@ -3,10 +3,10 @@ tags:
   - nodejs
 ---
 # [[shadcnUI]] 
-либа ui компонентов
+Либа ui компонентов
 [документация](https://ui.shadcn.com/)
 # React-hot-toast 
-всплывающие уведомления
+Всплывающие уведомления
 https://react-hot-toast.com/
 `npm install react-hot-toast`
 # Bcrypt
@@ -14,7 +14,7 @@ https://react-hot-toast.com/
 https://www.npmjs.com/package/bcrypt
 `npm i bcrypt @types/bcrypt` 
 # Lucide
-иконки
+Иконки
 https://lucide.dev/
 `npm install lucide-react` - React / Next.js
 `npm install lucide` Express etc.
