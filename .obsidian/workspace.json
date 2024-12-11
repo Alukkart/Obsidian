@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Swap.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swap"
+              "title": "Arch"
             }
           }
         ]
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Swap.md"
+                "file": "Linux/Arch/Arch.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Swap"
+              "title": "Outline of Arch"
             }
           }
         ],
@@ -210,6 +210,7 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
+    "Linux/Swap.md",
     "Linux/Linux.md",
     "Linux/Arch/Arch.md",
     "Programming/Web/Resources.md",
@@ -238,7 +239,6 @@
     "Programming/C++/Variables.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Prisma/Schema.md",
-    "Linux/Swap.md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Cache/Pasted image 20240911161616.png",
