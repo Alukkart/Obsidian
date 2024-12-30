@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Swap.md",
+                "file": "Linux/Создание своего демона.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swap"
+              "title": "Создание своего демона"
             }
           }
         ]
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Swap.md"
+                "file": "Linux/Создание своего демона.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Swap"
+              "title": "Outline of Создание своего демона"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "3d1600016c6024b1",
   "lastOpenFiles": [
-    "Linux/Linux.md",
     "Linux/Swap.md",
+    "Linux/Создание своего демона.md",
+    "Linux/Linux.md",
     "Programming/ПО/Docker/PostgreSQL.md",
     "Linux/Arch/Arch.md",
     "Programming/Web/Resources.md",
@@ -238,7 +239,6 @@
     "Programming/C++/Arrays.md",
     "Programming/C++/Variables.md",
     "Programming/Web/Node/Prisma/Seed.md",
-    "Programming/Web/Node/Prisma/Schema.md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Cache/Pasted image 20240911161616.png",
