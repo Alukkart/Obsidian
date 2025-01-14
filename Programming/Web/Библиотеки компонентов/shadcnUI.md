@@ -83,7 +83,7 @@ module.exports = {
 ## Добавление компонентов
 Теперь вы можете начать добавлять компоненты в свой проект.
 ```zsh title="terminal"
-npx shadcn-ui@latest add button
+npx shadcn@latest add button
 ```
 Команда выше добавит `Button` компонент в ваш проект. Затем вы можете импортировать его следующим образом:
 ```tsx showLineNumbers {1, 7}
