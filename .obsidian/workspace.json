@@ -32,8 +32,17 @@
               "state": {
                 "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "shadcnUI"
@@ -59,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -202,7 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md"
+                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of shadcnUI"
