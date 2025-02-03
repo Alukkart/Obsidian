@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "shadcnUI"
+              "title": "Рассылки"
             }
           }
         ],
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shadcnUI"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -241,8 +241,12 @@
   },
   "active": "60f90995345f666d",
   "lastOpenFiles": [
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+    "Work/Rient/Рассылки.md",
+    "Work/Rient/Untitled",
+    "Work/Rient",
+    "Work",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Linux/Репозитории.md",
     "Linux/Arch/Arch.md",
@@ -276,7 +280,6 @@
     "Programming/C++/Exercises",
     "Programming/C++",
     "Programming/Стили программирования",
-    "Untitled",
     "Cache/Pasted image 20240822002237.png",
     "Cache/Pasted image 20240822000558.png",
     "Cache/Pasted image 20240822000547.png",
@@ -286,8 +289,6 @@
     "Cache/Pasted image 20240820212656.png",
     "Cache/Pasted image 20240820212638.png",
     "Programming/Web/Node/Typescript/Структуры данных",
-    "Programming/Web/Node/Typescript/Data types/Map obj",
-    "Programming/Web/Библиотеки компонентов",
     "main/Programming/Web/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas"
   ]
 }
