@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLibrary",
       "LiSnapToObject",
       "LiTestTube2",
       "LiGitCompareArrows",
-      "LiPackage",
-      "LiBarChart2"
+      "LiPackage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,10 +69,11 @@
   "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md": "LiRedo2",
   "Programming/Web/Web.md": "LiGlobe2",
   "Programming/Web/Node/Typescript/Статический анализ кода.md": "LiBarChart2",
-  "Programming/Web/Node/Libs.md": "LiLibrary",
   "Programming/Web/Node/Пакетные менеджеры.md": "LiPackage",
   "Programming/Системы управления версиями.md": "LiGitCompareArrows",
   "Programming/Web/Node/Написание автоматизированных тестов.md": "LiTestTube2",
   "Programming/Стили программирования/Объектно-ориентированное программирование.md": "LiSnapToObject",
-  "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md": "IcDevTailwindcssPlain"
+  "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md": "IcDevTailwindcssPlain",
+  "Programming/Web/Libs": "LiLibrary",
+  "Programming/Web/Libs/Libs.md": "LiLibrary"
 }

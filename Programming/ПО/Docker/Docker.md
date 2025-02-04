@@ -33,3 +33,4 @@ Linux:
 
 # Шаблоны:
 - [[PostgreSQL]]
+- [[Redis]]
