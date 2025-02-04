@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af66e13fa1fef202",
+        "id": "63ad7566fc2e9d22",
         "type": "tabs",
         "children": [
           {
-            "id": "f5ea83c84dadd98c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-                "viewState": {
-                  "x": 356.9154760592588,
-                  "y": 1140.8266878342777,
-                  "zoom": -0.11692784092966069
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Next.js Project Structure"
-            }
-          },
-          {
-            "id": "60f90995345f666d",
+            "id": "4e63f462f2784d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,8 +31,7 @@
               "title": "Рассылки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,14 +221,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60f90995345f666d",
+  "active": "4e63f462f2784d7f",
   "lastOpenFiles": [
-    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
+    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
+    "Programming/База.md",
     "Work/Rient/Рассылки.md",
+    "Programming/Web/Библиотеки компонентов/shadcnUI.md",
     "Work/Rient/Untitled",
     "Work/Rient",
     "Work",
-    "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Linux/Репозитории.md",
     "Linux/Arch/Arch.md",
@@ -271,8 +254,6 @@
     "Programming/ПО/Docker/Redis.md",
     "2024-10-16.md",
     "Programming/Web/Библиотеки компонентов/Библиотеки компонентов.md",
-    "Programming/Web/Web.md",
-    "Programming/Web/SEO.md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Cache/Pasted image 20240911161616.png",
