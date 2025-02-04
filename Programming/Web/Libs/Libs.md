@@ -30,7 +30,7 @@ https://www.npmjs.com/package/qs
 HTTP-клиент на основе промисов, предоставляет более простой и мощный способ работы с сетью по сравнению со встроенным объектом XMLHttpRequest
 https://axios-http.com/
 `npm i axios`
-# React-hook-form
+# [[React-hook-form]]
 Работа с формами и инпутами
 https://react-hook-form.com/
 `npm install react-hook-form`
