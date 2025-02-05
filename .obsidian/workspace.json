@@ -11,24 +11,17 @@
             "id": "d95961ef55b5fa6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Programming/Web/Node/Roadmap.canvas",
+                "viewState": {
+                  "x": 278.4205298013244,
+                  "y": -349.66639072847687,
+                  "zoom": -1.670175524687655
                 }
               },
-              "icon": "lucide-file",
-              "title": "Как взломать пентагон на HTML"
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap"
             }
           }
         ]
@@ -194,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Книги/2024/Как взломать пентагон на HTML.md",
+                "file": "Programming/Web/Node/Roadmap.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Как взломать пентагон на HTML"
+              "title": "Outline of Roadmap"
             }
           }
         ],
@@ -223,6 +216,9 @@
   },
   "active": "d95961ef55b5fa6f",
   "lastOpenFiles": [
+    "Programming/Web/Node/Node.js.md",
+    "Programming/Web/Node/Roadmap.canvas",
+    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
     "Programming/Web/Libs/Libs.md",
     "Programming/Web/Node/Фреймворки/Libs/React-hook-form.md",
@@ -252,12 +248,8 @@
     "Work",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
     "Linux/Репозитории.md",
-    "Linux/Arch/Arch.md",
-    "Linux/Arch/Pacman.md",
-    "Linux/Arch/Yay.md",
     "Clippings",
     "Programming/VPS",
-    "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
