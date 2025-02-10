@@ -194,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -220,8 +221,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "66bba254f97c5305",
   "lastOpenFiles": [
+    "Programming/Web/Libs/React-hook-form.md",
     "Work/Rient/Рассылки.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "README.md",
@@ -230,7 +232,6 @@
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
     "Programming/Web/Libs/Libs.md",
     "Programming/Web/Node/Фреймворки/Libs/React-hook-form.md",
-    "Programming/Web/Libs/React-hook-form.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Фреймворки/Libs",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind/Адаптивный дизайн.md",
