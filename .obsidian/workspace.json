@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "позже",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1fce680541e9f2b",
+  "active": "dad1860c6cdc5cf5",
   "lastOpenFiles": [
     "Programming/Web/Libs/React-hook-form.md",
     "Work/Rient/Рассылки.md",
