@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
       {
         "id": "23f6f0f49cfc758a",
         "type": "tabs",
-        "dimension": 38.39031339031339,
+        "dimension": 33.4045584045584,
         "children": [
           {
             "id": "6530cb1def2d8d8b",
@@ -162,7 +162,7 @@
       {
         "id": "192447c50af0b608",
         "type": "tabs",
-        "dimension": 61.60968660968661,
+        "dimension": 66.5954415954416,
         "children": [
           {
             "id": "576be28795952012",
@@ -194,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -220,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "dc842caf5e993a4a",
   "lastOpenFiles": [
     "Work/Rient/Рассылки.md",
     "Programming/Web/Libs/React-hook-form.md",
