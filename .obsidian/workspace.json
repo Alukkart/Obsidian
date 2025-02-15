@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Programming/ПО/Docker/PostgreSQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рассылки"
+              "title": "PostgreSQL"
             }
           }
         ]
@@ -194,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/ПО/Docker/PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PostgreSQL"
             }
           }
         ],
@@ -220,8 +221,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "66bba254f97c5305",
   "lastOpenFiles": [
+    "Programming/ПО/Docker/Redis.md",
+    "Programming/ПО/Docker/PostgreSQL.md",
+    "Programming/ПО/Docker/Docker.md",
+    "Programming/VPS/VPS.md",
+    "Programming/VPS/PM2.md",
     "Work/Rient/Рассылки.md",
     "Programming/Web/Libs/React-hook-form.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
@@ -239,11 +245,6 @@
     "Find && FindIndex*.md",
     "Programming/Web/Node/Typescript/Структуры данных.md",
     "Programming/ПО/VC/Пользовательские сниппеты.md",
-    "Programming/ПО/Docker/Docker.md",
-    "Programming/ПО/Docker/PostgreSQL.md",
-    "Programming/ПО/Docker/Redis.md",
-    "Programming/VPS/VPS.md",
-    "Programming/VPS/PM2.md",
     "Linux/Linux.md",
     "Linux/Создание своего демона.md",
     "Programming/Web/Libs",
