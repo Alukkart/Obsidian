@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ПО/Docker/PostgreSQL.md",
+                "file": "Programming/Стили программирования/Парадигмы программирования.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "Парадигмы программирования"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "стиль",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ПО/Docker/PostgreSQL.md",
+                "file": "Programming/Стили программирования/Парадигмы программирования.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PostgreSQL"
+              "title": "Outline of Парадигмы программирования"
             }
           }
         ],
@@ -223,8 +224,8 @@
   },
   "active": "66bba254f97c5305",
   "lastOpenFiles": [
-    "Programming/ПО/Docker/Redis.md",
     "Programming/ПО/Docker/PostgreSQL.md",
+    "Programming/ПО/Docker/Redis.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/VPS/VPS.md",
     "Programming/VPS/PM2.md",
