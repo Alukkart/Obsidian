@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Стили программирования/Парадигмы программирования.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Парадигмы программирования"
+              "title": "Рассылки"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Стили программирования/Парадигмы программирования.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Парадигмы программирования"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -224,6 +223,7 @@
   },
   "active": "66bba254f97c5305",
   "lastOpenFiles": [
+    "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/ПО/Docker/PostgreSQL.md",
     "Programming/ПО/Docker/Redis.md",
     "Programming/ПО/Docker/Docker.md",
@@ -256,7 +256,6 @@
     "Work/Rient",
     "Work",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js.md",
-    "Linux/Репозитории.md",
     "Clippings",
     "Programming/VPS",
     "Programming/Web/Node/Фреймворки/CSS/Tailwind",
