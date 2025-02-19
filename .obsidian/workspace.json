@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Очереди"
             }
+          },
+          {
+            "id": "9699be0c20eccdef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Структуры данных/Стек.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Стек"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Структуры данных/Очереди.md",
+                "file": "Programming/Структуры данных/Стек.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Очереди"
+              "title": "Outline of Стек"
             }
           }
         ],
@@ -221,16 +246,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a752959a337fcf51",
+  "active": "9699be0c20eccdef",
   "lastOpenFiles": [
+    "Programming/Структуры данных/Очереди.md",
+    "Programming/Структуры данных/Стек.md",
     "Programming/Структуры данных/Массив.md",
     "Programming/Структуры данных/Структуры данных.md",
     "Programming/Алгоритмы/Алгоритмы.md",
     "Programming/Web/Node/Typescript/Typescript.md",
     "Programming/Структуры данных/Связные списки.md",
     "Programming/Структуры данных/Деревья.md",
-    "Programming/Структуры данных/Стек.md",
-    "Programming/Структуры данных/Очереди.md",
     "Programming/Web/Node/Typescript/Статический анализ кода.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Cache/Pasted image 20250219080223.png",
