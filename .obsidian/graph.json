@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "path:\"Programming/Структуры данных\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5996431
+      }
+    },
+    {
+      "query": "path:Programming/Алгоритмы  ",
+      "color": {
+        "a": 1,
+        "rgb": 16110592
+      }
     }
   ],
   "collapse-display": true,
