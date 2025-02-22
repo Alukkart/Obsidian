@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Структуры данных/Связные списки.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Связные списки"
+              "title": "Рассылки"
             }
           }
         ],
@@ -219,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -245,7 +246,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "9699be0c20eccdef",
   "lastOpenFiles": [
     "Programming/Структуры данных/Связные списки.md",
     "Programming/Структуры данных/Стек.md",
