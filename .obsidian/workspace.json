@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a22d524958b4de93",
+        "id": "52c9dd7cd7c657b1",
         "type": "tabs",
         "children": [
           {
-            "id": "a752959a337fcf51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Структуры данных/Очереди.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Очереди"
-            }
-          },
-          {
-            "id": "9699be0c20eccdef",
+            "id": "7e515a6ec7bff7f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Рассылки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,11 +221,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9699be0c20eccdef",
+  "active": "7e515a6ec7bff7f4",
   "lastOpenFiles": [
+    "Programming/Структуры данных/Очереди.md",
+    "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
+    "Work/Rient/Рассылки.md",
+    "Find && FindIndex*.md",
     "Programming/Структуры данных/Связные списки.md",
     "Programming/Структуры данных/Стек.md",
-    "Programming/Структуры данных/Очереди.md",
     "Programming/Структуры данных/Массив.md",
     "Programming/Структуры данных/Структуры данных.md",
     "Programming/Алгоритмы/Алгоритмы.md",
@@ -261,7 +239,6 @@
     "Cache/Pasted image 20250219080223.png",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
-    "Work/Rient/Рассылки.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/ПО/Docker/PostgreSQL.md",
     "Programming/ПО/Docker/Redis.md",
@@ -277,8 +254,6 @@
     "Programming/Web/Node/Фреймворки/Libs/React-hook-form.md",
     "Programming/Web/Node/Prisma/Seed.md",
     "Programming/Web/Node/Фреймворки/Libs",
-    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Адаптивный дизайн.md",
-    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md",
     "Programming/Web/Libs",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Work/Rient/Untitled",
