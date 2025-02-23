@@ -194,13 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рассылки"
+              "title": "Outline"
             }
           }
         ],
@@ -221,11 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e515a6ec7bff7f4",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Work/Rient/Рассылки.md",
     "Programming/Структуры данных/Очереди.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
-    "Work/Rient/Рассылки.md",
     "Find && FindIndex*.md",
     "Programming/Структуры данных/Связные списки.md",
     "Programming/Структуры данных/Стек.md",
