@@ -70,10 +70,10 @@
   "Programming/Web/Web.md": "LiGlobe2",
   "Programming/Web/Node/Typescript/Статический анализ кода.md": "LiBarChart2",
   "Programming/Web/Node/Пакетные менеджеры.md": "LiPackage",
-  "Programming/Системы управления версиями.md": "LiGitCompareArrows",
   "Programming/Web/Node/Написание автоматизированных тестов.md": "LiTestTube2",
   "Programming/Стили программирования/Объектно-ориентированное программирование.md": "LiSnapToObject",
   "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md": "IcDevTailwindcssPlain",
   "Programming/Web/Libs": "LiLibrary",
-  "Programming/Web/Libs/Libs.md": "LiLibrary"
+  "Programming/Web/Libs/Libs.md": "LiLibrary",
+  "Programming/Системы управления версиями.md": "LiGitCompareArrows"
 }

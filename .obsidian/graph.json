@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Programming/Web/Node/Typescript  ",
@@ -39,7 +39,7 @@
       "query": "path:Templates  ",
       "color": {
         "a": 1,
-        "rgb": 8891776
+        "rgb": 6189403
       }
     },
     {
@@ -68,6 +68,13 @@
       "color": {
         "a": 1,
         "rgb": 16110592
+      }
+    },
+    {
+      "query": "path:Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
