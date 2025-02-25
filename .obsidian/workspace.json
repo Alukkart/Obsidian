@@ -11,10 +11,24 @@
             "id": "350d153fe2441c84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Структуры данных/Деревья.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Деревья"
             }
           }
         ]
@@ -180,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/Структуры данных/Деревья.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Деревья"
             }
           }
         ],
@@ -208,6 +223,7 @@
   },
   "active": "350d153fe2441c84",
   "lastOpenFiles": [
+    "Programming/Структуры данных/Массив.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Системы управления версиями.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
@@ -218,7 +234,6 @@
     "Find && FindIndex*.md",
     "Programming/Структуры данных/Связные списки.md",
     "Programming/Структуры данных/Стек.md",
-    "Programming/Структуры данных/Массив.md",
     "Programming/Структуры данных/Структуры данных.md",
     "Programming/Алгоритмы/Алгоритмы.md",
     "Programming/Web/Node/Typescript/Typescript.md",
