@@ -221,8 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "350d153fe2441c84",
+  "active": "dad1860c6cdc5cf5",
   "lastOpenFiles": [
+    "Programming/Golang/Fiber",
+    "Programming/Golang/GORM",
     "Programming/Web/Libs/Libs.md",
     "Programming/Golang/GO.md",
     "Programming/Golang",
@@ -252,7 +254,6 @@
     "Programming/ПО/Docker/Docker.md",
     "Programming/VPS/VPS.md",
     "Programming/VPS/PM2.md",
-    "Programming/Web/Libs/React-hook-form.md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/Libs",
     "Programming/Web/Libs",
@@ -261,7 +262,6 @@
     "Work/Rient",
     "Work",
     "Clippings",
-    "Programming/VPS",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
     "Cache/Pasted image 20240822002237.png",
