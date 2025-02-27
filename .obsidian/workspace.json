@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/GO.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GO"
+              "title": "Рассылки"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/GO.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GO"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -221,12 +221,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dad1860c6cdc5cf5",
+  "active": "350d153fe2441c84",
   "lastOpenFiles": [
+    "Programming/Golang/GO.md",
     "Programming/Golang/Fiber",
     "Programming/Golang/GORM",
     "Programming/Web/Libs/Libs.md",
-    "Programming/Golang/GO.md",
     "Programming/Golang",
     "Programming/Web/Node/Node.js.md",
     "Programming/Структуры данных/Деревья.md",
@@ -261,7 +261,6 @@
     "Work/Rient/Untitled",
     "Work/Rient",
     "Work",
-    "Clippings",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
     "Cache/Pasted image 20240822002237.png",
