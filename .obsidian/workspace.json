@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Структуры данных/Деревья.md",
+                "file": "Programming/Golang/GO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Деревья"
+              "title": "GO"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Структуры данных/Деревья.md",
+                "file": "Programming/Golang/GO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Деревья"
+              "title": "Outline of GO"
             }
           }
         ],
@@ -223,6 +223,11 @@
   },
   "active": "350d153fe2441c84",
   "lastOpenFiles": [
+    "Programming/Web/Libs/Libs.md",
+    "Programming/Golang/GO.md",
+    "Programming/Golang",
+    "Programming/Web/Node/Node.js.md",
+    "Programming/Структуры данных/Деревья.md",
     "Programming/Структуры данных/Массив.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Системы управления версиями.md",
@@ -237,7 +242,6 @@
     "Programming/Структуры данных/Структуры данных.md",
     "Programming/Алгоритмы/Алгоритмы.md",
     "Programming/Web/Node/Typescript/Typescript.md",
-    "Programming/Структуры данных/Деревья.md",
     "Programming/Web/Node/Typescript/Статический анализ кода.md",
     "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Cache/Pasted image 20250219080223.png",
@@ -249,10 +253,7 @@
     "Programming/VPS/VPS.md",
     "Programming/VPS/PM2.md",
     "Programming/Web/Libs/React-hook-form.md",
-    "README.md",
     "Programming/Web/Node/Roadmap.canvas",
-    "Programming/Web/Node/Node.js.md",
-    "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind Основы.md",
     "Programming/Web/Node/Фреймворки/Libs",
     "Programming/Web/Libs",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
@@ -261,7 +262,6 @@
     "Work",
     "Clippings",
     "Programming/VPS",
-    "Programming/Web/Node/Фреймворки/CSS/Tailwind",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
     "Cache/Pasted image 20240822002237.png",
