@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Map.md",
+                "file": "Programming/Golang/Структуры.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Map"
+              "title": "Структуры"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Map.md",
+                "file": "Programming/Golang/Структуры.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Map"
+              "title": "Outline of Структуры"
             }
           }
         ],
@@ -223,8 +223,10 @@
   },
   "active": "36efbbe508a97b01",
   "lastOpenFiles": [
-    "Programming/Golang/GO.md",
+    "Programming/Golang/Константы.md",
+    "Programming/Golang/Структуры.md",
     "Programming/Golang/Map.md",
+    "Programming/Golang/GO.md",
     "Programming/Golang/Срезы.md",
     "Programming/Golang/Пакеты.md",
     "Work/Rient/Рассылки.md",
@@ -241,7 +243,6 @@
     "Programming/Golang/Условный оператор if.md",
     "Programming/Golang/Обработка ошибок.md",
     "Programming/Golang/Функции.md",
-    "Programming/Golang/Константы.md",
     "Cache/Pasted image 20250228190013.png",
     "Cache/Pasted image 20250228185925.png",
     "Cache/Pasted image 20250228185607.png",
