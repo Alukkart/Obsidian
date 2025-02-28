@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Массивы.md",
+                "file": "Programming/Golang/GO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Массивы"
+              "title": "GO"
             }
           },
           {
@@ -266,13 +266,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Массивы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Массивы"
+              "title": "Outline"
             }
           }
         ],
@@ -293,15 +292,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f55adc2fb372b77",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
-    "Programming/Golang/Срезы.md",
+    "Programming/Golang/GO.md",
     "Programming/Golang/Массивы.md",
+    "Programming/Golang/Срезы.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Нейминг.md",
     "Work/Rient/Рассылки.md",
     "Programming/Golang/Пакеты.md",
-    "Programming/Golang/GO.md",
     "Programming/Golang/Типы данных.md",
     "Programming/Golang/Переменные.md",
     "Programming/Golang/Основные операции.md",
