@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Указатели.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Указатели"
+              "title": "Рассылки"
             }
           },
           {
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Указатели.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Указатели"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -247,8 +247,8 @@
   },
   "active": "350d153fe2441c84",
   "lastOpenFiles": [
-    "Programming/Golang/GO.md",
     "Programming/Golang/Указатели.md",
+    "Programming/Golang/GO.md",
     "Programming/Golang/Условный оператор if.md",
     "Programming/Golang/Обработка ошибок.md",
     "Programming/Golang/Функции.md",
