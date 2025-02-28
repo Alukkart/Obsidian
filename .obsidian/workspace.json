@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f55adc2fb372b77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Golang/Цикл for.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Цикл for"
-            }
-          },
-          {
             "id": "36efbbe508a97b01",
             "type": "leaf",
             "state": {
@@ -79,7 +55,8 @@
               "title": "Рассылки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Цикл for.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Цикл for"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -269,11 +246,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f55adc2fb372b77",
+  "active": "139268ebfc6dfe65",
   "lastOpenFiles": [
+    "Programming/Web/Node/Node.js.md",
+    "Programming/Web/Node/Roadmap.canvas",
+    "Programming/Golang/Цикл for.md",
     "Programming/Golang/Массивы.md",
     "Programming/Golang/Область видимости.md",
-    "Programming/Golang/Цикл for.md",
     "Programming/Golang/Untitled.md",
     "Programming/Golang/GO.md",
     "Programming/Golang/Срезы.md",
@@ -295,18 +274,15 @@
     "Programming/Golang/GORM",
     "Programming/Web/Libs/Libs.md",
     "Programming/Golang",
-    "Programming/Web/Node/Node.js.md",
     "Programming/Структуры данных/Деревья.md",
     "Programming/Структуры данных/Массив.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Системы управления версиями.md",
     "Programming/Web/Node/Пакетные менеджеры.md",
     "Number.md",
-    "Programming/Структуры данных/Очереди.md",
     "Cache/Pasted image 20250219080223.png",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
-    "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/Libs",
     "Programming/Web/Libs",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
