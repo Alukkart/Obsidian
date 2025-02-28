@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Срезы.md",
+                "file": "Programming/Golang/Map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Срезы"
+              "title": "Map"
             }
           }
         ]
@@ -194,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/Golang/Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Map"
             }
           }
         ],
@@ -220,8 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "36efbbe508a97b01",
   "lastOpenFiles": [
+    "Programming/Golang/GO.md",
+    "Programming/Golang/Map.md",
     "Programming/Golang/Срезы.md",
     "Programming/Golang/Пакеты.md",
     "Work/Rient/Рассылки.md",
@@ -230,8 +233,6 @@
     "Programming/Golang/Цикл for.md",
     "Programming/Golang/Массивы.md",
     "Programming/Golang/Область видимости.md",
-    "Programming/Golang/Untitled.md",
-    "Programming/Golang/GO.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Нейминг.md",
     "Programming/Golang/Типы данных.md",
