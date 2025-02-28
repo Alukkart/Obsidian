@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Нейминг.md",
+                "file": "Programming/Golang/Массивы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Нейминг"
+              "title": "Массивы"
+            }
+          },
+          {
+            "id": "09fb01d9ca48965e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Golang/Срезы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Срезы"
+            }
+          },
+          {
+            "id": "36efbbe508a97b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Golang/Пакеты.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Пакеты"
             }
           },
           {
@@ -55,8 +103,7 @@
               "title": "Рассылки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Programming/Golang/Массивы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рассылки"
+              "title": "Outline of Массивы"
             }
           }
         ],
@@ -246,15 +293,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "139268ebfc6dfe65",
+  "active": "3f55adc2fb372b77",
   "lastOpenFiles": [
-    "Programming/Golang/Нейминг.md",
-    "Programming/Golang/GO.md",
+    "Programming/Golang/Срезы.md",
+    "Programming/Golang/Массивы.md",
     "Programming/Golang/Указатели.md",
+    "Programming/Golang/Нейминг.md",
+    "Work/Rient/Рассылки.md",
+    "Programming/Golang/Пакеты.md",
+    "Programming/Golang/GO.md",
     "Programming/Golang/Типы данных.md",
     "Programming/Golang/Переменные.md",
     "Programming/Golang/Основные операции.md",
-    "Work/Rient/Рассылки.md",
     "Programming/Golang/Условный оператор if.md",
     "Programming/Golang/Обработка ошибок.md",
     "Programming/Golang/Функции.md",
@@ -277,9 +327,6 @@
     "Programming/Структуры данных/Очереди.md",
     "Programming/Web/Node/Typescript/Data types/Arrays/Array.md",
     "Find && FindIndex*.md",
-    "Programming/Структуры данных/Связные списки.md",
-    "Programming/Структуры данных/Стек.md",
-    "Programming/Структуры данных/Структуры данных.md",
     "Cache/Pasted image 20250219080223.png",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
