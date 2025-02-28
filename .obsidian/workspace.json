@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/GO.md",
+                "file": "Programming/Golang/Указатели.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GO"
-            }
-          },
-          {
-            "id": "75822644838d711e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Golang/Обработка ошибок.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Обработка ошибок"
+              "title": "Указатели"
             }
           },
           {
@@ -79,8 +55,7 @@
               "title": "Основные операции"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Обработка ошибок.md",
+                "file": "Programming/Golang/Указатели.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Обработка ошибок"
+              "title": "Outline of Указатели"
             }
           }
         ],
@@ -270,12 +245,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75822644838d711e",
+  "active": "350d153fe2441c84",
   "lastOpenFiles": [
+    "Programming/Golang/GO.md",
+    "Programming/Golang/Указатели.md",
     "Programming/Golang/Условный оператор if.md",
     "Programming/Golang/Обработка ошибок.md",
     "Programming/Golang/Функции.md",
-    "Programming/Golang/GO.md",
     "Programming/Golang/Основные операции.md",
     "Programming/Golang/Константы.md",
     "Cache/Pasted image 20250228190013.png",
@@ -303,7 +279,6 @@
     "Programming/Структуры данных/Стек.md",
     "Programming/Структуры данных/Структуры данных.md",
     "Programming/Алгоритмы/Алгоритмы.md",
-    "Programming/Web/Node/Typescript/Typescript.md",
     "Cache/Pasted image 20250219080223.png",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
