@@ -15,6 +15,7 @@ for index, item := range todoList{
 Или же, если в теле цикла мы не будем использовать индекс, то вместо него можно поставить нижнее подчеркивание.
 ```go
 for _, item := range todoList{
-	fmt.Println("")
+	fmt.Println("%s\n", item)
 }
 ```
+
