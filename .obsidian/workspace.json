@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "75822644838d711e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Golang/Обработка ошибок.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Обработка ошибок"
+            }
+          },
+          {
             "id": "3f55adc2fb372b77",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Основные операции"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/GO.md",
+                "file": "Programming/Golang/Обработка ошибок.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GO"
+              "title": "Outline of Обработка ошибок"
             }
           }
         ],
@@ -245,10 +270,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "350d153fe2441c84",
+  "active": "75822644838d711e",
   "lastOpenFiles": [
-    "Programming/Golang/Основные операции.md",
+    "Programming/Golang/Условный оператор if.md",
+    "Programming/Golang/Обработка ошибок.md",
+    "Programming/Golang/Функции.md",
     "Programming/Golang/GO.md",
+    "Programming/Golang/Основные операции.md",
     "Programming/Golang/Константы.md",
     "Cache/Pasted image 20250228190013.png",
     "Cache/Pasted image 20250228185925.png",
@@ -276,12 +304,9 @@
     "Programming/Структуры данных/Структуры данных.md",
     "Programming/Алгоритмы/Алгоритмы.md",
     "Programming/Web/Node/Typescript/Typescript.md",
-    "Programming/Web/Node/Typescript/Статический анализ кода.md",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
     "Cache/Pasted image 20250219080223.png",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
-    "Programming/ПО/Docker/PostgreSQL.md",
     "Programming/Web/Node/Roadmap.canvas",
     "Programming/Web/Node/Фреймворки/Libs",
     "Programming/Web/Libs",
