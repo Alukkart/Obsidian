@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37eb0a0494cb5e42",
+        "id": "a002de93e6abd5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "36efbbe508a97b01",
+            "id": "e8b015adb19ee9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Структуры.md",
+                "file": "Programming/Golang/Интерфейсы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Структуры"
+              "title": "Интерфейсы"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Структуры.md",
+                "file": "Programming/Golang/Интерфейсы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Структуры"
+              "title": "Outline of Интерфейсы"
             }
           }
         ],
@@ -221,31 +221,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36efbbe508a97b01",
+  "active": "e8b015adb19ee9cf",
   "lastOpenFiles": [
-    "Programming/Golang/Константы.md",
-    "Programming/Golang/Структуры.md",
-    "Programming/Golang/Map.md",
+    "Programming/Golang/Обработка ошибок.md",
     "Programming/Golang/GO.md",
+    "Programming/Golang/Цикл for.md",
+    "Programming/Golang/Функции.md",
+    "Programming/Golang/Условный оператор if.md",
+    "Programming/Golang/Указатели.md",
+    "Programming/Golang/Типы данных.md",
+    "Programming/Golang/Структуры.md",
     "Programming/Golang/Срезы.md",
+    "Programming/Golang/Переменные.md",
     "Programming/Golang/Пакеты.md",
+    "Programming/Golang/Основные операции.md",
+    "Programming/Golang/Область видимости.md",
+    "Programming/Golang/Нейминг.md",
+    "Programming/Golang/Массивы.md",
+    "Programming/Golang/Константы.md",
+    "Programming/Golang/Интерфейсы.md",
+    "Programming/Golang/Map.md",
+    "Cache/Pasted image 20250219080223.png",
+    "Cache/Pasted image 20250228185607.png",
+    "Cache/Pasted image 20250228185925.png",
+    "Cache/Pasted image 20250228190013.png",
     "Work/Rient/Рассылки.md",
     "Programming/Web/Node/Node.js.md",
     "Programming/Web/Node/Roadmap.canvas",
-    "Programming/Golang/Цикл for.md",
-    "Programming/Golang/Массивы.md",
-    "Programming/Golang/Область видимости.md",
-    "Programming/Golang/Указатели.md",
-    "Programming/Golang/Нейминг.md",
-    "Programming/Golang/Типы данных.md",
-    "Programming/Golang/Переменные.md",
-    "Programming/Golang/Основные операции.md",
-    "Programming/Golang/Условный оператор if.md",
-    "Programming/Golang/Обработка ошибок.md",
-    "Programming/Golang/Функции.md",
-    "Cache/Pasted image 20250228190013.png",
-    "Cache/Pasted image 20250228185925.png",
-    "Cache/Pasted image 20250228185607.png",
     "Programming/Golang/Fiber",
     "Programming/Golang/GORM",
     "Programming/Web/Libs/Libs.md",
@@ -254,9 +256,6 @@
     "Programming/Структуры данных/Массив.md",
     "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Системы управления версиями.md",
-    "Programming/Web/Node/Пакетные менеджеры.md",
-    "Number.md",
-    "Cache/Pasted image 20250219080223.png",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
     "Programming/Web/Node/Фреймворки/Libs",
