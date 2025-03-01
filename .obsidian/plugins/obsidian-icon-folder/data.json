@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLibrary",
-      "LiSnapToObject",
-      "LiTestTube2",
-      "LiGitCompareArrows",
-      "LiPackage"
+      "LiAppWindow",
+      "LiServer",
+      "IcDevCplusplusLine",
+      "IcDevGoOriginalWordmark",
+      "LiConstruction"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -75,5 +75,15 @@
   "Programming/Web/Node/Фреймворки/CSS/Tailwind/Tailwind.md": "IcDevTailwindcssPlain",
   "Programming/Web/Libs": "LiLibrary",
   "Programming/Web/Libs/Libs.md": "LiLibrary",
-  "Programming/Системы управления версиями.md": "LiGitCompareArrows"
+  "Programming/Системы управления версиями.md": "LiGitCompareArrows",
+  "Programming/Golang/GO.md": "IcDevGoOriginalWordmark",
+  "Programming/Golang/Обработка ошибок.md": "LiXOctagon",
+  "Programming/Golang/Пакеты.md": "LiArchive",
+  "Programming/Golang/Указатели.md": "LiPointer",
+  "Programming/Golang/Типы данных.md": "LiDatabase",
+  "Programming/Golang/Структуры.md": "LiConstruction",
+  "Programming/Golang": "IcDevGoOriginalWordmark",
+  "Programming/C++": "IcDevCplusplusLine",
+  "Programming/VPS": "LiServer",
+  "Programming/Golang/Интерфейсы.md": "LiAppWindow"
 }
