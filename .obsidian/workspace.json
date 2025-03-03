@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/Exercises/Exercises.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exercises"
+              "title": "Рассылки"
             }
           }
         ]
@@ -194,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -220,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "901de06f508ab4ab",
   "lastOpenFiles": [
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
