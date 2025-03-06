@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рассылки"
-            }
-          },
-          {
-            "id": "048a057e25d823ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Arch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Linux/Arch/Arch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Arch"
             }
           }
         ],
@@ -233,12 +221,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "048a057e25d823ca",
+  "active": "901de06f508ab4ab",
   "lastOpenFiles": [
+    "Work/Rient/Рассылки.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
     "Programming/Golang/Интерфейсы.md",
-    "Work/Rient/Рассылки.md",
     "Programming/Golang/GO.md",
     "Programming/Golang/Обработка ошибок.md",
     "Programming/Golang/Map.md",
