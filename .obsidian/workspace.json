@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch"
+              "title": "Рассылки"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -223,6 +223,7 @@
   },
   "active": "901de06f508ab4ab",
   "lastOpenFiles": [
+    "Linux/Arch/Arch.md",
     "Work/Rient/Рассылки.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
@@ -256,7 +257,6 @@
     "Programming/Golang",
     "Programming/Структуры данных/Деревья.md",
     "Programming/Структуры данных/Массив.md",
-    "Programming/Стили программирования/Парадигмы программирования.md",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
     "Programming/Web/Node/Фреймворки/Libs",
