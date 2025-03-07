@@ -194,13 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рассылки"
+              "title": "Outline"
             }
           }
         ],
@@ -221,10 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "901de06f508ab4ab",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
-    "Linux/Arch/Arch.md",
     "Work/Rient/Рассылки.md",
+    "Linux/Arch/Arch.md",
     "Programming/C++/Exercises/Exercises.md",
     "Programming/C++/Exercises/Calc.md",
     "Programming/Golang/Интерфейсы.md",
