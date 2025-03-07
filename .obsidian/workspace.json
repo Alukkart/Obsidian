@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/Data types/Symbol.md",
+                "file": "Programming/Typescript/Функции/IIFE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Symbol"
+              "title": "IIFE"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Typescript/Data types/Symbol.md",
+                "file": "Programming/Typescript/Функции/IIFE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Symbol"
+              "title": "Outline of IIFE"
             }
           }
         ],
@@ -223,8 +223,10 @@
   },
   "active": "901de06f508ab4ab",
   "lastOpenFiles": [
-    "Programming/Typescript/Data types/Ts data types.md",
     "Programming/Typescript/Data types/Symbol.md",
+    "Programming/Typescript/Функции/IIFE.md",
+    "Programming/Typescript/Функции",
+    "Programming/Typescript/Data types/Ts data types.md",
     "Programming/Typescript/Циклы и итераторы/do while.md",
     "Programming/Typescript/Циклы и итераторы/while.md",
     "Programming/Typescript/Циклы и итераторы",
@@ -249,7 +251,6 @@
     "Programming/Golang/Структуры.md",
     "Programming/Golang/Срезы.md",
     "Programming/Golang/Область видимости.md",
-    "Programming/Golang/Нейминг.md",
     "Cache/Pasted image 20250219080223.png",
     "Cache/Pasted image 20250228185607.png",
     "Cache/Pasted image 20250228185925.png",
@@ -264,7 +265,6 @@
     "Programming/Web/Libs",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Work/Rient/Untitled",
-    "Work/Rient",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
     "Cache/Pasted image 20240822002237.png",
