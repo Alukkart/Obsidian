@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/Циклы и итераторы/do while.md",
+                "file": "Programming/Typescript/Data types/Symbol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "do while"
+              "title": "Symbol"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Typescript/Циклы и итераторы/do while.md",
+                "file": "Programming/Typescript/Data types/Symbol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of do while"
+              "title": "Outline of Symbol"
             }
           }
         ],
@@ -223,8 +223,10 @@
   },
   "active": "901de06f508ab4ab",
   "lastOpenFiles": [
-    "Programming/Typescript/Циклы и итераторы/while.md",
+    "Programming/Typescript/Data types/Ts data types.md",
+    "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Циклы и итераторы/do while.md",
+    "Programming/Typescript/Циклы и итераторы/while.md",
     "Programming/Typescript/Циклы и итераторы",
     "Programming/Typescript/Statements/Switch case.md",
     "Programming/Typescript/Statements/Statements.md",
@@ -248,8 +250,6 @@
     "Programming/Golang/Срезы.md",
     "Programming/Golang/Область видимости.md",
     "Programming/Golang/Нейминг.md",
-    "Programming/Golang/Массивы.md",
-    "Programming/Golang/Константы.md",
     "Cache/Pasted image 20250219080223.png",
     "Cache/Pasted image 20250228185607.png",
     "Cache/Pasted image 20250228185925.png",
