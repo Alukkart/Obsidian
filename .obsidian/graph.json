@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Programming/Web/Node/Typescript  ",
+      "query": "path:Programming/Typescript  ",
       "color": {
         "a": 1,
         "rgb": 4094146

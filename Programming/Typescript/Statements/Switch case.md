@@ -1,4 +1,4 @@
-## Лучше чем несколько if
+## Лучше чем куча if
 ```ts
 switch(expression) { 
    case constant-expression1: { 

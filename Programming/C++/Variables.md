@@ -110,5 +110,5 @@ for (int &n : numbers) {
 }
 ```
 ## Связанное
-- [[String]]
+- [[Programming/C++/String]]
 - [[Arrays]]

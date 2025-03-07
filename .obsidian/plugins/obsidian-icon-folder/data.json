@@ -35,7 +35,6 @@
   },
   "Programming": "LiCode2",
   "Linux": "IcDevLinuxPlain",
-  "Programming/Web/Node/Typescript/Typescript.md": "IcDevTypescriptPlain",
   "Programming/Web/Resources.md": "LiAppWindow",
   "Programming/Web/Node/Node.js.md": "IcDevNodejsPlain",
   "Programming/ПО/Docker": "IcDevDockerPlainWordmark",
@@ -46,7 +45,6 @@
   "Programming/Web/Node/Prisma/Prisma.md": "LiPyramid",
   "Programming/Web/Node/Prisma/Schema.md": "LiPyramid",
   "Programming/Web/SEO.md": "LiSearch",
-  "Programming/Web/Node/Typescript": "IcDevTypescriptPlain",
   "Programming/Web/Node/Prisma/Client.md": "LiAppWindow",
   "Programming/Web/Node/Фреймворки/Бекэнд": "LiBrackets",
   "Programming/Web/Node/Фреймворки/Фуллстек": "LiBraces",
@@ -68,7 +66,6 @@
   "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Группы роутов.md": "LiGroup",
   "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Перенаправление.md": "LiRedo2",
   "Programming/Web/Web.md": "LiGlobe2",
-  "Programming/Web/Node/Typescript/Статический анализ кода.md": "LiBarChart2",
   "Programming/Web/Node/Пакетные менеджеры.md": "LiPackage",
   "Programming/Web/Node/Написание автоматизированных тестов.md": "LiTestTube2",
   "Programming/Стили программирования/Объектно-ориентированное программирование.md": "LiSnapToObject",
@@ -85,5 +82,8 @@
   "Programming/Golang": "IcDevGoOriginalWordmark",
   "Programming/C++": "IcDevCplusplusLine",
   "Programming/VPS": "LiServer",
-  "Programming/Golang/Интерфейсы.md": "LiAppWindow"
+  "Programming/Golang/Интерфейсы.md": "LiAppWindow",
+  "Programming/Typescript": "IcDevTypescriptPlain",
+  "Programming/Typescript/Typescript.md": "IcDevTypescriptPlain",
+  "Programming/Typescript/Статический анализ кода.md": "LiBarChart2"
 }

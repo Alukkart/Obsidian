@@ -4,7 +4,7 @@ let a:string = ''
 ```
 
 # Свойсва:
-- [[length]]
+- [[Length]]
 # Методы:
 - [[EndsWith]]
 - [[Repeat]]
