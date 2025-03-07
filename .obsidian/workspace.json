@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "IIFE"
             }
+          },
+          {
+            "id": "80bd2c231ad72575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Rient/Рассылки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Рассылки"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Typescript/Функции/IIFE.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IIFE"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -221,10 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "901de06f508ab4ab",
+  "active": "80bd2c231ad72575",
   "lastOpenFiles": [
-    "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Функции/IIFE.md",
+    "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Data types/Ts data types.md",
     "Programming/Typescript/Циклы и итераторы/do while.md",
