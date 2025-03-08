@@ -133,3 +133,4 @@ function sayMyName(name) {
 [[Ts data types]]
 [[Statements]]
 [[Структуры данных]]
+[[Programming/Typescript/Функции/Функции|Функции]]

@@ -2,3 +2,4 @@
 - [[Array]]
 - [[Number]]
 - [[Map obj|Map obj]]
+- [[Symbol]]
