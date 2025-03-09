@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Programming/Typescript/Функции/Остаточные парамтры.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рассылки"
+              "title": "Остаточные парамтры"
             }
           }
         ],
@@ -219,13 +219,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рассылки"
+              "title": "Outline"
             }
           }
         ],
@@ -246,8 +245,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80bd2c231ad72575",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Programming/Typescript/Функции/Остаточные парамтры.md",
+    "Programming/Typescript/Функции/Объект argument.md",
+    "Work/Rient/Рассылки.md",
     "Programming/Typescript/Циклы и итераторы/do while.md",
     "Programming/Typescript/Циклы и итераторы/while.md",
     "Programming/Typescript/Циклы и итераторы/Циклы.md",
@@ -256,7 +258,6 @@
     "Programming/Typescript/Data types/Ts data types.md",
     "Programming/ПО/Docker/PostgreSQL.md",
     "Programming/ПО/Docker/Docker.md",
-    "Work/Rient/Рассылки.md",
     "Programming/Typescript/Функции/IIFE.md",
     "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Функции",
@@ -274,8 +275,6 @@
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Переменные.md",
     "Programming/Golang/Пакеты.md",
-    "Programming/Golang/Основные операции.md",
-    "Programming/Golang/Цикл for.md",
     "Cache/Pasted image 20250219080223.png",
     "Cache/Pasted image 20250228185607.png",
     "Cache/Pasted image 20250228185925.png",
