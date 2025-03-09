@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/Циклы и итераторы/Циклы.md",
+                "file": "Programming/Typescript/Циклы и итераторы/do while.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Циклы"
+              "title": "do while"
             }
           }
         ],
@@ -219,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/Typescript/Циклы и итераторы/do while.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of do while"
             }
           }
         ],
@@ -245,8 +246,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "80bd2c231ad72575",
   "lastOpenFiles": [
+    "Programming/Typescript/Циклы и итераторы/while.md",
     "Programming/Typescript/Циклы и итераторы/Циклы.md",
     "Programming/Typescript/Typescript.md",
     "Programming/Typescript/Функции/Функции.md",
@@ -258,7 +260,6 @@
     "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы/do while.md",
-    "Programming/Typescript/Циклы и итераторы/while.md",
     "Programming/Typescript/Циклы и итераторы",
     "Programming/Typescript/Statements/Switch case.md",
     "Programming/Typescript/Statements/Statements.md",
