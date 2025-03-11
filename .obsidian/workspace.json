@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Дженерики.md",
+                "file": "Programming/Golang/Структуры.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Дженерики"
+              "title": "Структуры"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Дженерики.md",
+                "file": "Programming/Golang/Структуры.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Дженерики"
+              "title": "Outline of Структуры"
             }
           }
         ],
@@ -246,12 +246,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dad1860c6cdc5cf5",
+  "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
+    "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Дженерики.md",
     "Programming/Golang/Утверждение типа.md",
     "Programming/Golang/Переключение типов.md",
-    "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Типы данных.md",
     "Work/Rient/Рассылки.md",
     "Programming/Typescript/Функции/Остаточные парамтры.md",
