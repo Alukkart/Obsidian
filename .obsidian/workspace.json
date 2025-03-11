@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ПО/Docker/Docker.md",
+                "file": "Programming/Golang/Структуры.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Структуры"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ПО/Docker/Docker.md",
+                "file": "Programming/Golang/Структуры.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker"
+              "title": "Outline of Структуры"
             }
           }
         ],
@@ -248,6 +248,7 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
+    "Programming/ПО/Docker/Docker.md",
     "Programming/Golang/Errors Panic Recover.md",
     "Programming/Golang/Работа с JSON.md",
     "Programming/Golang/Указатели.md",
@@ -268,7 +269,6 @@
     "Programming/Typescript/Функции/Функции.md",
     "Programming/Typescript/Data types/Ts data types.md",
     "Programming/ПО/Docker/PostgreSQL.md",
-    "Programming/ПО/Docker/Docker.md",
     "Programming/Typescript/Функции/IIFE.md",
     "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Функции",
