@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Untitled.md",
+                "file": "Programming/Golang/Errors Panic Recover.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Errors Panic Recover"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Untitled.md",
+                "file": "Programming/Golang/Errors Panic Recover.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Errors Panic Recover"
             }
           }
         ],
@@ -249,7 +249,7 @@
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
     "Programming/Golang/Работа с JSON.md",
-    "Programming/Golang/Untitled.md",
+    "Programming/Golang/Errors Panic Recover.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Context (pkg).md",
     "Programming/Golang/Структуры.md",
