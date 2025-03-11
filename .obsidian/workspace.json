@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Errors Panic Recover.md",
+                "file": "Programming/ПО/Docker/Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Errors Panic Recover"
+              "title": "Docker"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Errors Panic Recover.md",
+                "file": "Programming/ПО/Docker/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Errors Panic Recover"
+              "title": "Outline of Docker"
             }
           }
         ],
@@ -248,8 +248,8 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
-    "Programming/Golang/Работа с JSON.md",
     "Programming/Golang/Errors Panic Recover.md",
+    "Programming/Golang/Работа с JSON.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Context (pkg).md",
     "Programming/Golang/Структуры.md",
