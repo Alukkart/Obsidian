@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Структуры.md",
+                "file": "Programming/Golang/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Структуры"
+              "title": "Untitled"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Структуры.md",
+                "file": "Programming/Golang/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Структуры"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -248,6 +248,11 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
+    "Programming/Golang/Работа с JSON.md",
+    "Programming/Golang/Untitled.md",
+    "Programming/Golang/Указатели.md",
+    "Programming/Golang/Context (pkg).md",
+    "Programming/Golang/Структуры.md",
     "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Дженерики.md",
     "Programming/Golang/Утверждение типа.md",
@@ -271,11 +276,6 @@
     "Programming/Typescript/Statements/Switch case.md",
     "Programming/Typescript/Statements/Statements.md",
     "Linux/Arch/Arch.md",
-    "Programming/C++/Exercises/Exercises.md",
-    "Programming/C++/Exercises/Calc.md",
-    "Programming/Golang/GO.md",
-    "Programming/Golang/Обработка ошибок.md",
-    "Programming/Golang/Map.md",
     "Cache/Pasted image 20250219080223.png",
     "Cache/Pasted image 20250228185607.png",
     "Cache/Pasted image 20250228185925.png",
