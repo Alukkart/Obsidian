@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Структуры.md",
+                "file": "Programming/Golang/Работа с JSON.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Структуры"
+              "title": "Работа с JSON"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Структуры.md",
+                "file": "Programming/Golang/Работа с JSON.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Структуры"
+              "title": "Outline of Работа с JSON"
             }
           }
         ],
@@ -248,12 +248,12 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
+    "Programming/Golang/Структуры.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Golang/Errors Panic Recover.md",
     "Programming/Golang/Работа с JSON.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Context (pkg).md",
-    "Programming/Golang/Структуры.md",
     "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Дженерики.md",
     "Programming/Golang/Утверждение типа.md",
