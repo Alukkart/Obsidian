@@ -248,10 +248,10 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
-    "Programming/Golang/Структуры.md",
-    "Programming/ПО/Docker/Docker.md",
     "Programming/Golang/Errors Panic Recover.md",
     "Programming/Golang/Работа с JSON.md",
+    "Programming/Golang/Структуры.md",
+    "Programming/ПО/Docker/Docker.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Context (pkg).md",
     "Programming/Golang/Интерфейсы.md",
