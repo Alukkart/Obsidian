@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/Типы данных/Ts data types.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ts data types"
+              "title": "Рассылки"
             }
           }
         ],
@@ -247,6 +247,7 @@
   },
   "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Work/Rient/Рассылки.md",
     "Programming/Typescript/Типы данных/Ts data types.md",
     "Programming/Typescript/Выражения и операторы",
     "Programming/Typescript/Типы данных/Коллекции/Коллекции.md",
@@ -271,7 +272,6 @@
     "Programming/Golang/Утверждение типа.md",
     "Programming/Golang/Переключение типов.md",
     "Programming/Golang/Типы данных.md",
-    "Work/Rient/Рассылки.md",
     "Programming/Typescript/Функции/Остаточные парамтры.md",
     "Programming/Typescript/Функции/Объект argument.md",
     "Programming/Typescript/Циклы и итераторы/do while.md",
