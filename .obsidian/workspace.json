@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/Коллекции/Коллекции.md",
+                "file": "Programming/Typescript/Унарные операторы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Коллекции"
+              "title": "Унарные операторы"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Typescript/Коллекции/Коллекции.md",
+                "file": "Programming/Typescript/Унарные операторы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Коллекции"
+              "title": "Outline of Унарные операторы"
             }
           }
         ],
@@ -248,8 +248,9 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
-    "Programming/Typescript/Коллекции/Map.md",
     "Programming/Typescript/Коллекции/Коллекции.md",
+    "Programming/Typescript/Унарные операторы.md",
+    "Programming/Typescript/Коллекции/Map.md",
     "Programming/Typescript/Коллекции/Set.md",
     "Programming/Typescript/Data types/Map obj/Map obj.md",
     "Programming/Typescript/Коллекции/WeakSet.md",
@@ -275,7 +276,6 @@
     "Programming/Typescript/Циклы и итераторы/Циклы.md",
     "Programming/Typescript/Typescript.md",
     "Programming/Typescript/Функции/Функции.md",
-    "Programming/Typescript/Data types/Ts data types.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
     "Cache/Pasted image 20250219080223.png",
