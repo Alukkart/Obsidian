@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Typescript/Унарные операторы.md",
+                "file": "Programming/Typescript/Типы данных/Ts data types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Унарные операторы"
+              "title": "Ts data types"
             }
           }
         ],
@@ -219,13 +219,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Typescript/Унарные операторы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Унарные операторы"
+              "title": "Outline"
             }
           }
         ],
@@ -246,18 +245,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebd457a6390c6c4a",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
-    "Programming/Typescript/Коллекции/Коллекции.md",
-    "Programming/Typescript/Унарные операторы.md",
-    "Programming/Typescript/Коллекции/Map.md",
-    "Programming/Typescript/Коллекции/Set.md",
+    "Programming/Typescript/Типы данных/Ts data types.md",
+    "Programming/Typescript/Выражения и операторы",
+    "Programming/Typescript/Типы данных/Коллекции/Коллекции.md",
+    "Programming/Typescript/Типы данных/Arrays/Untitled.md",
+    "Programming/Golang/GO.md",
+    "Programming/Typescript/Выражения и операторы/Унарные операторы.md",
+    "Programming/Typescript/Типы данных/Коллекции/Map.md",
+    "Programming/Typescript/Типы данных/Коллекции/Set.md",
     "Programming/Typescript/Data types/Map obj/Map obj.md",
-    "Programming/Typescript/Коллекции/WeakSet.md",
-    "Programming/Typescript/Коллекции/WeakMap.md",
+    "Programming/Typescript/Типы данных/Коллекции/WeakSet.md",
+    "Programming/Typescript/Типы данных/Коллекции/WeakMap.md",
     "Programming/Golang/Работа с JSON.md",
     "Programming/Typescript/Untitled 1",
-    "Programming/Typescript/Коллекции",
+    "Programming/Typescript/Типы данных/Коллекции",
     "Programming/Golang/Errors Panic Recover.md",
     "Programming/Golang/Структуры.md",
     "Programming/ПО/Docker/Docker.md",
@@ -272,10 +275,6 @@
     "Programming/Typescript/Функции/Остаточные парамтры.md",
     "Programming/Typescript/Функции/Объект argument.md",
     "Programming/Typescript/Циклы и итераторы/do while.md",
-    "Programming/Typescript/Циклы и итераторы/while.md",
-    "Programming/Typescript/Циклы и итераторы/Циклы.md",
-    "Programming/Typescript/Typescript.md",
-    "Programming/Typescript/Функции/Функции.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
     "Cache/Pasted image 20250219080223.png",
@@ -288,7 +287,6 @@
     "Programming/Golang",
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
-    "Programming/Web/Node/Фреймворки/Libs",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
