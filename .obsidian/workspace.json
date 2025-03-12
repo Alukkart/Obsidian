@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Работа с JSON.md",
+                "file": "Programming/Typescript/Коллекции/Коллекции.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Работа с JSON"
+              "title": "Коллекции"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Работа с JSON.md",
+                "file": "Programming/Typescript/Коллекции/Коллекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Работа с JSON"
+              "title": "Outline of Коллекции"
             }
           }
         ],
@@ -248,8 +248,16 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
-    "Programming/Golang/Errors Panic Recover.md",
+    "Programming/Typescript/Коллекции/Map.md",
+    "Programming/Typescript/Коллекции/Коллекции.md",
+    "Programming/Typescript/Коллекции/Set.md",
+    "Programming/Typescript/Data types/Map obj/Map obj.md",
+    "Programming/Typescript/Коллекции/WeakSet.md",
+    "Programming/Typescript/Коллекции/WeakMap.md",
     "Programming/Golang/Работа с JSON.md",
+    "Programming/Typescript/Untitled 1",
+    "Programming/Typescript/Коллекции",
+    "Programming/Golang/Errors Panic Recover.md",
     "Programming/Golang/Структуры.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Golang/Указатели.md",
@@ -268,14 +276,8 @@
     "Programming/Typescript/Typescript.md",
     "Programming/Typescript/Функции/Функции.md",
     "Programming/Typescript/Data types/Ts data types.md",
-    "Programming/ПО/Docker/PostgreSQL.md",
-    "Programming/Typescript/Функции/IIFE.md",
-    "Programming/Typescript/Data types/Symbol.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
-    "Programming/Typescript/Statements/Switch case.md",
-    "Programming/Typescript/Statements/Statements.md",
-    "Linux/Arch/Arch.md",
     "Cache/Pasted image 20250219080223.png",
     "Cache/Pasted image 20250228185607.png",
     "Cache/Pasted image 20250228185925.png",
@@ -287,9 +289,7 @@
     "Programming/Структуры данных",
     "Programming/Алгоритмы",
     "Programming/Web/Node/Фреймворки/Libs",
-    "Programming/Web/Libs",
     "Programming/Web/Node/Фреймворки/Фуллстек/Next.js/Next.js Project Structure.canvas",
-    "Work/Rient/Untitled",
     "Cache/Pasted image 20240911161616.png",
     "Cache/Pasted image 20240911161156.png",
     "Cache/Pasted image 20240822002237.png",
