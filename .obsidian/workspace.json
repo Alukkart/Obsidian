@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/Утверждение типа.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Утверждение типа"
+              "title": "Рассылки"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "деревья",
+                "query": "new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Golang/Утверждение типа.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Утверждение типа"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -223,6 +223,7 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
+    "Programming/Golang/Утверждение типа.md",
     "Programming/ПО/Docker/Docker.md",
     "Work/Rient/Рассылки.md",
     "Programming/Web/Libs/Libs.md",
@@ -246,7 +247,6 @@
     "Programming/Golang/Context (pkg).md",
     "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Дженерики.md",
-    "Programming/Golang/Утверждение типа.md",
     "Programming/Golang/Переключение типов.md",
     "Programming/Golang/Типы данных.md",
     "Programming/Typescript/Функции/Остаточные парамтры.md",
