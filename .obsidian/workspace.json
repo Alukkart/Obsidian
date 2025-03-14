@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Libs/Libs.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Libs"
+              "title": "Рассылки"
             }
           }
         ],
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Libs/Libs.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Libs"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -248,6 +248,7 @@
   },
   "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
+    "Programming/Web/Libs/Libs.md",
     "Work/Rient/Рассылки.md",
     "Programming/Typescript/Типы данных/Ts data types.md",
     "Programming/Typescript/Выражения и операторы",
