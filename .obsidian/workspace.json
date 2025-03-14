@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Linux/Arch/Yay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рассылки"
+              "title": "Yay"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Linux/Arch/Yay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рассылки"
+              "title": "Outline of Yay"
             }
           }
         ],
@@ -223,9 +223,10 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
+    "Linux/Arch/Pacman.md",
+    "Work/Rient/Рассылки.md",
     "Programming/Golang/Утверждение типа.md",
     "Programming/ПО/Docker/Docker.md",
-    "Work/Rient/Рассылки.md",
     "Programming/Web/Libs/Libs.md",
     "Programming/Typescript/Типы данных/Ts data types.md",
     "Programming/Typescript/Выражения и операторы",
@@ -251,7 +252,6 @@
     "Programming/Golang/Типы данных.md",
     "Programming/Typescript/Функции/Остаточные парамтры.md",
     "Programming/Typescript/Функции/Объект argument.md",
-    "Programming/Typescript/Циклы и итераторы/do while.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
     "Cache/Pasted image 20250219080223.png",
