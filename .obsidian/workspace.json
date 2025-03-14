@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Programming/Web/Libs/Libs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рассылки"
+              "title": "Libs"
             }
           }
         ],
@@ -219,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming/Web/Libs/Libs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Libs"
             }
           }
         ],
@@ -245,7 +246,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6530cb1def2d8d8b",
+  "active": "ebd457a6390c6c4a",
   "lastOpenFiles": [
     "Work/Rient/Рассылки.md",
     "Programming/Typescript/Типы данных/Ts data types.md",
