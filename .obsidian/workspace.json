@@ -194,13 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ПО/Docker/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker"
+              "title": "Outline"
             }
           }
         ],
@@ -221,13 +220,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b25beaebcd73c33",
+  "active": "6530cb1def2d8d8b",
   "lastOpenFiles": [
+    "Programming/ПО/Docker/Docker.md",
     "Work/Rient/Рассылки.md",
     "Linux/Arch/Yay.md",
     "Linux/Arch/Pacman.md",
     "Programming/Golang/Утверждение типа.md",
-    "Programming/ПО/Docker/Docker.md",
     "Programming/Web/Libs/Libs.md",
     "Programming/Typescript/Типы данных/Ts data types.md",
     "Programming/Typescript/Выражения и операторы",
