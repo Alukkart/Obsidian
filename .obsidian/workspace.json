@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch"
+              "title": "Рассылки"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -223,6 +223,7 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
+    "Linux/Arch/Arch.md",
     "Linux/Arch/Flatpak.md",
     "Linux/Arch/Roblex.md",
     "Programming/ПО/Docker/Docker.md",
@@ -251,7 +252,6 @@
     "Programming/Golang/Context (pkg).md",
     "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Дженерики.md",
-    "Programming/Golang/Переключение типов.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
     "Cache/Pasted image 20250219080223.png",
