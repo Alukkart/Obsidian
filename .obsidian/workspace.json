@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Roblex.md",
+                "file": "Linux/Arch/Arch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roblex"
+              "title": "Arch"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Roblex.md",
+                "file": "Linux/Arch/Arch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Roblex"
+              "title": "Outline of Arch"
             }
           }
         ],
@@ -223,6 +223,7 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
+    "Linux/Arch/Flatpak.md",
     "Linux/Arch/Roblex.md",
     "Programming/ПО/Docker/Docker.md",
     "Work/Rient/Рассылки.md",
@@ -251,7 +252,6 @@
     "Programming/Golang/Интерфейсы.md",
     "Programming/Golang/Дженерики.md",
     "Programming/Golang/Переключение типов.md",
-    "Programming/Golang/Типы данных.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
     "Cache/Pasted image 20250219080223.png",
