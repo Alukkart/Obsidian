@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ПО/Docker/Docker.md",
+                "file": "Work/Rient/Рассылки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Рассылки"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/ПО/Docker/Docker.md",
+                "file": "Work/Rient/Рассылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker"
+              "title": "Outline of Рассылки"
             }
           }
         ],
@@ -223,11 +223,11 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
+    "Programming/ПО/Docker/Docker.md",
     "Work/Rient/Рассылки.md",
     "Linux/Arch/Arch.md",
     "Linux/Arch/Flatpak.md",
     "Linux/Arch/Roblex.md",
-    "Programming/ПО/Docker/Docker.md",
     "Linux/Arch/Yay.md",
     "Linux/Arch/Pacman.md",
     "Programming/Golang/Утверждение типа.md",
