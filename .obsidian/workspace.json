@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Linux/Arch/Yay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рассылки"
+              "title": "Yay"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Rient/Рассылки.md",
+                "file": "Linux/Arch/Yay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рассылки"
+              "title": "Outline of Yay"
             }
           }
         ],
@@ -223,13 +223,13 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
-    "Programming/ПО/Docker/Docker.md",
-    "Work/Rient/Рассылки.md",
     "Linux/Arch/Arch.md",
-    "Linux/Arch/Flatpak.md",
-    "Linux/Arch/Roblex.md",
     "Linux/Arch/Yay.md",
     "Linux/Arch/Pacman.md",
+    "Work/Rient/Рассылки.md",
+    "Programming/ПО/Docker/Docker.md",
+    "Linux/Arch/Flatpak.md",
+    "Linux/Arch/Roblex.md",
     "Programming/Golang/Утверждение типа.md",
     "Programming/Web/Libs/Libs.md",
     "Programming/Typescript/Типы данных/Ts data types.md",
