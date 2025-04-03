@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Work/Rient/Фильтры клиентов.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch"
+              "title": "Фильтры клиентов"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch/Arch.md",
+                "file": "Work/Rient/Фильтры клиентов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch"
+              "title": "Outline of Фильтры клиентов"
             }
           }
         ],
@@ -223,13 +223,14 @@
   },
   "active": "3b25beaebcd73c33",
   "lastOpenFiles": [
+    "Work/Rient/Рассылки.md",
+    "Work/Rient/Фильтры клиентов.md",
+    "Linux/Arch/Arch.md",
     "Linux/Linux.md",
     "Linux/Arch/Yay.md",
-    "Linux/Arch/Arch.md",
     "Linux/Arch/Flatpak.md",
     "Linux/Arch/Pacman.md",
     "Linux/Arch/Roblex.md",
-    "Work/Rient/Рассылки.md",
     "Programming/ПО/Docker/Docker.md",
     "Programming/Golang/Утверждение типа.md",
     "Programming/Web/Libs/Libs.md",
@@ -251,7 +252,6 @@
     "Programming/Golang/Структуры.md",
     "Programming/Golang/Указатели.md",
     "Programming/Golang/Context (pkg).md",
-    "Programming/Golang/Интерфейсы.md",
     "Programming/Typescript/Функции",
     "Programming/Typescript/Циклы и итераторы",
     "Cache/Pasted image 20250219080223.png",
